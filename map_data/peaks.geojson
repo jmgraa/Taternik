@@ -1,0 +1,7431 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-17T17:30:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321624997",
+        "ele": "2376",
+        "ele:bpv": "2375.95",
+        "name": "Cubryna / \u010cubrina",
+        "name:pl": "Cubryna",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0536809,
+          49.1878013
+        ]
+      },
+      "id": "node/321624997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355985949",
+        "ele": "2155",
+        "name": "Ko\u015bcielec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0145834,
+          49.2251794
+        ]
+      },
+      "id": "node/355985949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380745908",
+        "ele": "2367",
+        "ele:bpv": "2366.08",
+        "name": "K\u00f4provsk\u00fd \u0161t\u00edt",
+        "name:pl": "Koprowy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0482464,
+          49.182374
+        ]
+      },
+      "id": "node/380745908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385092713",
+        "ele": "2227",
+        "ele:bpv": "2231.82",
+        "name": "Mengusovsk\u00fd Volovec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0675358,
+          49.1759435
+        ]
+      },
+      "id": "node/385092713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385103809",
+        "ele": "2410",
+        "name": "Mi\u0119guszowiecki Szczyt Czarny / V\u00fdchodn\u00fd Mengusovsk\u00fd \u0161t\u00edt",
+        "name:pl": "Mi\u0119guszowiecki Szczyt Czarny",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0674662,
+          49.1828242
+        ]
+      },
+      "id": "node/385103809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385106041",
+        "ele": "2373",
+        "ele:bpv": "2373.41",
+        "name": "Volia ve\u017ea / Wo\u0142owa Turnia",
+        "name:pl": "Wo\u0142owa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0751157,
+          49.1789015
+        ]
+      },
+      "id": "node/385106041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385106042",
+        "ele": "2263",
+        "ele:bpv": "2259.49",
+        "name": "Ve\u013ek\u00fd \u017dab\u00ed \u0161t\u00edt / \u017babi Szczyt Wy\u017cni",
+        "name:pl": "\u017babi Szczyt Wy\u017cni",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0892494,
+          49.1878465
+        ]
+      },
+      "id": "node/385106042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385107932",
+        "ele": "2156",
+        "ele:bpv": "2156.15",
+        "name": "Valentkov\u00e1 / Walentkowy Wierch",
+        "name:pl": "Walentkowy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0068154,
+          49.2134347
+        ]
+      },
+      "id": "node/385107932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385115017",
+        "ele": "2430",
+        "ele:bpv": "2430.83",
+        "name": "Mal\u00e9 Rysy / Ni\u017cnie Rysy",
+        "name:pl": "Ni\u017cnie Rysy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0880078,
+          49.1833905
+        ]
+      },
+      "id": "node/385115017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385115021",
+        "ele": "2097",
+        "name": "Krajn\u00e1 Kopa / Skrajna Turnia",
+        "name:pl": "Skrajna Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9985527,
+          49.2231585
+        ]
+      },
+      "id": "node/385115021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385123541",
+        "ele": "2065",
+        "name": "G\u0142adki Wierch / Hladk\u00fd \u0161t\u00edt",
+        "name:pl": "G\u0142adki Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0134135,
+          49.2067762
+        ]
+      },
+      "id": "node/385123541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385123800",
+        "ele": "2172",
+        "name": "Druh\u00fd Mn\u00edch / Zadni Mnich",
+        "name:pl": "Zadni Mnich",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0503572,
+          49.1895224
+        ]
+      },
+      "id": "node/385123800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430646675",
+        "ele": "2012",
+        "name": "Beskid / Beskyd",
+        "name:pl": "Beskid",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9879231,
+          49.2282368
+        ]
+      },
+      "id": "node/430646675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/452477062",
+        "ele": "2172.1",
+        "name": "Hrub\u00fd \u0161t\u00edt / Szpiglasowy Wierch",
+        "name:pl": "Szpiglasowy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0401058,
+          49.1972908
+        ]
+      },
+      "id": "node/452477062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/452477312",
+        "ele": "2055",
+        "name": "Ni\u017cni Kostur / Ni\u017en\u00fd kost\u00far",
+        "name:pl": "Ni\u017cni Kostur",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0322557,
+          49.1999582
+        ]
+      },
+      "id": "node/452477312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460928032",
+        "ele": "2226",
+        "name": "Ma\u0142y Kozi Wierch",
+        "name:pl": "Ma\u0142y Kozi Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.020038,
+          49.2189222
+        ]
+      },
+      "id": "node/460928032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460928401",
+        "ele": "2291",
+        "name": "Kozi Wierch",
+        "name:pl": "Kozi Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0287051,
+          49.2183172
+        ]
+      },
+      "id": "node/460928401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469733583",
+        "ele": "1378",
+        "name": "Sarnia Ska\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9410007,
+          49.2648986
+        ]
+      },
+      "id": "node/469733583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495300329",
+        "ele": "2050",
+        "ele:bpv": "2052.22",
+        "name": "Ostredok",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7932674,
+          49.1781191
+        ]
+      },
+      "id": "node/495300329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495956991",
+        "ele": "2194",
+        "ele:bpv": "2193.84",
+        "name": "Jakubina",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8012755,
+          49.1932511
+        ]
+      },
+      "id": "node/495956991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495957128",
+        "ele": "2159",
+        "name": "Bly\u0161\u0165 / B\u0142yszcz",
+        "name:pl": "B\u0142yszcz",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8409972,
+          49.1926302
+        ]
+      },
+      "id": "node/495957128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495957137",
+        "ele": "2248",
+        "ele:bpv": "2248.12",
+        "name": "Bystr\u00e1",
+        "name:pl": "Bystra",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8425872,
+          49.1886176
+        ]
+      },
+      "id": "node/495957137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496805357",
+        "ele": "2096",
+        "name": "Ciemniak / Temniak",
+        "name:pl": "Ciemniak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9034053,
+          49.2310073
+        ]
+      },
+      "id": "node/496805357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496805360",
+        "ele": "2096",
+        "name": "Malolu\u010dniak / Ma\u0142o\u0142\u0105czniak",
+        "name:pl": "Ma\u0142o\u0142\u0105czniak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9192231,
+          49.2358298
+        ]
+      },
+      "id": "node/496805360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605282324",
+        "ele": "2349",
+        "name": "Zadn\u00e1 Garajova ve\u017ea",
+        "name:pl": "Zadnia Garajowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0100728,
+          49.1768626
+        ]
+      },
+      "id": "node/605282324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605282343",
+        "ele": "1979",
+        "ele:bpv": "1979.37",
+        "name": "Tich\u00fd vrch",
+        "name:pl": "Cichy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0052203,
+          49.2011513
+        ]
+      },
+      "id": "node/605282343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605282386",
+        "ele": "2068",
+        "name": "Mnich",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0549059,
+          49.1926757
+        ]
+      },
+      "id": "node/605282386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605282389",
+        "ele": "2254",
+        "ele:bpv": "2255.00",
+        "name": "\u0164a\u017ek\u00e1 ve\u017ea",
+        "name:pl": "Ci\u0119\u017cka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0939127,
+          49.183297
+        ]
+      },
+      "id": "node/605282389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605282395",
+        "ele": "2197",
+        "name": "Ka\u010dacia ve\u017ea",
+        "name:pl": "Kacza Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1051543,
+          49.177328
+        ]
+      },
+      "id": "node/605282395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605282396",
+        "ele": "1973",
+        "name": "Mal\u00fd Mlyn\u00e1r",
+        "name:pl": "Ma\u0142y M\u0142ynarz",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1018938,
+          49.1991126
+        ]
+      },
+      "id": "node/605282396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615589377",
+        "ele": "2438",
+        "name": "Mi\u0119guszowiecki Szczyt Wielki / Ve\u013ek\u00fd Mengusovsk\u00fd \u0161t\u00edt",
+        "name:pl": "Mi\u0119guszowiecki Szczyt Wielki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0592982,
+          49.18703
+        ]
+      },
+      "id": "node/615589377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615589972",
+        "ele": "2410",
+        "name": "Ni\u017cne Rysy, Zadnia Turnia / Mal\u00e9 Rysy, Zadn\u00e1 ve\u017ea",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0873832,
+          49.1839009
+        ]
+      },
+      "id": "node/615589972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615736220",
+        "ele": "1665",
+        "ele:bpv": "1664.71",
+        "name": "Bobrowiec / Bobrovec",
+        "name:pl": "Bobrowiec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7846935,
+          49.2462266
+        ]
+      },
+      "id": "node/615736220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803761539",
+        "ele": "1489",
+        "name": "G\u0119sia Szyja",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0765188,
+          49.2590286
+        ]
+      },
+      "id": "node/803761539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803761542",
+        "ele": "1653",
+        "ele:bpv": "1652.82",
+        "name": "Grze\u015b / L\u00fa\u010dna",
+        "name:pl": "Grze\u015b",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7666402,
+          49.2366407
+        ]
+      },
+      "id": "node/803761542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/946080669",
+        "ele": "1879",
+        "name": "Rako\u0144 / R\u00e1ko\u0148",
+        "name:pl": "Rako\u0144",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7584624,
+          49.215958
+        ]
+      },
+      "id": "node/946080669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103336843",
+        "ele": "1205.7",
+        "name": "Nosal",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.989459,
+          49.2764311
+        ]
+      },
+      "id": "node/1103336843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103336859",
+        "ele": "1219",
+        "name": "Nieborak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9910744,
+          49.2681871
+        ]
+      },
+      "id": "node/1103336859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103423432",
+        "ele": "2233",
+        "name": "Miedziane",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0473711,
+          49.2010232
+        ]
+      },
+      "id": "node/1103423432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103423820",
+        "ele": "2115",
+        "name": "Opalony Wierch",
+        "name:pl": "Opalony Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0590427,
+          49.2074941
+        ]
+      },
+      "id": "node/1103423820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103562910",
+        "ele": "2083",
+        "ele:bpv": "2079.51",
+        "name": "Vy\u0161n\u00fd kost\u00far / Wy\u017cni Kostur",
+        "name:pl": "Wy\u017cni Kostur",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0333875,
+          49.1992073
+        ]
+      },
+      "id": "node/1103562910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103562966",
+        "name": "Zmarz\u0142e Czuby",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0203405,
+          49.2189274
+        ]
+      },
+      "id": "node/1103562966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103562984",
+        "ele": "1812",
+        "name": "Nied\u017awied\u017a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0485055,
+          49.2073905
+        ]
+      },
+      "id": "node/1103562984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103563004",
+        "ele": "2179",
+        "name": "Zamar\u0142a Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0242927,
+          49.2194257
+        ]
+      },
+      "id": "node/1103563004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103563228",
+        "ele": "2262",
+        "name": "Niebieska Turnia",
+        "name:pl": "Niebieska Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.013733,
+          49.219653
+        ]
+      },
+      "id": "node/1103563228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103563275",
+        "ele": "2263",
+        "name": "Kozie Czuby",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0276479,
+          49.2186808
+        ]
+      },
+      "id": "node/1103563275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103563283",
+        "ele": "2242",
+        "name": "Buczynowa Stra\u017cnica",
+        "name:pl": "Buczynowa Stra\u017cnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0338276,
+          49.2202917
+        ]
+      },
+      "id": "node/1103563283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1158722712",
+        "ele": "2225",
+        "name": "Vy\u0161n\u00fd Prostredn\u00fd chrb\u00e1t",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.040008,
+          49.1839253
+        ]
+      },
+      "id": "node/1158722712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294543765",
+        "ele": "1329",
+        "name": "Ma\u0142y Kopieniec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8105055,
+          49.2349301
+        ]
+      },
+      "id": "node/1294543765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294543790",
+        "ele": "1958",
+        "name": "Derav\u00e1 / \u0141opata",
+        "name:pl": "\u0141opata",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7785794,
+          49.2050038
+        ]
+      },
+      "id": "node/1294543790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294543793",
+        "ele": "1846",
+        "name": "Czubik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8079495,
+          49.2127021
+        ]
+      },
+      "id": "node/1294543793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294543814",
+        "ele": "1758",
+        "name": "Trzydniowia\u0144ski Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8037262,
+          49.2191036
+        ]
+      },
+      "id": "node/1294543814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294543835",
+        "ele": "2176",
+        "ele:bpv": "2175.85",
+        "name": "Klin / Starorobocia\u0144ski Wierch",
+        "name:pl": "Starorobocia\u0144ski Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8199409,
+          49.199371
+        ]
+      },
+      "id": "node/1294543835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294543842",
+        "ele": "2002",
+        "name": "Kon\u010dist\u00e1 / Ko\u0144czysty Wierch",
+        "name:pl": "Ko\u0144czysty Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8075854,
+          49.2056581
+        ]
+      },
+      "id": "node/1294543842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294543865",
+        "ele": "1257",
+        "name": "Wielki Kopieniec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8099993,
+          49.2393485
+        ]
+      },
+      "id": "node/1294543865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294577864",
+        "ele": "1965",
+        "name": "Siv\u00e1 ve\u017ea / Siwy Zwornik",
+        "name:pl": "Siwy Zwornik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8295433,
+          49.2016538
+        ]
+      },
+      "id": "node/1294577864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1294577934",
+        "ele": "1854",
+        "name": "Ornak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8329494,
+          49.2190459
+        ]
+      },
+      "id": "node/1294577934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278125",
+        "ele": "1874",
+        "name": "Po\u015bredni Goryczkowy Wierch / Prostredn\u00fd Gori\u010dkov\u00fd vrch",
+        "name:pl": "Po\u015bredni Goryczkowy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9661663,
+          49.2312889
+        ]
+      },
+      "id": "node/1295278125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278129",
+        "ele": "1383",
+        "name": "Kalacka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9642565,
+          49.255875
+        ]
+      },
+      "id": "node/1295278129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278131",
+        "ele": "1696",
+        "name": "Sucha Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9776443,
+          49.2409266
+        ]
+      },
+      "id": "node/1295278131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278134",
+        "ele": "1867",
+        "name": "D\u0142ugi Giewont",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9381505,
+          49.2520873
+        ]
+      },
+      "id": "node/1295278134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278137",
+        "ele": "1912",
+        "name": "Gori\u010dkova kopa / Goryczkowa Czuba",
+        "name:pl": "Goryczkowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9576008,
+          49.2322686
+        ]
+      },
+      "id": "node/1295278137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278143",
+        "ele": "1894.5",
+        "name": "Wielki Giewont",
+        "name:pl": "Wielki Giewont",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9341016,
+          49.2509538
+        ]
+      },
+      "id": "node/1295278143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278146",
+        "ele": "1601",
+        "name": "Kalacka Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9537582,
+          49.2544292
+        ]
+      },
+      "id": "node/1295278146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278148",
+        "ele": "1893",
+        "name": "Suchy Wierch Kondracki / Such\u00e1 kopa",
+        "name:pl": "Suchy Wierch Kondracki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9403201,
+          49.2336471
+        ]
+      },
+      "id": "node/1295278148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278153",
+        "ele": "1539",
+        "name": "Suchy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.942429,
+          49.2580116
+        ]
+      },
+      "id": "node/1295278153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295278154",
+        "ele": "1354",
+        "name": "My\u015blenickie Turnie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9737831,
+          49.2519125
+        ]
+      },
+      "id": "node/1295278154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341384",
+        "ele": "1608",
+        "name": "Up\u0142azkowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8791596,
+          49.2375175
+        ]
+      },
+      "id": "node/1295341384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341387",
+        "ele": "1977",
+        "ele:bpv": "1977.27",
+        "name": "Po\u013esk\u00e1 Tomanov\u00e1 / Tomanowy Wierch Polski",
+        "name:pl": "Tomanowy Wierch Polski",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9023403,
+          49.2133146
+        ]
+      },
+      "id": "node/1295341387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341388",
+        "ele": "1796",
+        "name": "Up\u0142azia\u0144ska Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8897333,
+          49.2395142
+        ]
+      },
+      "id": "node/1295341388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341390",
+        "ele": "2067",
+        "name": "Smreczy\u0144ski Wierch / Smre\u010diny",
+        "name:pl": "Smreczy\u0144ski Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8808558,
+          49.2042061
+        ]
+      },
+      "id": "node/1295341390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341391",
+        "ele": "1643",
+        "name": "Wysoka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8827983,
+          49.2360508
+        ]
+      },
+      "id": "node/1295341391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341393",
+        "ele": "2026",
+        "name": "Twarda Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9003,
+          49.2346773
+        ]
+      },
+      "id": "node/1295341393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341394",
+        "ele": "1869",
+        "name": "Suchy Wierch Tomanowy / Such\u00fd vrch",
+        "name:pl": "Suchy Wierch Tomanowy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9019256,
+          49.216583
+        ]
+      },
+      "id": "node/1295341394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341396",
+        "ele": "1943",
+        "ele:bpv": "1942.55",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9038909,
+          49.2256031
+        ]
+      },
+      "id": "node/1295341396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341398",
+        "ele": "1434",
+        "name": "Zameczki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.950552,
+          49.25907
+        ]
+      },
+      "id": "node/1295341398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341400",
+        "ele": "2127",
+        "ele:bpv": "2127.23",
+        "name": "Ve\u013ek\u00e1 Kamenist\u00e1 / Kamienista",
+        "name:pl": "Kamienista",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8705692,
+          49.1953437
+        ]
+      },
+      "id": "node/1295341400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341401",
+        "ele": "1858",
+        "name": "Chuda Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8951661,
+          49.2382136
+        ]
+      },
+      "id": "node/1295341401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341402",
+        "ele": "2122",
+        "ele:bpv": "2122.23",
+        "name": "Kresanica / Krzesanica",
+        "name:pl": "Krzesanica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9094918,
+          49.2316647
+        ]
+      },
+      "id": "node/1295341402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295341403",
+        "ele": "1446.7",
+        "name": "\u0141ysanki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9154426,
+          49.2621551
+        ]
+      },
+      "id": "node/1295341403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379308",
+        "ele": "1766",
+        "name": "Czerwony Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7815741,
+          49.2135399
+        ]
+      },
+      "id": "node/1295379308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379310",
+        "name": "Mnichy Chocho\u0142owskie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7933349,
+          49.2449675
+        ]
+      },
+      "id": "node/1295379310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379312",
+        "ele": "1840",
+        "name": "Kot\u0142owa Czubka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8349199,
+          49.2069618
+        ]
+      },
+      "id": "node/1295379312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379313",
+        "ele": "1499",
+        "name": "Hrubas",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8006705,
+          49.2451977
+        ]
+      },
+      "id": "node/1295379313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379316",
+        "ele": "1565",
+        "name": "Jamborowy Wierch",
+        "name:pl": "Jamborowy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7784434,
+          49.2453567
+        ]
+      },
+      "id": "node/1295379316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379318",
+        "ele": "1867",
+        "name": "Zadni Ornak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8358079,
+          49.2130519
+        ]
+      },
+      "id": "node/1295379318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379320",
+        "ele": "1596",
+        "name": "Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7749217,
+          49.2123315
+        ]
+      },
+      "id": "node/1295379320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379321",
+        "ele": "1350",
+        "name": "Wielkie Turnie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.806503,
+          49.2448959
+        ]
+      },
+      "id": "node/1295379321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295379325",
+        "ele": "1829",
+        "name": "Kominiarski Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8355407,
+          49.240814
+        ]
+      },
+      "id": "node/1295379325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1333271264",
+        "ele": "1207",
+        "name": "Ig\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9501318,
+          49.2645619
+        ]
+      },
+      "id": "node/1333271264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496149193",
+        "ele": "1793",
+        "name": "Ma\u0142a Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.035092,
+          49.2364036
+        ]
+      },
+      "id": "node/1496149193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496149195",
+        "ele": "2105",
+        "name": "Pa\u0144szczycka Turnia",
+        "name:pl": "Pa\u0144szczycka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0327291,
+          49.2297899
+        ]
+      },
+      "id": "node/1496149195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496149197",
+        "ele": "2155",
+        "name": "Skrajna Pa\u0144szczycka Czuba",
+        "name:pl": "Skrajna Pa\u0144szczycka Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0334973,
+          49.2280739
+        ]
+      },
+      "id": "node/1496149197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496149198",
+        "ele": "1856",
+        "name": "Wielka Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0394364,
+          49.2336634
+        ]
+      },
+      "id": "node/1496149198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496149199",
+        "ele": "2135",
+        "name": "Wierch pod Fajki",
+        "name:pl": "Wierch pod Fajki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0327326,
+          49.2289552
+        ]
+      },
+      "id": "node/1496149199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496149233",
+        "ele": "2047",
+        "name": "\u017b\u00f3\u0142ta Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0290165,
+          49.2344814
+        ]
+      },
+      "id": "node/1496149233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496151182",
+        "ele": "2228",
+        "name": "Skrajny Granat",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0332931,
+          49.2269445
+        ]
+      },
+      "id": "node/1496151182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496151183",
+        "ele": "2240",
+        "name": "Zadni Granat",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0325692,
+          49.2247696
+        ]
+      },
+      "id": "node/1496151183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1674619681",
+        "ele": "2088",
+        "ele:bpv": "2086.12",
+        "name": "Ostr\u00fd Roh\u00e1\u010d",
+        "name:pl": "Rohacz Ostry",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.757448,
+          49.2002302
+        ]
+      },
+      "id": "node/1674619681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1862536196",
+        "ele": "2501",
+        "ele:bpv": "2500.66",
+        "name": "Rysy",
+        "name:pl": "Rysy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0884638,
+          49.1793186
+        ]
+      },
+      "id": "node/1862536196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1878512558",
+        "ele": "2234",
+        "name": "Po\u015bredni Granat",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0327347,
+          49.2257013
+        ]
+      },
+      "id": "node/1878512558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995387408",
+        "ele": "1472",
+        "name": "Piec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8866672,
+          49.2486546
+        ]
+      },
+      "id": "node/1995387408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995387409",
+        "ele": "1457",
+        "name": "Up\u0142azia\u0144ska Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8871327,
+          49.2503652
+        ]
+      },
+      "id": "node/1995387409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2003568183",
+        "ele": "1670",
+        "name": "Ratusz Litworowy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9065642,
+          49.2432783
+        ]
+      },
+      "id": "node/2003568183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2008611051",
+        "ele": "1203",
+        "name": "Up\u0142azia\u0144ski Wierszyk",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8784308,
+          49.2563337
+        ]
+      },
+      "id": "node/2008611051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2098613390",
+        "ele": "1328",
+        "name": "Wielki Kopieniec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0163039,
+          49.2716554
+        ]
+      },
+      "id": "node/2098613390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2100603506",
+        "ele": "1339",
+        "name": "Hruby Regiel",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8894444,
+          49.2677778
+        ]
+      },
+      "id": "node/2100603506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2100603508",
+        "ele": "1378",
+        "name": "Krokiew",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9646069,
+          49.267122
+        ]
+      },
+      "id": "node/2100603508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2100603509",
+        "ele": "1189",
+        "name": "Samkowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9268394,
+          49.2721481
+        ]
+      },
+      "id": "node/2100603509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102060425",
+        "ele": "1206",
+        "name": "Go\u0142y Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0968461,
+          49.2675419
+        ]
+      },
+      "id": "node/2102060425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102060445",
+        "ele": "1475",
+        "name": "Ostry Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0611722,
+          49.2641904
+        ]
+      },
+      "id": "node/2102060445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102060451",
+        "ele": "1485",
+        "name": "Suchy Wierch Waksmundzki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0680556,
+          49.2586111
+        ]
+      },
+      "id": "node/2102060451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103272996",
+        "ele": "2117",
+        "name": "Po\u015bredni Wo\u0142oszyn",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0555556,
+          49.2305556
+        ]
+      },
+      "id": "node/2103272996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103272997",
+        "ele": "2090",
+        "name": "Skrajny Wo\u0142oszyn",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0625,
+          49.2333333
+        ]
+      },
+      "id": "node/2103272997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103272998",
+        "ele": "1901",
+        "name": "Turnia nad Dziadem",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0724576,
+          49.2390096
+        ]
+      },
+      "id": "node/2103272998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103272999",
+        "ele": "1741",
+        "name": "Turnia nad Szczotami",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0757152,
+          49.2325924
+        ]
+      },
+      "id": "node/2103272999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103273000",
+        "ele": "2189",
+        "name": "Waksmundzki Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0469444,
+          49.2319444
+        ]
+      },
+      "id": "node/2103273000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103273001",
+        "ele": "2193",
+        "name": "Wielka Koszysta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0495127,
+          49.2353625
+        ]
+      },
+      "id": "node/2103273001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103273002",
+        "ele": "2155",
+        "name": "Wielki Wo\u0142oszyn",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.05,
+          49.2283333
+        ]
+      },
+      "id": "node/2103273002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107808027",
+        "ele": "1305",
+        "name": "Po\u015brednia Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8529266,
+          49.2660441
+        ]
+      },
+      "id": "node/2107808027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107808028",
+        "ele": "1113",
+        "name": "Przednia Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8608889,
+          49.2741667
+        ]
+      },
+      "id": "node/2107808028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107808029",
+        "ele": "1428",
+        "name": "Suchy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8526951,
+          49.2475869
+        ]
+      },
+      "id": "node/2107808029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107808030",
+        "ele": "1333",
+        "name": "Zadnia Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.858905,
+          49.2601116
+        ]
+      },
+      "id": "node/2107808030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107822733",
+        "ele": "1241",
+        "name": "Diabliniec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8446667,
+          49.2566111
+        ]
+      },
+      "id": "node/2107822733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107822736",
+        "ele": "1324",
+        "name": "Wierch Spalenisko",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8351667,
+          49.2563611
+        ]
+      },
+      "id": "node/2107822736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107834137",
+        "ele": "1448",
+        "name": "Ma\u0142y Opalony Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8330556,
+          49.2519444
+        ]
+      },
+      "id": "node/2107834137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107834138",
+        "ele": "1257",
+        "name": "Spalona Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8244776,
+          49.2537961
+        ]
+      },
+      "id": "node/2107834138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107834139",
+        "ele": "1485",
+        "name": "Wielki Opalony Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8366111,
+          49.2503056
+        ]
+      },
+      "id": "node/2107834139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2302916813",
+        "ele": "2064",
+        "ele:bpv": "2063.08",
+        "name": "Volovec / Wo\u0142owiec",
+        "name:pl": "Wo\u0142owiec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7631281,
+          49.2075694
+        ]
+      },
+      "id": "node/2302916813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2359130653",
+        "ele": "1246",
+        "name": "Kryta Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.806,
+          49.2639722
+        ]
+      },
+      "id": "node/2359130653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2359130654",
+        "ele": "1141",
+        "name": "Ma\u0142y Regiel",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8775556,
+          49.2710278
+        ]
+      },
+      "id": "node/2359130654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569948266",
+        "ele": "1180",
+        "name": "Ni\u017cnia Zawiesista Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8853588,
+          49.2622929
+        ]
+      },
+      "id": "node/2569948266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569948267",
+        "ele": "1248",
+        "name": "Ko\u0144czysta Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8777742,
+          49.2636376
+        ]
+      },
+      "id": "node/2569948267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569948268",
+        "ele": "1296",
+        "name": "Zawiesista Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8859473,
+          49.263127
+        ]
+      },
+      "id": "node/2569948268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569948269",
+        "ele": "1294",
+        "name": "Czerwony Gronik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.882324,
+          49.2651262
+        ]
+      },
+      "id": "node/2569948269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2604672434",
+        "ele": "1224",
+        "name": "Bocza\u0144",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9871382,
+          49.2646101
+        ]
+      },
+      "id": "node/2604672434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610887841",
+        "ele": "2170",
+        "ele:bpv": "2171.11",
+        "name": "Mlyn\u00e1r",
+        "name:pl": "Wielki M\u0142ynarz",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1026067,
+          49.1934157
+        ]
+      },
+      "id": "node/2610887841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623551924",
+        "ele": "1712",
+        "ele:bpv": "1721.51",
+        "name": "Brd\u00e1rov\u00e1 zvonica",
+        "name:pl": "Brdarowa Dzwonnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9288105,
+          49.1900465
+        ]
+      },
+      "id": "node/2623551924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623551979",
+        "ele": "1839",
+        "ele:bpv": "1838.82",
+        "name": "Liptovsk\u00e1 Tomanov\u00e1",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9162694,
+          49.2150372
+        ]
+      },
+      "id": "node/2623551979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623552150",
+        "ele": "1984",
+        "ele:bpv": "1981.22",
+        "name": "Predn\u00fd Hol\u00fd vrch",
+        "name:pl": "Skrajny Go\u0142y Wierch Liptowski",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9665159,
+          49.188525
+        ]
+      },
+      "id": "node/2623552150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630293078",
+        "ele": "1505",
+        "ele:bpv": "1507.92",
+        "name": "Hlina",
+        "name:pl": "Hlinik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9045804,
+          49.1944505
+        ]
+      },
+      "id": "node/2630293078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630293329",
+        "ele": "2162",
+        "ele:bpv": "2162.14",
+        "name": "Ni\u017en\u00e1 Bystr\u00e1",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8306649,
+          49.1785822
+        ]
+      },
+      "id": "node/2630293329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630293474",
+        "ele": "1949",
+        "ele:bpv": "1948.61",
+        "name": "G\u0142azista Turnia / Stoly",
+        "name:pl": "G\u0142azista Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9052018,
+          49.2247799
+        ]
+      },
+      "id": "node/2630293474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630293524",
+        "ele": "1186",
+        "ele:bpv": "1192.24",
+        "name": "Turek",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7824555,
+          49.2727861
+        ]
+      },
+      "id": "node/2630293524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630293554",
+        "ele": "1859",
+        "ele:bpv": "1859.64",
+        "name": "Ve\u013ek\u00e1 Brd\u00e1rova grapa",
+        "name:pl": "Wielka Brdarowa Grapa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9425244,
+          49.1968752
+        ]
+      },
+      "id": "node/2630293554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630293595",
+        "ele": "2095",
+        "ele:bpv": "2093.87",
+        "name": "Vy\u0161n\u00e1 Magura",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.796153,
+          49.1862083
+        ]
+      },
+      "id": "node/2630293595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639389007",
+        "ele": "2184",
+        "name": "Wielka Buczynowa Turnia",
+        "name:pl": "Wielka Buczynowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0402645,
+          49.2271815
+        ]
+      },
+      "id": "node/2639389007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639389008",
+        "ele": "2172",
+        "name": "Ma\u0142a Buczynowa Turnia",
+        "name:pl": "Ma\u0142a Buczynowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0430864,
+          49.227426
+        ]
+      },
+      "id": "node/2639389008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721684697",
+        "ele": "2280",
+        "name": "G\u0105sienicowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0120128,
+          49.2193136
+        ]
+      },
+      "id": "node/2721684697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721684698",
+        "ele": "2159",
+        "name": "Mylna Kopa",
+        "name:pl": "Mylna Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0154606,
+          49.2232764
+        ]
+      },
+      "id": "node/2721684698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721684699",
+        "ele": "2162",
+        "name": "Zadni Ko\u015bcielec",
+        "name:pl": "Zadni Ko\u015bcielec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0155525,
+          49.2236914
+        ]
+      },
+      "id": "node/2721684699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721684700",
+        "ele": "2291",
+        "name": "Svinica / \u015awinica",
+        "name:pl": "\u015awinica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0086422,
+          49.2200402
+        ]
+      },
+      "id": "node/2721684700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3075294960",
+        "ele": "1767",
+        "name": "Kazalnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8932075,
+          49.2295877
+        ]
+      },
+      "id": "node/3075294960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343362920",
+        "ele": "2302",
+        "ele:bpv": "2301.56",
+        "name": "Svinica / \u015awinica",
+        "name:pl": "\u015awinica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0093063,
+          49.2194211
+        ]
+      },
+      "id": "node/3343362920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3494312974",
+        "name": "Turnia nad Schodkami",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.020877,
+          49.2172975
+        ]
+      },
+      "id": "node/3494312974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3494317589",
+        "ele": "2105",
+        "name": "Ko\u0142owa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0203934,
+          49.2150947
+        ]
+      },
+      "id": "node/3494317589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3494334483",
+        "name": "Mylna Stra\u017cnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0155344,
+          49.2227421
+        ]
+      },
+      "id": "node/3494334483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3494334728",
+        "ele": "2247",
+        "name": "Zawratowa Turnia",
+        "name:pl": "Zawratowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0153375,
+          49.2199092
+        ]
+      },
+      "id": "node/3494334728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3499289916",
+        "ele": "2014",
+        "name": "Ma\u0142a Koszysta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0535269,
+          49.243757
+        ]
+      },
+      "id": "node/3499289916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3503766320",
+        "ele": "2242",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.033705,
+          49.2211707
+        ]
+      },
+      "id": "node/3503766320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3503766329",
+        "name": "Zadnia Sieczkowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0331293,
+          49.2233127
+        ]
+      },
+      "id": "node/3503766329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3503795970",
+        "ele": "2177",
+        "name": "Orla Baszta",
+        "name:pl": "Orla Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0357587,
+          49.2273331
+        ]
+      },
+      "id": "node/3503795970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3503810011",
+        "ele": "2145",
+        "name": "Ma\u0142y Wo\u0142oszyn",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0492333,
+          49.2285245
+        ]
+      },
+      "id": "node/3503810011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504631174",
+        "ele": "2128",
+        "name": "Prostredn\u00e1 kopa / Po\u015brednia Turnia",
+        "name:pl": "Po\u015brednia Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0012354,
+          49.2222837
+        ]
+      },
+      "id": "node/3504631174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508343300",
+        "ele": "2090",
+        "name": "Mnichowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0523405,
+          49.1905451
+        ]
+      },
+      "id": "node/3508343300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508355562",
+        "ele": "2142",
+        "name": "Temnosmre\u010dinsk\u00e1 ve\u017ea / Ciemnosmreczy\u0144ska Turnia",
+        "name:pl": "Ciemnosmreczy\u0144ska Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0485699,
+          49.1896614
+        ]
+      },
+      "id": "node/3508355562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508596269",
+        "ele": "2252",
+        "name": "Spadowa Kopa",
+        "name:pl": "Spadowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0872398,
+          49.1855554
+        ]
+      },
+      "id": "node/3508596269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508601596",
+        "ele": "2146",
+        "name": "\u017babi Mnich",
+        "name:pl": "\u017babi Mnich",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0858442,
+          49.1891699
+        ]
+      },
+      "id": "node/3508601596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508632047",
+        "ele": "2109",
+        "name": "Skrajna Tomkowa Ig\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0835331,
+          49.1840868
+        ]
+      },
+      "id": "node/3508632047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508683869",
+        "ele": "2291",
+        "name": "\u017babi Ko\u0144",
+        "name:pl": "\u017babi Ko\u0144",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0793064,
+          49.1785869
+        ]
+      },
+      "id": "node/3508683869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508689204",
+        "ele": "2336",
+        "name": "\u017babia Turnia Mi\u0119guszowiecka / \u017dabia ve\u017ea",
+        "name:pl": "\u017babia Turnia Mi\u0119guszowiecka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0771327,
+          49.1786039
+        ]
+      },
+      "id": "node/3508689204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508693152",
+        "ele": "2055",
+        "name": "Bula pod Rysami",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0807907,
+          49.1819195
+        ]
+      },
+      "id": "node/3508693152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508700214",
+        "ele": "2159",
+        "name": "Kazalnica Mi\u0119guszowiecka",
+        "name:pl": "Kazalnica Mi\u0119guszowiecka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0697268,
+          49.1852039
+        ]
+      },
+      "id": "node/3508700214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509905952",
+        "ele": "2365",
+        "ele:bpv": "2373.41",
+        "name": "Rogata Turniczka / Rohat\u00e1 ve\u017ei\u010dka",
+        "name:pl": "Rogata Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0740814,
+          49.1794211
+        ]
+      },
+      "id": "node/3509905952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509932447",
+        "ele": "2372",
+        "name": "Hincova ve\u017ea / Hi\u0144czowa Turnia",
+        "name:pl": "Hi\u0144czowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0690274,
+          49.1809457
+        ]
+      },
+      "id": "node/3509932447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509945912",
+        "ele": "2360",
+        "name": "Hi\u0144czowa Turniczka / Hincova ve\u017ei\u010dka",
+        "name:pl": "Hi\u0144czowa Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0691123,
+          49.1807777
+        ]
+      },
+      "id": "node/3509945912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509947614",
+        "ele": "2340",
+        "name": "Ch\u0142opek",
+        "name:pl": "Ch\u0142opek",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0657522,
+          49.1835586
+        ]
+      },
+      "id": "node/3509947614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3538967097",
+        "ele": "1974",
+        "name": "Ma\u0142a Kotelnica / Mal\u00e1 Kotolnica",
+        "name:pl": "Ma\u0142a Kotelnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0264928,
+          49.2004356
+        ]
+      },
+      "id": "node/3538967097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3538976943",
+        "ele": "1987",
+        "name": "Wielka Kotelnica / Ve\u013ek\u00e1 Kotolnica",
+        "name:pl": "Wielka Kotelnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0209245,
+          49.2016219
+        ]
+      },
+      "id": "node/3538976943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3538992122",
+        "ele": "1990",
+        "name": "G\u0142adka Kotelnica / Hladk\u00e1 Kotolnica",
+        "name:pl": "G\u0142adka Kotelnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0193718,
+          49.2025598
+        ]
+      },
+      "id": "node/3538992122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544033690",
+        "ele": "2079",
+        "name": "\u017babia Czuba",
+        "name:pl": "\u017babia Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0862719,
+          49.1985009
+        ]
+      },
+      "id": "node/3544033690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544034418",
+        "ele": "1751",
+        "name": "Granat",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0869113,
+          49.2071348
+        ]
+      },
+      "id": "node/3544034418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544035356",
+        "ele": "2098",
+        "name": "Ni\u017cni \u017babi Szczyt",
+        "name:pl": "Ni\u017cni \u017babi Szczyt",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0842199,
+          49.1960159
+        ]
+      },
+      "id": "node/3544035356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544051107",
+        "ele": "2075",
+        "name": "Marusarzowa Turnia",
+        "name:pl": "Marusarzowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0842957,
+          49.1948693
+        ]
+      },
+      "id": "node/3544051107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544056626",
+        "ele": "2040",
+        "name": "Owcze Turniczki",
+        "name:pl": "Owcze Turniczki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0845988,
+          49.1936235
+        ]
+      },
+      "id": "node/3544056626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544067861",
+        "ele": "1953",
+        "name": "Aposto\u0142y",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0816315,
+          49.195414
+        ]
+      },
+      "id": "node/3544067861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544132281",
+        "ele": "2095",
+        "name": "\u017babia Lalka",
+        "name:pl": "\u017babia Lalka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.084499,
+          49.1883472
+        ]
+      },
+      "id": "node/3544132281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3552158247",
+        "ele": "1987",
+        "name": "Kasprov vrch / Kasprowy Wierch",
+        "name:pl": "Kasprowy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9815609,
+          49.2318014
+        ]
+      },
+      "id": "node/3552158247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3558286971",
+        "ele": "1836",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9714848,
+          49.2299577
+        ]
+      },
+      "id": "node/3558286971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3558342128",
+        "ele": "1815",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9474319,
+          49.2331992
+        ]
+      },
+      "id": "node/3558342128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560285056",
+        "ele": "1866",
+        "name": "Ma\u0142y Ko\u015bcielec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.011406,
+          49.2299344
+        ]
+      },
+      "id": "node/3560285056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560292150",
+        "ele": "1814",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0100602,
+          49.2326299
+        ]
+      },
+      "id": "node/3560292150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560695684",
+        "ele": "2005",
+        "name": "Kondratova kopa / Kopa Kondracka",
+        "name:pl": "Kopa Kondracka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9322676,
+          49.2365407
+        ]
+      },
+      "id": "node/3560695684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560769900",
+        "ele": "2068",
+        "ele:bpv": "2069.71",
+        "name": "Smreczy\u0144ski Wierch / Smre\u010diny",
+        "name:pl": "Smreczy\u0144ski Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8839454,
+          49.2041744
+        ]
+      },
+      "id": "node/3560769900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560808077",
+        "ele": "1899",
+        "name": "Tomanowa Kopa",
+        "name:pl": "Tomanowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8968976,
+          49.2120048
+        ]
+      },
+      "id": "node/3560808077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560918391",
+        "ele": "2027",
+        "name": "Kopa Prawdy",
+        "name:pl": "Kopa Prawdy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8008168,
+          49.2022301
+        ]
+      },
+      "id": "node/3560918391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560920780",
+        "ele": "2137",
+        "ele:bpv": "2136.93",
+        "name": "Jarz\u0105bczy Wierch / Hrub\u00fd vrch",
+        "name:pl": "Jarz\u0105bczy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7951037,
+          49.1974727
+        ]
+      },
+      "id": "node/3560920780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560955247",
+        "ele": "1632",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7691551,
+          49.2307068
+        ]
+      },
+      "id": "node/3560955247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560988994",
+        "ele": "1486",
+        "name": "Parz\u0105tczak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7904947,
+          49.2556794
+        ]
+      },
+      "id": "node/3560988994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560989957",
+        "ele:bpv": "1324.06",
+        "name": "Zamczysko",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7937911,
+          49.2686704
+        ]
+      },
+      "id": "node/3560989957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560991693",
+        "ele": "1491",
+        "ele:bpv": "1490.61",
+        "name": "Furkaska / Ve\u013ek\u00e1 Furkaska",
+        "name:pl": "Furkaska",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7887314,
+          49.2616215
+        ]
+      },
+      "id": "node/3560991693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3568541637",
+        "ele": "1065",
+        "name": "Siwia\u0144skie Turnie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8251582,
+          49.2764765
+        ]
+      },
+      "id": "node/3568541637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3568548393",
+        "ele": "1112",
+        "name": "Cisowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8403267,
+          49.2721369
+        ]
+      },
+      "id": "node/3568548393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3568554193",
+        "ele": "1161",
+        "name": "Korycia\u0144ska Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8019062,
+          49.2705055
+        ]
+      },
+      "id": "node/3568554193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3568646693",
+        "ele": "1276",
+        "name": "Klinowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8257869,
+          49.2617032
+        ]
+      },
+      "id": "node/3568646693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3568740193",
+        "ele": "1108",
+        "name": "Jamska Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8189715,
+          49.2563367
+        ]
+      },
+      "id": "node/3568740193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3568750126",
+        "ele": "1269",
+        "name": "Jaworzy\u0144ski Przys\u0142op",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8047674,
+          49.2541231
+        ]
+      },
+      "id": "node/3568750126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3569141394",
+        "name": "Wierch \u015awierkule",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8385726,
+          49.2483824
+        ]
+      },
+      "id": "node/3569141394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3571391593",
+        "ele": "1832",
+        "name": "Suchy Wierch Ornacza\u0144ski",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8336342,
+          49.2221134
+        ]
+      },
+      "id": "node/3571391593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3571653875",
+        "ele": "1271",
+        "name": "Zadnia Rosocha",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8329795,
+          49.2635816
+        ]
+      },
+      "id": "node/3571653875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3571689193",
+        "ele": "1262",
+        "name": "Skrajna Rosocha",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8362271,
+          49.2657006
+        ]
+      },
+      "id": "node/3571689193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3571740754",
+        "ele": "1333",
+        "name": "\u015awi\u0144ska Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8576637,
+          49.260742
+        ]
+      },
+      "id": "node/3571740754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3592566151",
+        "ele": "1296",
+        "name": "Ratusz",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8699751,
+          49.2378657
+        ]
+      },
+      "id": "node/3592566151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3592615590",
+        "ele": "1391",
+        "name": "Saturn",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8719982,
+          49.2390156
+        ]
+      },
+      "id": "node/3592615590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3598422900",
+        "ele": "1430",
+        "name": "Kobylarz",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9031254,
+          49.2461962
+        ]
+      },
+      "id": "node/3598422900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600157703",
+        "name": "Ko\u015bcio\u0142ki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8944196,
+          49.2262523
+        ]
+      },
+      "id": "node/3600157703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600160026",
+        "name": "Ko\u015bcio\u0142ki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8957679,
+          49.2263698
+        ]
+      },
+      "id": "node/3600160026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600481596",
+        "name": "Mnich Ma\u0142o\u0142\u0105cki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9282043,
+          49.2461666
+        ]
+      },
+      "id": "node/3600481596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600532984",
+        "ele": "1847",
+        "name": "Wielka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9202403,
+          49.2445349
+        ]
+      },
+      "id": "node/3600532984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600809099",
+        "name": "Kobylarzowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9095197,
+          49.2457833
+        ]
+      },
+      "id": "node/3600809099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600809685",
+        "name": "Zagonna Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9105624,
+          49.2476407
+        ]
+      },
+      "id": "node/3600809685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3633401218",
+        "ele": "1531",
+        "name": "Wielka Kr\u00f3lowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0048452,
+          49.2558619
+        ]
+      },
+      "id": "node/3633401218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3633405165",
+        "ele": "1577",
+        "name": "Ma\u0142a Kr\u00f3lowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0026916,
+          49.2526107
+        ]
+      },
+      "id": "node/3633405165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3751210922",
+        "ele": "1317",
+        "name": "Kiernia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9230682,
+          49.2656473
+        ]
+      },
+      "id": "node/3751210922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982162461",
+        "ele": "1372",
+        "ele:bpv": "1381.48",
+        "name": "Tisovka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1081208,
+          49.2489912
+        ]
+      },
+      "id": "node/3982162461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015271212",
+        "ele": "1086",
+        "ele:bpv": "1085.70",
+        "name": "Je\u017eov vrch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7651392,
+          49.2739202
+        ]
+      },
+      "id": "node/4015271212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4366169405",
+        "ele": "2499",
+        "name": "Rysy",
+        "name:pl": "Rysy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0881081,
+          49.1795756
+        ]
+      },
+      "id": "node/4366169405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549628386",
+        "ele": "1702",
+        "name": "Jarz\u0105bczy Kopieniec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8032599,
+          49.2076007
+        ]
+      },
+      "id": "node/4549628386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549629889",
+        "ele": "1772",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8065482,
+          49.2172815
+        ]
+      },
+      "id": "node/4549629889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549629890",
+        "ele": "1765",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8046312,
+          49.2184614
+        ]
+      },
+      "id": "node/4549629890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5189148058",
+        "ele": "2221",
+        "name": "Hrub\u00e1 kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.005482,
+          49.17944
+        ]
+      },
+      "id": "node/5189148058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5189148067",
+        "ele": "1926",
+        "name": "Posledn\u00fd chrb\u00e1t",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.023959,
+          49.1895751
+        ]
+      },
+      "id": "node/5189148067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5209919435",
+        "ele": "1657",
+        "ele:bpv": "1663.02",
+        "name": "\u0160trky",
+        "name:pl": "Jaworowe Ska\u0142ki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9390251,
+          49.2262469
+        ]
+      },
+      "id": "node/5209919435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5260561411",
+        "ele": "1791",
+        "ele:bpv": "1793.94",
+        "name": "Javorov\u00e1 kopa",
+        "name:pl": "Jaworowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9398977,
+          49.2305544
+        ]
+      },
+      "id": "node/5260561411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5260733817",
+        "ele": "1970",
+        "ele:bpv": "1986.93",
+        "name": "Rozpadl\u00e1 kopa",
+        "name:pl": "Rozpad\u0142a Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9159502,
+          49.2274044
+        ]
+      },
+      "id": "node/5260733817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5266496787",
+        "ele": "2039",
+        "ele:bpv": "2039.16",
+        "name": "Kr\u00ed\u017ena",
+        "name:pl": "Krzy\u017cne Liptowskie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9608864,
+          49.1815233
+        ]
+      },
+      "id": "node/5266496787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5266496805",
+        "ele": "1901",
+        "name": "Magura",
+        "name:pl": "Rycerowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9685943,
+          49.211741
+        ]
+      },
+      "id": "node/5266496805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5278904260",
+        "ele": "1804",
+        "name": "K\u0148azov\u00e1",
+        "name:pl": "Kniaziowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9098873,
+          49.2071962
+        ]
+      },
+      "id": "node/5278904260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5320319930",
+        "ele": "1494",
+        "ele:bpv": "1500.89",
+        "name": "Gre\u0161ov\u00e1",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.903705,
+          49.1911877
+        ]
+      },
+      "id": "node/5320319930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5378764554",
+        "ele": "1670",
+        "ele:bpv": "1661.69",
+        "name": "K\u00f4pka",
+        "name:pl": "Czarna Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7677126,
+          49.1937819
+        ]
+      },
+      "id": "node/5378764554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5427567970",
+        "ele": "1329",
+        "ele:bpv": "1329.29",
+        "name": "Hrub\u00fd vrch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7635255,
+          49.2553132
+        ]
+      },
+      "id": "node/5427567970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5568304734",
+        "name": "Predn\u00e1 Pust\u00e1 ve\u017ea",
+        "name:pl": "Skrajna Pusta Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1028776,
+          49.181493
+        ]
+      },
+      "id": "node/5568304734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5568304735",
+        "ele": "1875",
+        "name": "Pust\u00e1 str\u00e1\u017e",
+        "name:pl": "Gankowa Stra\u017cnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1088107,
+          49.1808899
+        ]
+      },
+      "id": "node/5568304735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5568416480",
+        "ele": "2310",
+        "name": "\u010cubrinka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0532745,
+          49.1864332
+        ]
+      },
+      "id": "node/5568416480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5568416510",
+        "name": "Tylkova ve\u017ea",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0777355,
+          49.1773757
+        ]
+      },
+      "id": "node/5568416510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657428016",
+        "name": "Mal\u00e1 Brd\u00e1rova grapa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9369101,
+          49.1928784
+        ]
+      },
+      "id": "node/5657428016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657433051",
+        "ele": "1573",
+        "ele:bpv": "1573.32",
+        "name": "Roh",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.75631,
+          49.239031
+        ]
+      },
+      "id": "node/5657433051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657434836",
+        "ele:bpv": "1687.66",
+        "name": "Vr\u00e1ta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9640883,
+          49.2281141
+        ]
+      },
+      "id": "node/5657434836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657435364",
+        "name": "Bielovodsk\u00e1 ve\u017ea",
+        "name:pl": "Nawiesista Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1100813,
+          49.1929336
+        ]
+      },
+      "id": "node/5657435364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657435365",
+        "ele:bpv": "1983.43",
+        "name": "Zadn\u00fd Hol\u00fd vrch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9701428,
+          49.193794
+        ]
+      },
+      "id": "node/5657435365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657435456",
+        "ele:bpv": "1822.42",
+        "name": "Krajn\u00fd Hol\u00fd vrch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9386648,
+          49.1935958
+        ]
+      },
+      "id": "node/5657435456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5909943460",
+        "name": "Mylna Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0155175,
+          49.2229803
+        ]
+      },
+      "id": "node/5909943460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5983946013",
+        "ele": "1369.6",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9020559,
+          49.2549554
+        ]
+      },
+      "id": "node/5983946013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5983946017",
+        "ele": "1503",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9071492,
+          49.2503985
+        ]
+      },
+      "id": "node/5983946017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6178007809",
+        "ele": "1704",
+        "name": "Kopa Magury",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0006968,
+          49.2486118
+        ]
+      },
+      "id": "node/6178007809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6719281507",
+        "ele": "2138",
+        "name": "\u017babi Kapucyn",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0854486,
+          49.1890072
+        ]
+      },
+      "id": "node/6719281507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6720011784",
+        "ele": "2075",
+        "name": "Kopa nad Wrotami",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0461458,
+          49.1912991
+        ]
+      },
+      "id": "node/6720011784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7230434663",
+        "ele": "2108",
+        "ele:bpv": "2129.18",
+        "name": "Gr\u00fa\u0148",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8375235,
+          49.1847965
+        ]
+      },
+      "id": "node/7230434663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7838897195",
+        "ele": "1950",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9055716,
+          49.2126203
+        ]
+      },
+      "id": "node/7838897195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7917548639",
+        "ele": "1170",
+        "name": "Ma\u0142y Kopieniec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0049809,
+          49.2761921
+        ]
+      },
+      "id": "node/7917548639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8499322250",
+        "ele": "1625",
+        "name": "Jaworzy\u0144ska Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9934095,
+          49.2490695
+        ]
+      },
+      "id": "node/8499322250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8518741430",
+        "ele": "1287",
+        "name": "Wysokie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9940869,
+          49.2643061
+        ]
+      },
+      "id": "node/8518741430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8518741431",
+        "ele": "1365",
+        "name": "Ma\u0142a Krokiew",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9637536,
+          49.2640576
+        ]
+      },
+      "id": "node/8518741431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8757470155",
+        "ele": "1725",
+        "name": "Wy\u017cnia Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0453853,
+          49.2132555
+        ]
+      },
+      "id": "node/8757470155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8757470156",
+        "ele": "1711",
+        "name": "Ni\u017cnia Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0510088,
+          49.2145349
+        ]
+      },
+      "id": "node/8757470156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8757470163",
+        "ele": "1875",
+        "name": "\u015awistowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0588475,
+          49.2143579
+        ]
+      },
+      "id": "node/8757470163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8757470164",
+        "ele": "1763",
+        "name": "\u015awistowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0575189,
+          49.2164694
+        ]
+      },
+      "id": "node/8757470164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8757489712",
+        "ele": "1425",
+        "name": "Roztocka Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0907648,
+          49.2285283
+        ]
+      },
+      "id": "node/8757489712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8805220357",
+        "name": "Zadnia Ko\u0144czysta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8847756,
+          49.2643898
+        ]
+      },
+      "id": "node/8805220357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8805220358",
+        "name": "Czerwony Filar",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.885415,
+          49.2622416
+        ]
+      },
+      "id": "node/8805220358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806223755",
+        "ele": "1050",
+        "name": "Jasiowe Turnie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9146852,
+          49.2744844
+        ]
+      },
+      "id": "node/8806223755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806223756",
+        "ele": "980",
+        "name": "Kierpc\u00f3wka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9030865,
+          49.2760273
+        ]
+      },
+      "id": "node/8806223756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806223759",
+        "ele": "1014",
+        "name": "Kohut",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9062238,
+          49.2655981
+        ]
+      },
+      "id": "node/8806223759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806223760",
+        "ele": "1262",
+        "name": "Po\u015bredni Wierszyk",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9114308,
+          49.2681754
+        ]
+      },
+      "id": "node/8806223760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806223762",
+        "ele": "1075",
+        "name": "Rapasiowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8992266,
+          49.2665938
+        ]
+      },
+      "id": "node/8806223762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806223764",
+        "ele": "940",
+        "name": "N\u0119dzowski Dzia\u0142",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8831356,
+          49.274565
+        ]
+      },
+      "id": "node/8806223764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806223790",
+        "ele": "1052",
+        "name": "Okr\u0119t",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8669306,
+          49.2524315
+        ]
+      },
+      "id": "node/8806223790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314830",
+        "name": "Dziurawa \u015aciana",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8727015,
+          49.2455242
+        ]
+      },
+      "id": "node/8807314830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314831",
+        "name": "Czarny Zwornik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8741062,
+          49.2450184
+        ]
+      },
+      "id": "node/8807314831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314834",
+        "name": "Czarna Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8699468,
+          49.2446382
+        ]
+      },
+      "id": "node/8807314834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314837",
+        "name": "Czarna Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8684565,
+          49.2452914
+        ]
+      },
+      "id": "node/8807314837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314842",
+        "name": "Organy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8688119,
+          49.2481929
+        ]
+      },
+      "id": "node/8807314842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314843",
+        "name": "G\u0142ucha Ska\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8655164,
+          49.2486138
+        ]
+      },
+      "id": "node/8807314843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314860",
+        "name": "Bia\u0142a Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.87109,
+          49.2464412
+        ]
+      },
+      "id": "node/8807314860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314869",
+        "name": "R\u0119kawica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.869885,
+          49.2472387
+        ]
+      },
+      "id": "node/8807314869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314872",
+        "name": "\u017b\u00f3\u0142ta Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.870579,
+          49.2474233
+        ]
+      },
+      "id": "node/8807314872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807314874",
+        "name": "Kciuk",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8685326,
+          49.247608
+        ]
+      },
+      "id": "node/8807314874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809394994",
+        "ele": "1117",
+        "name": "Ska\u0142ki w Jaro\u0144cu",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8574187,
+          49.2757963
+        ]
+      },
+      "id": "node/8809394994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809394996",
+        "ele": "1026",
+        "name": "Mi\u0119dzy \u015aciany",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8527218,
+          49.2758468
+        ]
+      },
+      "id": "node/8809394996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809479336",
+        "name": "Maturkowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.860934,
+          49.2465358
+        ]
+      },
+      "id": "node/8809479336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809479339",
+        "name": "Kazalnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.860404,
+          49.2467981
+        ]
+      },
+      "id": "node/8809479339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809479343",
+        "name": "Sto\u0142y",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8584051,
+          49.2463202
+        ]
+      },
+      "id": "node/8809479343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809479346",
+        "name": "Zawieszona Ska\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8496822,
+          49.2432867
+        ]
+      },
+      "id": "node/8809479346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809867690",
+        "name": "Zawiesista",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8066938,
+          49.2433573
+        ]
+      },
+      "id": "node/8809867690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809867701",
+        "name": "Organy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8068794,
+          49.2456009
+        ]
+      },
+      "id": "node/8809867701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809867702",
+        "name": "Piece",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8020343,
+          49.2443649
+        ]
+      },
+      "id": "node/8809867702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809867703",
+        "name": "Olejarnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8116007,
+          49.2477768
+        ]
+      },
+      "id": "node/8809867703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809914835",
+        "ele": "1050",
+        "name": "Grze\u015b",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8103765,
+          49.2595424
+        ]
+      },
+      "id": "node/8809914835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809914840",
+        "ele": "1260",
+        "name": "Po\u015brednie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7988874,
+          49.2611108
+        ]
+      },
+      "id": "node/8809914840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809914841",
+        "name": "Tyra\u0142owa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7960267,
+          49.2650221
+        ]
+      },
+      "id": "node/8809914841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809914845",
+        "ele": "1180",
+        "name": "Hucia\u0144ski Klin",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8225373,
+          49.2604267
+        ]
+      },
+      "id": "node/8809914845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809914850",
+        "ele": "1294",
+        "name": "Kuca",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8319967,
+          49.2610427
+        ]
+      },
+      "id": "node/8809914850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809914852",
+        "ele": "1270",
+        "name": "Banie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8330304,
+          49.2637561
+        ]
+      },
+      "id": "node/8809914852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809914868",
+        "ele": "1132",
+        "name": "Ma\u0142a Furkaska",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8136274,
+          49.2752197
+        ]
+      },
+      "id": "node/8809914868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8930822599",
+        "name": "Walentkowa Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0105272,
+          49.2154167
+        ]
+      },
+      "id": "node/8930822599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8964222564",
+        "ele": "1355.2",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.901163,
+          49.2567563
+        ]
+      },
+      "id": "node/8964222564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8967856473",
+        "name": "Zagonny Zwornik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0679079,
+          49.2349922
+        ]
+      },
+      "id": "node/8967856473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8967856477",
+        "ele": "2039",
+        "name": "Wierch nad Zagonnym \u017blebem",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0671354,
+          49.2346772
+        ]
+      },
+      "id": "node/8967856477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8993678469",
+        "name": "Czuba nad Ubocz\u0105",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0713708,
+          49.2191722
+        ]
+      },
+      "id": "node/8993678469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9004693486",
+        "ele": "1683",
+        "name": "K\u0119pa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0696548,
+          49.2146063
+        ]
+      },
+      "id": "node/9004693486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9021008781",
+        "ele": "1536",
+        "name": "Roztocka Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0790516,
+          49.2312712
+        ]
+      },
+      "id": "node/9021008781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9029897690",
+        "name": "Zadnia Pa\u0144szczycka Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0336725,
+          49.2276168
+        ]
+      },
+      "id": "node/9029897690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9032605691",
+        "name": "Buczynowa Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0401354,
+          49.2262301
+        ]
+      },
+      "id": "node/9032605691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9032605698",
+        "ele": "2135",
+        "name": "Kopa nad Krzy\u017cnem",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0464117,
+          49.2284705
+        ]
+      },
+      "id": "node/9032605698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9032605702",
+        "ele": "2131",
+        "name": "Ptak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0450426,
+          49.2279283
+        ]
+      },
+      "id": "node/9032605702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9032605713",
+        "name": "Budzowa Ig\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0393783,
+          49.2269515
+        ]
+      },
+      "id": "node/9032605713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9032609524",
+        "ele": "2158",
+        "name": "Ma\u0142a Orla Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0353128,
+          49.2272058
+        ]
+      },
+      "id": "node/9032609524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9032609525",
+        "ele": "2162",
+        "name": "Wielka Orla Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.034948,
+          49.2270429
+        ]
+      },
+      "id": "node/9032609525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9034231033",
+        "ele": "1417",
+        "name": "Grzybowiec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91715,
+          49.2565523
+        ]
+      },
+      "id": "node/9034231033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9034231034",
+        "ele": "1507",
+        "name": "Bacuch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9248661,
+          49.2539911
+        ]
+      },
+      "id": "node/9034231034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9036094075",
+        "ele": "2178",
+        "name": "Czarny Mniszek",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0325126,
+          49.2213441
+        ]
+      },
+      "id": "node/9036094075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9036094083",
+        "ele": "2205",
+        "name": "Po\u015brednia Sieczkowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0334253,
+          49.2236858
+        ]
+      },
+      "id": "node/9036094083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9036094091",
+        "name": "Skrajna Sieczkowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.033007,
+          49.2237921
+        ]
+      },
+      "id": "node/9036094091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9041102944",
+        "ele": "2239",
+        "name": "Kozie Czuby",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0260976,
+          49.2190131
+        ]
+      },
+      "id": "node/9041102944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9041102947",
+        "ele": "2256",
+        "name": "Kozie Czuby",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.026939,
+          49.2188028
+        ]
+      },
+      "id": "node/9041102947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9296056231",
+        "ele": "2335",
+        "name": "Cubry\u0144ska Stra\u017cnica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0553146,
+          49.1884679
+        ]
+      },
+      "id": "node/9296056231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9447967719",
+        "ele": "1750",
+        "name": "Ma\u0142e Uhrocie Kasprowe",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9970056,
+          49.243445
+        ]
+      },
+      "id": "node/9447967719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9447967724",
+        "ele": "1852",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9901486,
+          49.2391746
+        ]
+      },
+      "id": "node/9447967724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9451044777",
+        "ele": "1035",
+        "name": "Kopa nad Bia\u0142ym",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9539796,
+          49.2754559
+        ]
+      },
+      "id": "node/9451044777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9451044782",
+        "ele": "1339",
+        "name": "Zawieszka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9436436,
+          49.2658326
+        ]
+      },
+      "id": "node/9451044782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9451044783",
+        "ele": "1270",
+        "name": "\u0141omik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9478588,
+          49.2690989
+        ]
+      },
+      "id": "node/9451044783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9489833354",
+        "ele": "1186",
+        "name": "\u015api\u0105ca Gora",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9706945,
+          49.265443
+        ]
+      },
+      "id": "node/9489833354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512402761",
+        "ele": "1461.2",
+        "name": "\u0141asicowa Czubka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0419535,
+          49.2557291
+        ]
+      },
+      "id": "node/9512402761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512402786",
+        "ele": "1304",
+        "name": "Kotlinowy Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0293065,
+          49.271192
+        ]
+      },
+      "id": "node/9512402786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520210970",
+        "name": "Szpiglasowa Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0447103,
+          49.1966364
+        ]
+      },
+      "id": "node/9520210970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613404925",
+        "ele": "1958",
+        "ele:bpv": "1956.25",
+        "name": "Zadn\u00e1 Licierova kopa",
+        "name:pl": "Zadnia Rycerowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9845954,
+          49.2057028
+        ]
+      },
+      "id": "node/9613404925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620398166",
+        "ele": "1919",
+        "name": "Mal\u00e9 Kr\u00ed\u017en\u00e9",
+        "name:pl": "Ma\u0142e Krzy\u017cne Liptowskie",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9494246,
+          49.1809324
+        ]
+      },
+      "id": "node/9620398166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620399269",
+        "ele": "1785",
+        "ele:bpv": "1784.84",
+        "name": "Mal\u00e1 Licierova Magura",
+        "name:pl": "Ni\u017cnia Magura Rycerowa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9521746,
+          49.2079113
+        ]
+      },
+      "id": "node/9620399269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620402697",
+        "ele": "1933",
+        "name": "Prostredn\u00e1 Licierova Magura",
+        "name:pl": "Po\u015brednia Magura Rycerowa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9594801,
+          49.2080694
+        ]
+      },
+      "id": "node/9620402697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620407830",
+        "ele": "1995",
+        "ele:bpv": "1994.98",
+        "name": "Ve\u013ek\u00e1 Licierova magura",
+        "name:pl": "Wy\u017cnia Magura Rycerowa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.966408,
+          49.2069195
+        ]
+      },
+      "id": "node/9620407830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620407832",
+        "ele": "2052",
+        "ele:bpv": "2052.28",
+        "name": "Ve\u013ek\u00e1 kopa",
+        "name:pl": "Wielka Kopa Koprowa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9738804,
+          49.2006483
+        ]
+      },
+      "id": "node/9620407832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620407833",
+        "ele": "1969",
+        "ele:bpv": "1969.81",
+        "name": "Ve\u013ek\u00e1 Garajova kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9834909,
+          49.2028481
+        ]
+      },
+      "id": "node/9620407833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620407834",
+        "ele": "1929",
+        "ele:bpv": "1926.91",
+        "name": "Mal\u00e1 Garajova kopa",
+        "name:pl": "Ma\u0142a Garajova Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9880296,
+          49.2011871
+        ]
+      },
+      "id": "node/9620407834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620407835",
+        "ele": "1949",
+        "ele:bpv": "1947.23",
+        "name": "Zadn\u00e1 Garajova kopa",
+        "name:pl": "Zadnia Garajowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9941286,
+          49.1998799
+        ]
+      },
+      "id": "node/9620407835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665377556",
+        "ele": "1785",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7671743,
+          49.222809
+        ]
+      },
+      "id": "node/9665377556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899041586",
+        "ele": "2385",
+        "name": "Kopa nad V\u00e1hou",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0891224,
+          49.177349
+        ]
+      },
+      "id": "node/9899041586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957754032",
+        "ele": "2298",
+        "name": "\u015awinicka Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0096116,
+          49.2193742
+        ]
+      },
+      "id": "node/9957754032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9957754070",
+        "ele": "1979",
+        "name": "Liliowa Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9897691,
+          49.226281
+        ]
+      },
+      "id": "node/9957754070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9962071956",
+        "ele": "1896",
+        "name": "Czuba nad Karbem",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0128241,
+          49.2284512
+        ]
+      },
+      "id": "node/9962071956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973078509",
+        "ele": "2129",
+        "name": "Ni\u017cnia Walentkowa Baszta / Ni\u017en\u00e1 Valentkova ba\u0161ta",
+        "name:pl": "Ni\u017cnia Walentkowa Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0074114,
+          49.2139558
+        ]
+      },
+      "id": "node/9973078509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973078511",
+        "ele": "2128",
+        "name": "Wielka Walentkowa Czuba",
+        "name:pl": "Wielka Walentkowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0076838,
+          49.2145234
+        ]
+      },
+      "id": "node/9973078511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973078513",
+        "ele": "2114",
+        "name": "Vy\u0161n\u00fd Valentkov zub / Wy\u017cnia Walentkowa Czuba",
+        "name:pl": "Wy\u017cnia Walentkowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0081871,
+          49.2148589
+        ]
+      },
+      "id": "node/9973078513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973078515",
+        "ele": "2107",
+        "name": "Po\u015brednia Walentkowa Czuba / Prostredn\u00fd Valentkov zub",
+        "name:pl": "Po\u015brednia Walentkowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0085068,
+          49.215165
+        ]
+      },
+      "id": "node/9973078515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973083717",
+        "ele": "2108",
+        "name": "Ma\u0142a Walentkowa Czuba / Mal\u00fd Valentkov zub",
+        "name:pl": "Ma\u0142a Walentkowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0089996,
+          49.2158943
+        ]
+      },
+      "id": "node/9973083717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9978523978",
+        "name": "Piargov\u00e1 ve\u017ea / G\u0142a\u017ana Czuba",
+        "name:pl": "G\u0142a\u017ana Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0438219,
+          49.1928668
+        ]
+      },
+      "id": "node/9978523978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9978523979",
+        "name": "Derav\u00e1 ve\u017ea / Dziurawa Czuba",
+        "name:pl": "Dziurawa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.041143,
+          49.1947526
+        ]
+      },
+      "id": "node/9978523979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9978523981",
+        "name": "Derav\u00e1 ve\u013ei\u010dka / Szpiglasowa Turniczka",
+        "name:pl": "Szpiglasowa Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.04067,
+          49.1951186
+        ]
+      },
+      "id": "node/9978523981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9978523983",
+        "ele": "2120",
+        "name": "Hrub\u00fd zub / Szpiglasowy Z\u0105b",
+        "name:pl": "Szpiglasowy Z\u0105b",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0405567,
+          49.1951931
+        ]
+      },
+      "id": "node/9978523983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9978523985",
+        "name": "Mal\u00fd Hrub\u00fd \u0161t\u00edt / Szpiglasowa Czuba",
+        "name:pl": "Szpiglasowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0400583,
+          49.1959403
+        ]
+      },
+      "id": "node/9978523985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983979742",
+        "name": "Cubry\u0144ski Z\u0105b",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0548173,
+          49.1877516
+        ]
+      },
+      "id": "node/9983979742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983979743",
+        "name": "Cubry\u0144ski Zwornik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0546835,
+          49.1878732
+        ]
+      },
+      "id": "node/9983979743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983979744",
+        "name": "Cubry\u0144ski S\u0142up",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0532427,
+          49.1879429
+        ]
+      },
+      "id": "node/9983979744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983979745",
+        "ele": "2073",
+        "name": "Cha\u0142ubi\u0144sk\u00e9ho ve\u017ei\u010dka / Turniczka Cha\u0142ubi\u0144skiego",
+        "name:pl": "Turniczka Cha\u0142ubi\u0144skiego",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0469591,
+          49.1906575
+        ]
+      },
+      "id": "node/9983979745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991444350",
+        "ele": "2389",
+        "name": "Mi\u0119guszowiecki Szczyt Po\u015bredni / Prostredn\u00fd Mengusovsk\u00fd \u0161t\u00edt",
+        "name:pl": "Mi\u0119guszowiecki Szczyt Po\u015bredni",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0617255,
+          49.1849729
+        ]
+      },
+      "id": "node/9991444350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991444414",
+        "name": "Cienka Ig\u0142a / Mal\u00e1 mengusovsk\u00e1 ihla",
+        "name:pl": "Cienka Ig\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0613997,
+          49.1853109
+        ]
+      },
+      "id": "node/9991444414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991444416",
+        "ele": "2355",
+        "name": "Ig\u0142a Mil\u00f3wki / Ve\u013ek\u00e1 mengusovsk\u00e1 ihla",
+        "name:pl": "Ig\u0142a Mil\u00f3wki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0613015,
+          49.185364
+        ]
+      },
+      "id": "node/9991444416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991444417",
+        "ele": "2410",
+        "name": "Mi\u0119guszowiecka Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0604535,
+          49.1864998
+        ]
+      },
+      "id": "node/9991444417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991444420",
+        "name": "Mi\u0119guszowiecka Turniczka / Mengusovsk\u00e1 ve\u017ei\u010dka",
+        "name:pl": "Mi\u0119guszowiecka Turniczka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0567529,
+          49.1875765
+        ]
+      },
+      "id": "node/9991444420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944558",
+        "ele": "1864",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.941478,
+          49.2346513
+        ]
+      },
+      "id": "node/10027944558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944619",
+        "ele": "1813",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94703,
+          49.2331578
+        ]
+      },
+      "id": "node/10027944619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944628",
+        "ele": "1819",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9476439,
+          49.2330524
+        ]
+      },
+      "id": "node/10027944628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944667",
+        "ele": "1895",
+        "name": "Such\u00e1 kopa",
+        "name:pl": "Suchy Wierch Kondracki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9402452,
+          49.233366
+        ]
+      },
+      "id": "node/10027944667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944669",
+        "ele": "1832",
+        "name": "Ma\u0142a Sucha Czuba Kondracka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9484398,
+          49.233029
+        ]
+      },
+      "id": "node/10027944669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944670",
+        "ele": "1844",
+        "name": "Po\u015brednia Sucha Czuba Kondracka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9502356,
+          49.2328061
+        ]
+      },
+      "id": "node/10027944670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944672",
+        "ele": "1876",
+        "name": "Wysoka Sucha Czuba Kondracka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.954076,
+          49.2322708
+        ]
+      },
+      "id": "node/10027944672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027944678",
+        "ele": "1911",
+        "name": "Gori\u010dkova kopa / Goryczkowa Czuba",
+        "name:pl": "Goryczkowa Czuba",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.957138,
+          49.2323604
+        ]
+      },
+      "id": "node/10027944678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068611390",
+        "ele": "1911",
+        "ele:bpv": "1923.27",
+        "name": "Gre\u0161ovo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8800568,
+          49.18396
+        ]
+      },
+      "id": "node/10068611390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10128847999",
+        "name": "Gubalec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8718275,
+          49.2317354
+        ]
+      },
+      "id": "node/10128847999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10128848003",
+        "name": "\u017bar",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8758935,
+          49.2307121
+        ]
+      },
+      "id": "node/10128848003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10128848016",
+        "name": "Nied\u017awied\u017a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8859154,
+          49.2293386
+        ]
+      },
+      "id": "node/10128848016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10802758131",
+        "name": "Niska Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8836362,
+          49.2344363
+        ]
+      },
+      "id": "node/10802758131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10824027833",
+        "ele": "2358",
+        "name": "Predn\u00e1 Bedn\u00e1rova ve\u017ea",
+        "name:pl": "Skrajna Bednarzowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0119722,
+          49.1753457
+        ]
+      },
+      "id": "node/10824027833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10824027852",
+        "ele": "2349",
+        "name": "Prostredn\u00e1 Garajova ve\u017ea",
+        "name:pl": "Po\u015brednia Garajowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0074419,
+          49.177797
+        ]
+      },
+      "id": "node/10824027852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10824027863",
+        "ele": "2270",
+        "name": "Predn\u00e1 Garajova ve\u017ea",
+        "name:pl": "Skrajna Garajowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0067258,
+          49.1787228
+        ]
+      },
+      "id": "node/10824027863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840390978",
+        "name": "Ptakowa Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8771765,
+          49.2364988
+        ]
+      },
+      "id": "node/10840390978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840390984",
+        "name": "G\u0142adka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8783684,
+          49.236363
+        ]
+      },
+      "id": "node/10840390984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840394019",
+        "name": "Up\u0142azkowy Kopiniak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8778523,
+          49.2379825
+        ]
+      },
+      "id": "node/10840394019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840394025",
+        "name": "Up\u0142azkowa Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8761066,
+          49.2381059
+        ]
+      },
+      "id": "node/10840394025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840394028",
+        "name": "Up\u0142azkowy Z\u0105b",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8781476,
+          49.2378842
+        ]
+      },
+      "id": "node/10840394028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840394029",
+        "name": "Up\u0142azkowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8785122,
+          49.2377734
+        ]
+      },
+      "id": "node/10840394029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857662104",
+        "ele": "2198",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0847082,
+          49.1835443
+        ]
+      },
+      "id": "node/10857662104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857671205",
+        "ele": "2133",
+        "name": "Zadnia Tomkowa Ig\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0840293,
+          49.1838474
+        ]
+      },
+      "id": "node/10857671205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873136330",
+        "name": "Zb\u00f3jnicka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8650423,
+          49.2363987
+        ]
+      },
+      "id": "node/10873136330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873136341",
+        "name": "Wielka Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8720318,
+          49.2352022
+        ]
+      },
+      "id": "node/10873136341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873136350",
+        "name": "Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8750441,
+          49.23471
+        ]
+      },
+      "id": "node/10873136350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873151884",
+        "name": "Zb\u00f3jnicka Ig\u0142a",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8647362,
+          49.2372311
+        ]
+      },
+      "id": "node/10873151884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11036198697",
+        "ele": "2472",
+        "name": "Rysy",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0885016,
+          49.178456
+        ]
+      },
+      "id": "node/11036198697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11066304549",
+        "ele": "2375",
+        "name": "Ni\u017cne Rysy, Skrajna Turnia / Mal\u00e9 Rysy, Predn\u00e1 ve\u017ea",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0869543,
+          49.1842938
+        ]
+      },
+      "id": "node/11066304549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11079467141",
+        "ele": "1982",
+        "name": "G\u0142azista Czubka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9034973,
+          49.2278581
+        ]
+      },
+      "id": "node/11079467141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11090149599",
+        "ele": "1595",
+        "name": "Jaferowa Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8692606,
+          49.2137559
+        ]
+      },
+      "id": "node/11090149599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217424618",
+        "ele": "1420",
+        "name": "Zadnia Kopa So\u0142tysia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0629533,
+          49.2682009
+        ]
+      },
+      "id": "node/11217424618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217424620",
+        "ele": "1362",
+        "name": "\u015arednia Kopa So\u0142tysia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0609208,
+          49.2713311
+        ]
+      },
+      "id": "node/11217424620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217424621",
+        "ele": "1334",
+        "name": "Przednia Kopa So\u0142tysia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0597661,
+          49.2749331
+        ]
+      },
+      "id": "node/11217424621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217424622",
+        "name": "\u0141\u0119\u017cny Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0709294,
+          49.2748013
+        ]
+      },
+      "id": "node/11217424622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217424623",
+        "ele": "1223",
+        "name": "Filipcza\u0144ski Wierch",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0765139,
+          49.2741158
+        ]
+      },
+      "id": "node/11217424623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11331646687",
+        "name": "Czo\u0142o",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7734387,
+          49.2390688
+        ]
+      },
+      "id": "node/11331646687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11331646693",
+        "name": "Hrb\u00e1\u010d",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8387847,
+          49.182814
+        ]
+      },
+      "id": "node/11331646693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581710075",
+        "name": "Juhaska Kopa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9441801,
+          49.2536823
+        ]
+      },
+      "id": "node/11581710075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581710090",
+        "ele": "1740",
+        "name": "Turnia nad Bia\u0142em",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9460809,
+          49.2539772
+        ]
+      },
+      "id": "node/11581710090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581710098",
+        "ele": "1834",
+        "name": "Juhaska Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9426349,
+          49.2534291
+        ]
+      },
+      "id": "node/11581710098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11592361035",
+        "ele": "1730",
+        "name": "Skrajna Giewoncka Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9277243,
+          49.2511387
+        ]
+      },
+      "id": "node/11592361035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11592361058",
+        "ele": "1647",
+        "name": "Szara Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9284704,
+          49.2518086
+        ]
+      },
+      "id": "node/11592361058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11592361063",
+        "ele": "1728",
+        "name": "Bia\u0142a Giewoncka Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.928293,
+          49.2506543
+        ]
+      },
+      "id": "node/11592361063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11592361113",
+        "ele": "1735",
+        "name": "Zadnia Giewoncka Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9286911,
+          49.2500458
+        ]
+      },
+      "id": "node/11592361113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11592361114",
+        "ele": "1730",
+        "name": "Giewoncki Ch\u0142opek",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9291614,
+          49.2498594
+        ]
+      },
+      "id": "node/11592361114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11592361116",
+        "ele": "1738",
+        "name": "Wysoka Giewoncka Baszta",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.928438,
+          49.2500809
+        ]
+      },
+      "id": "node/11592361116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11595734600",
+        "ele": "1562",
+        "name": "Sucha Czubka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9440815,
+          49.2553634
+        ]
+      },
+      "id": "node/11595734600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11595734623",
+        "ele": "1419",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9626645,
+          49.2551616
+        ]
+      },
+      "id": "node/11595734623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11595734654",
+        "ele": "1333",
+        "name": "Bia\u0142a Czubka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9635503,
+          49.2616531
+        ]
+      },
+      "id": "node/11595734654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11595734713",
+        "ele": "1776",
+        "name": "Kondracka Kopka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9331262,
+          49.2481208
+        ]
+      },
+      "id": "node/11595734713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603240935",
+        "ele": "1323",
+        "name": "Czarna Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9198762,
+          49.2619736
+        ]
+      },
+      "id": "node/11603240935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603241052",
+        "ele": "1316",
+        "name": "Samkowy Zwornik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.923254,
+          49.2669575
+        ]
+      },
+      "id": "node/11603241052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603241071",
+        "ele": "1377",
+        "name": "Jatki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9213617,
+          49.2649707
+        ]
+      },
+      "id": "node/11603241071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603241165",
+        "ele": "1227",
+        "name": "Suchy Wierch Olczyski",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0080981,
+          49.2634305
+        ]
+      },
+      "id": "node/11603241165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603241276",
+        "ele": "1011",
+        "name": "Kogutki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9658951,
+          49.2775423
+        ]
+      },
+      "id": "node/11603241276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603241277",
+        "ele": "1013",
+        "name": "Kogutki",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9657703,
+          49.2774861
+        ]
+      },
+      "id": "node/11603241277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603241283",
+        "name": "Jastrz\u0119bia Turnia",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9671388,
+          49.2757463
+        ]
+      },
+      "id": "node/11603241283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12196864682",
+        "ele": "2100",
+        "name": "Ni\u017en\u00fd Prostredn\u00fd chrb\u00e1t",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0318523,
+          49.1857067
+        ]
+      },
+      "id": "node/12196864682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12196864684",
+        "ele": "2220",
+        "name": "Palec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.040221,
+          49.1837297
+        ]
+      },
+      "id": "node/12196864684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12196864685",
+        "ele": "2350",
+        "name": "Mal\u00fd K\u00f4provsk\u00fd \u0161t\u00edt",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0464584,
+          49.1825818
+        ]
+      },
+      "id": "node/12196864685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12407901058",
+        "ele": "1962",
+        "name": "Turnia Zwornikowa",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0599276,
+          49.1919489
+        ]
+      },
+      "id": "node/12407901058"
+    }
+  ]
+}
