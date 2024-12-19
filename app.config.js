@@ -1,4 +1,4 @@
-{
+export default {
   "expo": {
     "name": "Taternik",
     "slug": "Taternik",
@@ -32,6 +32,18 @@
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
+        }
+      ],
+      [
+        "@rnmapbox/maps",
+        {
+          "RNMapboxMapsDownloadToken": process.env.MAPBOX_API_KEY
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Show current location on map."
         }
       ]
     ],
