@@ -1,0 +1,7 @@
+// peaks
+[out:json][timeout:25];
+(
+  node["natural"="peak"]({{bbox}});
+);
+out center;
+
