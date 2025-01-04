@@ -6,6 +6,7 @@ import route from "../assets/icons/route.png";
 import locate from "../assets/icons/locate.png";
 import settings from "../assets/icons/settings.png";
 import map from "../assets/icons/map.png";
+import close from "../assets/icons/close.png";
 
 export default {
   profile,
@@ -15,5 +16,6 @@ export default {
   route,
   locate,
   settings,
-  map
+  map,
+  close
 };
