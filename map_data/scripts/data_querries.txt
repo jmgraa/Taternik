@@ -1,0 +1,33 @@
+// peaks
+[out:json][timeout:25];
+(
+  node["natural"="peak"]({{bbox}});
+);
+out center;
+
+
+
+[out:json][timeout:25];
+// Bounding box for the Tatra Mountains area
+{{geocodeArea:Tatras}}->.searchArea;
+
+// Important points
+(
+  //node["tourism"="attraction"](area.searchArea);
+  //node["information"](area.searchArea);
+);
+
+// Peaks
+(
+ //node["natural"="peak"](area.searchArea);
+);
+
+// Hiking paths and tracks
+(
+  way["highway"~"path|track"]["sac_scale"](area.searchArea);  
+  relation["route"="hiking"](area.searchArea);
+);
+
+out body;
+>;
+out skel qt;
