@@ -1,12 +1,10 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import React from "react";
+import MapTemplate from "../components/templates/MapTemplate";
 
 const Map = () => {
   return (
-    <View>
-      <Text>Map</Text>
-    </View>
-  )
-}
+    <MapTemplate />
+  );
+};
 
 export default Map
