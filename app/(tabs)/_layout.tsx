@@ -1,5 +1,5 @@
-import { View, Image, ImageSourcePropType, Text  } from 'react-native'
 import React from 'react'
+import { View, Image, ImageSourcePropType, Text  } from 'react-native'
 import { Tabs } from 'expo-router'
 import { icons } from '../../constants';
 
@@ -19,7 +19,10 @@ const TabIcon: React.FC<TabIconProps> = ({ icon, color, name, focused}) => {
         tintColor={color}
         className='w-6 h-6'
       />
-      <Text className={`${focused ? 'font-psemibold' : 'font-pregular'} text-xs`} style={{ color: color }}>
+      <Text 
+        className={`${focused ? 'font-psemibold' : 'font-pregular'} text-xs`} 
+        style={{ color: color }}
+      >
         {name}
       </Text>
     </View>
@@ -35,11 +38,13 @@ const TabsLayout = () => {
           tabBarActiveTintColor: '#EED3B1',
           tabBarInactiveTintColor: '#CDCDE0',
           tabBarStyle: {
-            backgroundColor: '#1F4529',
+            backgroundColor: '#000',
+            opacity: 0.9,
             borderTopWidth: 1,
             borderTopColor: '#232533',
-            height: 84,
-            paddingTop: 20,
+            height: '6%',
+            paddingTop: '2%',
+            paddingBottom: '2%'
           }
         }}
       >
@@ -50,8 +55,8 @@ const TabsLayout = () => {
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
               <TabIcon
-                icon={icons.profile}
-                color={color}
+                icon={icons.map}
+                color={'#c0cea1'}
                 name="Map"
                 focused={focused}
               />
@@ -66,7 +71,7 @@ const TabsLayout = () => {
             tabBarIcon: ({ color, focused }) => (
               <TabIcon
                 icon={icons.profile}
-                color={color}
+                color={'#c0cea1'}
                 name="Profile"
                 focused={focused}
               />
@@ -80,8 +85,8 @@ const TabsLayout = () => {
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
               <TabIcon
-                icon={icons.profile}
-                color={color}
+                icon={icons.settings}
+                color={'#c0cea1'}
                 name="Settings"
                 focused={focused}
               />
