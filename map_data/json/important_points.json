@@ -3,7 +3,9 @@
   "name": "important_points",
   "crs": {
     "type": "name",
-    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
   },
   "features": [
     {
@@ -19,7 +21,13 @@
         "closest_trail_lon": 20.0880804,
         "closest_trail_lat": 49.1794711
       },
-      "geometry": { "type": "Point", "coordinates": [20.0880767, 49.1794584] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0880767,
+          49.1794584
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -34,7 +42,13 @@
         "closest_trail_lon": 20.1395412,
         "closest_trail_lat": 49.1741006
       },
-      "geometry": { "type": "Point", "coordinates": [20.1395412, 49.1741006] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1395412,
+          49.1741006
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -49,7 +63,13 @@
         "closest_trail_lon": 20.1662609,
         "closest_trail_lat": 49.1771701
       },
-      "geometry": { "type": "Point", "coordinates": [20.1662609, 49.1771701] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1662609,
+          49.1771701
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -64,7 +84,13 @@
         "closest_trail_lon": 20.167602,
         "closest_trail_lat": 49.1766336
       },
-      "geometry": { "type": "Point", "coordinates": [20.167602, 49.1766336] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.167602,
+          49.1766336
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -79,7 +105,13 @@
         "closest_trail_lon": 19.7479172,
         "closest_trail_lat": 49.2137872
       },
-      "geometry": { "type": "Point", "coordinates": [19.7479172, 49.2137872] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7479172,
+          49.2137872
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -94,7 +126,13 @@
         "closest_trail_lon": 19.7512945,
         "closest_trail_lat": 49.2047092
       },
-      "geometry": { "type": "Point", "coordinates": [19.751312, 49.2047012] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.751312,
+          49.2047012
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -109,7 +147,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7341038, 49.2057916] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7341038,
+          49.2057916
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -124,7 +168,13 @@
         "closest_trail_lon": 20.0709696,
         "closest_trail_lat": 49.163224
       },
-      "geometry": { "type": "Point", "coordinates": [20.0709704, 49.1632307] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0709704,
+          49.1632307
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -139,7 +189,13 @@
         "closest_trail_lon": 19.7113824,
         "closest_trail_lat": 49.2590878
       },
-      "geometry": { "type": "Point", "coordinates": [19.7110347, 49.2445591] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7110347,
+          49.2445591
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -154,7 +210,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.727669, 49.2235479] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.727669,
+          49.2235479
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -169,7 +231,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7286938, 49.2069686] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7286938,
+          49.2069686
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -184,7 +252,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7261733, 49.2110203] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7261733,
+          49.2110203
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -199,7 +273,13 @@
         "closest_trail_lon": 19.7500728,
         "closest_trail_lat": 49.2211567
       },
-      "geometry": { "type": "Point", "coordinates": [19.7501001, 49.221157] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7501001,
+          49.221157
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -214,7 +294,13 @@
         "closest_trail_lon": 19.7584218,
         "closest_trail_lat": 49.215987
       },
-      "geometry": { "type": "Point", "coordinates": [19.7584218, 49.215987] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7584218,
+          49.215987
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -229,7 +315,13 @@
         "closest_trail_lon": 20.1572064,
         "closest_trail_lat": 49.1560777
       },
-      "geometry": { "type": "Point", "coordinates": [20.1572064, 49.1560777] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1572064,
+          49.1560777
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -244,13 +336,19 @@
         "closest_trail_lon": 20.1402394,
         "closest_trail_lat": 49.1735129
       },
-      "geometry": { "type": "Point", "coordinates": [20.1402504, 49.1734914] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1402504,
+          49.1734914
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "817",
-        "name": "Tatranská Kotlina",
+        "name": "Tatranská Kotlina (817 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -259,13 +357,19 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3157687, 49.2310759] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3157687,
+          49.2310759
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1285",
-        "name": "Hrebienok",
+        "name": "Hrebienok (1285 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -274,7 +378,13 @@
         "closest_trail_lon": 20.2242476,
         "closest_trail_lat": 49.1591373
       },
-      "geometry": { "type": "Point", "coordinates": [20.2250062, 49.1587937] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2250062,
+          49.1587937
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -289,7 +399,13 @@
         "closest_trail_lon": 20.2245423,
         "closest_trail_lat": 49.1633193
       },
-      "geometry": { "type": "Point", "coordinates": [20.2245423, 49.1633193] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2245423,
+          49.1633193
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -304,7 +420,13 @@
         "closest_trail_lon": 20.218273,
         "closest_trail_lat": 49.1672272
       },
-      "geometry": { "type": "Point", "coordinates": [20.2182528, 49.1672058] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2182528,
+          49.1672058
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -319,7 +441,13 @@
         "closest_trail_lon": 20.2170368,
         "closest_trail_lat": 49.167535
       },
-      "geometry": { "type": "Point", "coordinates": [20.2170368, 49.167535] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2170368,
+          49.167535
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -334,7 +462,13 @@
         "closest_trail_lon": 20.1624445,
         "closest_trail_lat": 49.1518715
       },
-      "geometry": { "type": "Point", "coordinates": [20.1624445, 49.1518715] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1624445,
+          49.1518715
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -349,7 +483,13 @@
         "closest_trail_lon": 20.175993,
         "closest_trail_lat": 49.151797
       },
-      "geometry": { "type": "Point", "coordinates": [20.1778098, 49.1448125] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1778098,
+          49.1448125
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -364,7 +504,13 @@
         "closest_trail_lon": 20.2169023,
         "closest_trail_lat": 49.168219
       },
-      "geometry": { "type": "Point", "coordinates": [20.216895, 49.1681659] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.216895,
+          49.1681659
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -379,7 +525,13 @@
         "closest_trail_lon": 20.2195017,
         "closest_trail_lat": 49.1729496
       },
-      "geometry": { "type": "Point", "coordinates": [20.2195017, 49.1729496] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2195017,
+          49.1729496
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -394,7 +546,13 @@
         "closest_trail_lon": 20.2333237,
         "closest_trail_lat": 49.1850429
       },
-      "geometry": { "type": "Point", "coordinates": [20.2333237, 49.1850429] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2333237,
+          49.1850429
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -409,7 +567,13 @@
         "closest_trail_lon": 20.2604574,
         "closest_trail_lat": 49.2023086
       },
-      "geometry": { "type": "Point", "coordinates": [20.26044, 49.2022972] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.26044,
+          49.2022972
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -424,7 +588,13 @@
         "closest_trail_lon": 20.2599017,
         "closest_trail_lat": 49.2066182
       },
-      "geometry": { "type": "Point", "coordinates": [20.2598729, 49.2066142] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2598729,
+          49.2066142
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -439,7 +609,13 @@
         "closest_trail_lon": 20.2641564,
         "closest_trail_lat": 49.2051008
       },
-      "geometry": { "type": "Point", "coordinates": [20.2641182, 49.2051499] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2641182,
+          49.2051499
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -454,7 +630,13 @@
         "closest_trail_lon": 20.275726,
         "closest_trail_lat": 49.1968093
       },
-      "geometry": { "type": "Point", "coordinates": [20.2757059, 49.1968014] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2757059,
+          49.1968014
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -469,13 +651,19 @@
         "closest_trail_lon": 20.187846,
         "closest_trail_lat": 49.19061
       },
-      "geometry": { "type": "Point", "coordinates": [20.187846, 49.19061] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.187846,
+          49.19061
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1246",
-        "name": "Vodopády Studeného potoka",
+        "name": "Vodopády Studeného potoka (1246 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -484,7 +672,13 @@
         "closest_trail_lon": 20.2221871,
         "closest_trail_lat": 49.1648975
       },
-      "geometry": { "type": "Point", "coordinates": [20.2221871, 49.1648975] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2221871,
+          49.1648975
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -499,7 +693,13 @@
         "closest_trail_lon": 20.0475599,
         "closest_trail_lat": 49.1464548
       },
-      "geometry": { "type": "Point", "coordinates": [20.0409849, 49.144142] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0409849,
+          49.144142
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -514,7 +714,13 @@
         "closest_trail_lon": 20.0776342,
         "closest_trail_lat": 49.1542195
       },
-      "geometry": { "type": "Point", "coordinates": [20.0776342, 49.1542195] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0776342,
+          49.1542195
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -529,7 +735,13 @@
         "closest_trail_lon": 20.0766554,
         "closest_trail_lat": 49.1518849
       },
-      "geometry": { "type": "Point", "coordinates": [20.0766554, 49.1518849] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0766554,
+          49.1518849
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -544,7 +756,13 @@
         "closest_trail_lon": 20.0670363,
         "closest_trail_lat": 49.1363791
       },
-      "geometry": { "type": "Point", "coordinates": [20.0670363, 49.1363791] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0670363,
+          49.1363791
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -559,7 +777,13 @@
         "closest_trail_lon": 20.0672391,
         "closest_trail_lat": 49.1367119
       },
-      "geometry": { "type": "Point", "coordinates": [20.0673315, 49.136746] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0673315,
+          49.136746
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -574,7 +798,13 @@
         "closest_trail_lon": 20.0789899,
         "closest_trail_lat": 49.1495031
       },
-      "geometry": { "type": "Point", "coordinates": [20.0770374, 49.1484825] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0770374,
+          49.1484825
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -589,7 +819,13 @@
         "closest_trail_lon": 19.9977618,
         "closest_trail_lat": 49.1575358
       },
-      "geometry": { "type": "Point", "coordinates": [19.9977713, 49.1575483] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9977713,
+          49.1575483
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -604,13 +840,19 @@
         "closest_trail_lon": 20.1267813,
         "closest_trail_lat": 49.1489778
       },
-      "geometry": { "type": "Point", "coordinates": [20.1267049, 49.1489682] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1267049,
+          49.1489682
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1499",
-        "name": "Popradské pleso",
+        "name": "Popradské pleso (1499 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -619,7 +861,13 @@
         "closest_trail_lon": 20.0793493,
         "closest_trail_lat": 49.1547581
       },
-      "geometry": { "type": "Point", "coordinates": [20.0793611, 49.1549337] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0793611,
+          49.1549337
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -634,7 +882,13 @@
         "closest_trail_lon": 20.1323082,
         "closest_trail_lat": 49.1514515
       },
-      "geometry": { "type": "Point", "coordinates": [20.1323082, 49.1514515] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1323082,
+          49.1514515
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -649,7 +903,13 @@
         "closest_trail_lon": 20.2214339,
         "closest_trail_lat": 49.2101424
       },
-      "geometry": { "type": "Point", "coordinates": [20.221419, 49.2102052] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.221419,
+          49.2102052
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -664,13 +924,19 @@
         "closest_trail_lon": 20.2760091,
         "closest_trail_lat": 49.2244198
       },
-      "geometry": { "type": "Point", "coordinates": [20.2759778, 49.224388] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2759778,
+          49.224388
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1751.1",
-        "name": "Skalnaté pleso",
+        "name": "Skalnaté pleso (1751.1 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -679,13 +945,19 @@
         "closest_trail_lon": 20.2334381,
         "closest_trail_lat": 49.1882647
       },
-      "geometry": { "type": "Point", "coordinates": [20.2334381, 49.1882647] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2334381,
+          49.1882647
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1751",
-        "name": "Skalnaté pleso",
+        "name": "Skalnaté pleso (1751 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -694,7 +966,13 @@
         "closest_trail_lon": 20.232126,
         "closest_trail_lat": 49.1874992
       },
-      "geometry": { "type": "Point", "coordinates": [20.2320864, 49.1874941] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2320864,
+          49.1874941
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -709,7 +987,13 @@
         "closest_trail_lon": 20.168876,
         "closest_trail_lat": 49.1456608
       },
-      "geometry": { "type": "Point", "coordinates": [20.1741792, 49.1396401] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1741792,
+          49.1396401
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -724,7 +1008,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7938242, 49.148603] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7938242,
+          49.148603
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -739,7 +1029,13 @@
         "closest_trail_lon": 19.7631085,
         "closest_trail_lat": 49.2075144
       },
-      "geometry": { "type": "Point", "coordinates": [19.7631085, 49.2075144] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7631085,
+          49.2075144
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -754,7 +1050,13 @@
         "closest_trail_lon": 19.9387998,
         "closest_trail_lat": 49.2344715
       },
-      "geometry": { "type": "Point", "coordinates": [19.9388617, 49.2344409] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9388617,
+          49.2344409
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -769,7 +1071,13 @@
         "closest_trail_lon": 19.9323411,
         "closest_trail_lat": 49.2463643
       },
-      "geometry": { "type": "Point", "coordinates": [19.9323411, 49.2463643] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9323411,
+          49.2463643
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -784,7 +1092,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7005285, 49.144976] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7005285,
+          49.144976
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -799,7 +1113,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7201438, 49.1815767] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7201438,
+          49.1815767
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -814,7 +1134,13 @@
         "closest_trail_lon": 19.9796784,
         "closest_trail_lat": 49.1561834
       },
-      "geometry": { "type": "Point", "coordinates": [19.9795161, 49.1755752] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9795161,
+          49.1755752
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -829,7 +1155,13 @@
         "closest_trail_lon": 20.0049311,
         "closest_trail_lat": 49.1911548
       },
-      "geometry": { "type": "Point", "coordinates": [20.0049707, 49.1911539] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0049707,
+          49.1911539
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -844,7 +1176,13 @@
         "closest_trail_lon": 20.2165523,
         "closest_trail_lat": 49.1893604
       },
-      "geometry": { "type": "Point", "coordinates": [20.2165154, 49.1893744] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2165154,
+          49.1893744
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -859,13 +1197,19 @@
         "closest_trail_lon": 20.198998,
         "closest_trail_lat": 49.1902298
       },
-      "geometry": { "type": "Point", "coordinates": [20.198998, 49.1902298] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.198998,
+          49.1902298
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1340",
-        "name": "Roháčsky vodopád",
+        "name": "Roháčsky vodopád (1340 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -874,7 +1218,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7286957, 49.2156034] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7286957,
+          49.2156034
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -889,7 +1239,13 @@
         "closest_trail_lon": 20.0075908,
         "closest_trail_lat": 49.2047166
       },
-      "geometry": { "type": "Point", "coordinates": [20.0075716, 49.2047172] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0075716,
+          49.2047172
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -904,7 +1260,13 @@
         "closest_trail_lon": 20.0278777,
         "closest_trail_lat": 49.1940531
       },
-      "geometry": { "type": "Point", "coordinates": [20.0279117, 49.1940297] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0279117,
+          49.1940297
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -919,7 +1281,13 @@
         "closest_trail_lon": 19.759219,
         "closest_trail_lat": 49.2035134
       },
-      "geometry": { "type": "Point", "coordinates": [19.759219, 49.2035134] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.759219,
+          49.2035134
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -934,7 +1302,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6630265, 49.1882246] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6630265,
+          49.1882246
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -949,7 +1323,13 @@
         "closest_trail_lon": 19.8562714,
         "closest_trail_lat": 49.1962613
       },
-      "geometry": { "type": "Point", "coordinates": [19.8562614, 49.1962854] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8562614,
+          49.1962854
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -964,7 +1344,13 @@
         "closest_trail_lon": 20.014767,
         "closest_trail_lat": 49.2326004
       },
-      "geometry": { "type": "Point", "coordinates": [20.0147367, 49.232573] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0147367,
+          49.232573
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -979,7 +1365,13 @@
         "closest_trail_lon": 20.060142,
         "closest_trail_lat": 49.1753724
       },
-      "geometry": { "type": "Point", "coordinates": [20.0601104, 49.1754074] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0601104,
+          49.1754074
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -994,7 +1386,13 @@
         "closest_trail_lon": 20.0472782,
         "closest_trail_lat": 49.228652
       },
-      "geometry": { "type": "Point", "coordinates": [20.0472782, 49.228652] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0472782,
+          49.228652
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1009,7 +1407,13 @@
         "closest_trail_lon": 19.8332919,
         "closest_trail_lat": 49.205003
       },
-      "geometry": { "type": "Point", "coordinates": [19.8332919, 49.205003] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8332919,
+          49.205003
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1024,7 +1428,13 @@
         "closest_trail_lon": 19.8620018,
         "closest_trail_lat": 49.2393627
       },
-      "geometry": { "type": "Point", "coordinates": [19.8620018, 49.2393627] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8620018,
+          49.2393627
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1039,7 +1449,13 @@
         "closest_trail_lon": 19.8619897,
         "closest_trail_lat": 49.2398324
       },
-      "geometry": { "type": "Point", "coordinates": [19.8619897, 49.2398324] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8619897,
+          49.2398324
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1054,7 +1470,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6421436, 49.2111884] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6421436,
+          49.2111884
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1069,7 +1491,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7342697, 49.1975345] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7342697,
+          49.1975345
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1084,7 +1512,13 @@
         "closest_trail_lon": 19.981906,
         "closest_trail_lat": 49.1563185
       },
-      "geometry": { "type": "Point", "coordinates": [19.9808612, 49.1745349] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9808612,
+          49.1745349
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1099,7 +1533,13 @@
         "closest_trail_lon": 19.968971,
         "closest_trail_lat": 49.1502733
       },
-      "geometry": { "type": "Point", "coordinates": [19.9637535, 49.155173] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9637535,
+          49.155173
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1114,7 +1554,13 @@
         "closest_trail_lon": 20.2201603,
         "closest_trail_lat": 49.2293592
       },
-      "geometry": { "type": "Point", "coordinates": [20.2201569, 49.2293781] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2201569,
+          49.2293781
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1129,7 +1575,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3174793, 49.2292517] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3174793,
+          49.2292517
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1144,7 +1596,13 @@
         "closest_trail_lon": 19.751237,
         "closest_trail_lat": 49.2108938
       },
-      "geometry": { "type": "Point", "coordinates": [19.7512592, 49.2108972] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7512592,
+          49.2108972
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1159,7 +1617,13 @@
         "closest_trail_lon": 19.7509334,
         "closest_trail_lat": 49.2046315
       },
-      "geometry": { "type": "Point", "coordinates": [19.7509809, 49.2046296] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7509809,
+          49.2046296
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1174,7 +1638,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7323233, 49.2204096] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7323233,
+          49.2204096
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1189,7 +1659,13 @@
         "closest_trail_lon": 19.7479172,
         "closest_trail_lat": 49.2137872
       },
-      "geometry": { "type": "Point", "coordinates": [19.7479071, 49.2138164] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7479071,
+          49.2138164
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1204,7 +1680,13 @@
         "closest_trail_lon": 19.7381697,
         "closest_trail_lat": 49.208794
       },
-      "geometry": { "type": "Point", "coordinates": [19.7381516, 49.2087811] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7381516,
+          49.2087811
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1219,7 +1701,13 @@
         "closest_trail_lon": 19.7472588,
         "closest_trail_lat": 49.2148004
       },
-      "geometry": { "type": "Point", "coordinates": [19.7466572, 49.2145356] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7466572,
+          49.2145356
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1234,7 +1722,13 @@
         "closest_trail_lon": 19.7266456,
         "closest_trail_lat": 49.2551522
       },
-      "geometry": { "type": "Point", "coordinates": [19.7185978, 49.2362294] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7185978,
+          49.2362294
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1249,7 +1743,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7378714, 49.2089332] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7378714,
+          49.2089332
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1264,7 +1764,13 @@
         "closest_trail_lon": 19.7507522,
         "closest_trail_lat": 49.2121879
       },
-      "geometry": { "type": "Point", "coordinates": [19.7507743, 49.2121886] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7507743,
+          49.2121886
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1279,7 +1785,13 @@
         "closest_trail_lon": 19.7513553,
         "closest_trail_lat": 49.2047189
       },
-      "geometry": { "type": "Point", "coordinates": [19.7513323, 49.2047038] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7513323,
+          49.2047038
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1294,7 +1806,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7282634, 49.2222444] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7282634,
+          49.2222444
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1309,13 +1827,19 @@
         "closest_trail_lon": 19.7113824,
         "closest_trail_lat": 49.2590878
       },
-      "geometry": { "type": "Point", "coordinates": [19.7113397, 49.2483757] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7113397,
+          49.2483757
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1320",
-        "name": "Partizánska nemocnica",
+        "name": "Partizánska nemocnica (1320 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -1324,7 +1848,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6870381, 49.23988] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6870381,
+          49.23988
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1339,7 +1869,13 @@
         "closest_trail_lon": 19.7489878,
         "closest_trail_lat": 49.1964755
       },
-      "geometry": { "type": "Point", "coordinates": [19.7489878, 49.1964755] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7489878,
+          49.1964755
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1354,7 +1890,13 @@
         "closest_trail_lon": 20.0871649,
         "closest_trail_lat": 49.1745635
       },
-      "geometry": { "type": "Point", "coordinates": [20.0871859, 49.1745785] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0871859,
+          49.1745785
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1369,7 +1911,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7006456, 49.1450547] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7006456,
+          49.1450547
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1384,7 +1932,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6380455, 49.1937643] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6380455,
+          49.1937643
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1399,7 +1953,13 @@
         "closest_trail_lon": 20.0143618,
         "closest_trail_lat": 49.1924649
       },
-      "geometry": { "type": "Point", "coordinates": [20.0143459, 49.1924741] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0143459,
+          49.1924741
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1414,7 +1974,13 @@
         "closest_trail_lon": 19.9365944,
         "closest_trail_lat": 49.2145375
       },
-      "geometry": { "type": "Point", "coordinates": [19.9363418, 49.2136867] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9363418,
+          49.2136867
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1429,7 +1995,13 @@
         "closest_trail_lon": 19.7264573,
         "closest_trail_lat": 49.2552347
       },
-      "geometry": { "type": "Point", "coordinates": [19.7180343, 49.2366402] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7180343,
+          49.2366402
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1444,7 +2016,13 @@
         "closest_trail_lon": 19.7183025,
         "closest_trail_lat": 49.2583578
       },
-      "geometry": { "type": "Point", "coordinates": [19.7132063, 49.2386541] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7132063,
+          49.2386541
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1459,7 +2037,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6821675, 49.2228025] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6821675,
+          49.2228025
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1474,7 +2058,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6919877, 49.2252044] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6919877,
+          49.2252044
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1489,7 +2079,13 @@
         "closest_trail_lon": 19.723086,
         "closest_trail_lat": 49.2565513
       },
-      "geometry": { "type": "Point", "coordinates": [19.7150211, 49.2381782] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7150211,
+          49.2381782
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1504,7 +2100,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6874907, 49.2119404] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6874907,
+          49.2119404
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1519,7 +2121,13 @@
         "closest_trail_lon": 19.7175541,
         "closest_trail_lat": 49.2585416
       },
-      "geometry": { "type": "Point", "coordinates": [19.7138606, 49.2428051] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7138606,
+          49.2428051
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1534,7 +2142,13 @@
         "closest_trail_lon": 19.7048048,
         "closest_trail_lat": 49.2585989
       },
-      "geometry": { "type": "Point", "coordinates": [19.7077534, 49.2450974] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7077534,
+          49.2450974
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1549,7 +2163,13 @@
         "closest_trail_lon": 19.7423988,
         "closest_trail_lat": 49.2370831
       },
-      "geometry": { "type": "Point", "coordinates": [19.7422199, 49.237602] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7422199,
+          49.237602
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1564,7 +2184,13 @@
         "closest_trail_lon": 19.7538364,
         "closest_trail_lat": 49.2304169
       },
-      "geometry": { "type": "Point", "coordinates": [19.7538364, 49.2304169] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7538364,
+          49.2304169
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1579,7 +2205,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7224153, 49.2070099] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7224153,
+          49.2070099
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1594,7 +2226,13 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.7057198, 49.1995356] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7057198,
+          49.1995356
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1609,7 +2247,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6587722, 49.2224077] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6587722,
+          49.2224077
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1624,7 +2268,13 @@
         "closest_trail_lon": 19.7217913,
         "closest_trail_lat": 49.258518
       },
-      "geometry": { "type": "Point", "coordinates": [19.7217403, 49.2585042] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7217403,
+          49.2585042
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1639,7 +2289,13 @@
         "closest_trail_lon": 19.7667787,
         "closest_trail_lat": 49.2365845
       },
-      "geometry": { "type": "Point", "coordinates": [19.7667787, 49.2365845] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7667787,
+          49.2365845
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1654,7 +2310,13 @@
         "closest_trail_lon": 20.0902896,
         "closest_trail_lat": 49.2628574
       },
-      "geometry": { "type": "Point", "coordinates": [20.0902088, 49.2628462] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0902088,
+          49.2628462
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1669,7 +2331,13 @@
         "closest_trail_lon": 20.2185376,
         "closest_trail_lat": 49.2343991
       },
-      "geometry": { "type": "Point", "coordinates": [20.2185595, 49.234392] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2185595,
+          49.234392
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1684,7 +2352,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.687008, 49.2399234] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.687008,
+          49.2399234
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1699,7 +2373,13 @@
         "closest_trail_lon": 19.8165997,
         "closest_trail_lat": 49.186065
       },
-      "geometry": { "type": "Point", "coordinates": [19.8165997, 49.186065] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8165997,
+          49.186065
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1714,7 +2394,13 @@
         "closest_trail_lon": 19.8154314,
         "closest_trail_lat": 49.2565343
       },
-      "geometry": { "type": "Point", "coordinates": [19.81555, 49.2595289] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81555,
+          49.2595289
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1729,13 +2415,19 @@
         "closest_trail_lon": 19.8678637,
         "closest_trail_lat": 49.2559627
       },
-      "geometry": { "type": "Point", "coordinates": [19.8682313, 49.2573812] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8682313,
+          49.2573812
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "766",
-        "name": "Tatranská Kotlina",
+        "name": "Tatranská Kotlina (766 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -1744,7 +2436,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3156976, 49.2308906] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3156976,
+          49.2308906
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1759,7 +2457,13 @@
         "closest_trail_lon": 19.9583948,
         "closest_trail_lat": 49.2317994
       },
-      "geometry": { "type": "Point", "coordinates": [19.9585545, 49.2224207] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9585545,
+          49.2224207
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1774,7 +2478,13 @@
         "closest_trail_lon": 20.2661818,
         "closest_trail_lat": 49.2043461
       },
-      "geometry": { "type": "Point", "coordinates": [20.2662571, 49.2045169] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2662571,
+          49.2045169
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1789,7 +2499,13 @@
         "closest_trail_lon": 20.1439104,
         "closest_trail_lat": 49.145179
       },
-      "geometry": { "type": "Point", "coordinates": [20.1439104, 49.145179] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1439104,
+          49.145179
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1804,7 +2520,13 @@
         "closest_trail_lon": 20.0914098,
         "closest_trail_lat": 49.1502297
       },
-      "geometry": { "type": "Point", "coordinates": [20.0914098, 49.1502297] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0914098,
+          49.1502297
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1819,7 +2541,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.7067272, 49.2327581] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7067272,
+          49.2327581
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1834,7 +2562,13 @@
         "closest_trail_lon": 20.0440391,
         "closest_trail_lat": 49.2140196
       },
-      "geometry": { "type": "Point", "coordinates": [20.0439611, 49.2141556] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0439611,
+          49.2141556
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1849,7 +2583,13 @@
         "closest_trail_lon": 19.9816556,
         "closest_trail_lat": 49.2323698
       },
-      "geometry": { "type": "Point", "coordinates": [19.9816601, 49.2323564] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9816601,
+          49.2323564
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1864,7 +2604,13 @@
         "closest_trail_lon": 19.9741424,
         "closest_trail_lat": 49.2516964
       },
-      "geometry": { "type": "Point", "coordinates": [19.9741183, 49.251648] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9741183,
+          49.251648
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1879,7 +2625,13 @@
         "closest_trail_lon": 19.9830376,
         "closest_trail_lat": 49.2309905
       },
-      "geometry": { "type": "Point", "coordinates": [19.9830819, 49.2309684] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9830819,
+          49.2309684
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1894,7 +2646,13 @@
         "closest_trail_lon": 19.9515465,
         "closest_trail_lat": 49.2495285
       },
-      "geometry": { "type": "Point", "coordinates": [19.9516056, 49.2495823] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9516056,
+          49.2495823
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1909,7 +2667,13 @@
         "closest_trail_lon": 19.9665458,
         "closest_trail_lat": 49.259602
       },
-      "geometry": { "type": "Point", "coordinates": [19.9665722, 49.2594137] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9665722,
+          49.2594137
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1924,7 +2688,13 @@
         "closest_trail_lon": 19.9297024,
         "closest_trail_lat": 49.2630276
       },
-      "geometry": { "type": "Point", "coordinates": [19.9297207, 49.2630321] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9297207,
+          49.2630321
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1939,7 +2709,13 @@
         "closest_trail_lon": 19.761826,
         "closest_trail_lat": 49.1503333
       },
-      "geometry": { "type": "Point", "coordinates": [19.7311127, 49.1530101] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7311127,
+          49.1530101
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1954,7 +2730,13 @@
         "closest_trail_lon": 19.761826,
         "closest_trail_lat": 49.1503333
       },
-      "geometry": { "type": "Point", "coordinates": [19.7313157, 49.1528538] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7313157,
+          49.1528538
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1969,7 +2751,13 @@
         "closest_trail_lon": 19.761826,
         "closest_trail_lat": 49.1503333
       },
-      "geometry": { "type": "Point", "coordinates": [19.7329143, 49.1487453] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7329143,
+          49.1487453
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1984,7 +2772,13 @@
         "closest_trail_lon": 19.761826,
         "closest_trail_lat": 49.1503333
       },
-      "geometry": { "type": "Point", "coordinates": [19.7371313, 49.142658] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7371313,
+          49.142658
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1999,7 +2793,13 @@
         "closest_trail_lon": 19.761826,
         "closest_trail_lat": 49.1503333
       },
-      "geometry": { "type": "Point", "coordinates": [19.7378051, 49.1412365] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7378051,
+          49.1412365
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2014,7 +2814,13 @@
         "closest_trail_lon": 19.7754808,
         "closest_trail_lat": 49.187582
       },
-      "geometry": { "type": "Point", "coordinates": [19.7754243, 49.1875995] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7754243,
+          49.1875995
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2029,7 +2835,13 @@
         "closest_trail_lon": 20.164551,
         "closest_trail_lat": 49.1492674
       },
-      "geometry": { "type": "Point", "coordinates": [20.1607853, 49.1447035] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1607853,
+          49.1447035
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2044,7 +2856,13 @@
         "closest_trail_lon": 20.208967,
         "closest_trail_lat": 49.2339737
       },
-      "geometry": { "type": "Point", "coordinates": [20.2090822, 49.2340194] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2090822,
+          49.2340194
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2059,7 +2877,13 @@
         "closest_trail_lon": 20.1620596,
         "closest_trail_lat": 49.2436218
       },
-      "geometry": { "type": "Point", "coordinates": [20.1625784, 49.2422165] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1625784,
+          49.2422165
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2074,7 +2898,13 @@
         "closest_trail_lon": 20.2201175,
         "closest_trail_lat": 49.2293783
       },
-      "geometry": { "type": "Point", "coordinates": [20.2200952, 49.2292753] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2200952,
+          49.2292753
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2089,7 +2919,13 @@
         "closest_trail_lon": 20.1912805,
         "closest_trail_lat": 49.2337986
       },
-      "geometry": { "type": "Point", "coordinates": [20.1913036, 49.2338041] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1913036,
+          49.2338041
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2104,7 +2940,13 @@
         "closest_trail_lon": 20.1789451,
         "closest_trail_lat": 49.2356148
       },
-      "geometry": { "type": "Point", "coordinates": [20.1757269, 49.2359218] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1757269,
+          49.2359218
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2119,7 +2961,13 @@
         "closest_trail_lon": 20.1574876,
         "closest_trail_lat": 49.2467038
       },
-      "geometry": { "type": "Point", "coordinates": [20.1579956, 49.2487681] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1579956,
+          49.2487681
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2134,7 +2982,13 @@
         "closest_trail_lon": 20.1574876,
         "closest_trail_lat": 49.2467038
       },
-      "geometry": { "type": "Point", "coordinates": [20.1576684, 49.2492505] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1576684,
+          49.2492505
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2149,7 +3003,13 @@
         "closest_trail_lon": 20.1574876,
         "closest_trail_lat": 49.2467038
       },
-      "geometry": { "type": "Point", "coordinates": [20.1552301, 49.2503865] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1552301,
+          49.2503865
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2164,7 +3024,13 @@
         "closest_trail_lon": 20.1686606,
         "closest_trail_lat": 49.241229
       },
-      "geometry": { "type": "Point", "coordinates": [20.1672914, 49.2387318] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1672914,
+          49.2387318
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2179,7 +3045,13 @@
         "closest_trail_lon": 20.2310979,
         "closest_trail_lat": 49.2218332
       },
-      "geometry": { "type": "Point", "coordinates": [20.2310477, 49.2217856] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2310477,
+          49.2217856
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2194,7 +3066,13 @@
         "closest_trail_lon": 20.1562276,
         "closest_trail_lat": 49.1609394
       },
-      "geometry": { "type": "Point", "coordinates": [20.1565683, 49.162647] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1565683,
+          49.162647
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2209,7 +3087,13 @@
         "closest_trail_lon": 19.8852339,
         "closest_trail_lat": 49.1562566
       },
-      "geometry": { "type": "Point", "coordinates": [19.8852904, 49.150344] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8852904,
+          49.150344
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2224,7 +3108,13 @@
         "closest_trail_lon": 20.2242476,
         "closest_trail_lat": 49.1591373
       },
-      "geometry": { "type": "Point", "coordinates": [20.224943, 49.1588472] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.224943,
+          49.1588472
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2239,7 +3129,13 @@
         "closest_trail_lon": 20.082089,
         "closest_trail_lat": 49.1544391
       },
-      "geometry": { "type": "Point", "coordinates": [20.0820903, 49.1544262] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0820903,
+          49.1544262
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2254,7 +3150,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7004535, 49.1448568] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7004535,
+          49.1448568
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2269,7 +3171,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.7016031, 49.2225379] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7016031,
+          49.2225379
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2284,7 +3192,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.795547, 49.1502632] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.795547,
+          49.1502632
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2299,7 +3213,13 @@
         "closest_trail_lon": 19.829377,
         "closest_trail_lat": 49.1918731
       },
-      "geometry": { "type": "Point", "coordinates": [19.8293541, 49.1919226] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8293541,
+          49.1919226
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2314,7 +3234,13 @@
         "closest_trail_lon": 20.2284394,
         "closest_trail_lat": 49.2562317
       },
-      "geometry": { "type": "Point", "coordinates": [20.2284641, 49.2562673] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2284641,
+          49.2562673
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2329,7 +3255,13 @@
         "closest_trail_lon": 20.0788035,
         "closest_trail_lat": 49.1545162
       },
-      "geometry": { "type": "Point", "coordinates": [20.0787161, 49.154522] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0787161,
+          49.154522
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2344,7 +3276,13 @@
         "closest_trail_lon": 19.9341068,
         "closest_trail_lat": 49.2510059
       },
-      "geometry": { "type": "Point", "coordinates": [19.9341025, 49.2509651] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9341025,
+          49.2509651
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2359,7 +3297,13 @@
         "closest_trail_lon": 20.0678238,
         "closest_trail_lat": 49.1396055
       },
-      "geometry": { "type": "Point", "coordinates": [20.0677986, 49.1395759] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0677986,
+          49.1395759
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2374,7 +3318,13 @@
         "closest_trail_lon": 20.0685105,
         "closest_trail_lat": 49.1414954
       },
-      "geometry": { "type": "Point", "coordinates": [20.0685339, 49.1415903] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0685339,
+          49.1415903
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2389,7 +3339,13 @@
         "closest_trail_lon": 20.0686178,
         "closest_trail_lat": 49.1417708
       },
-      "geometry": { "type": "Point", "coordinates": [20.068631, 49.1419351] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.068631,
+          49.1419351
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2404,7 +3360,13 @@
         "closest_trail_lon": 20.0709701,
         "closest_trail_lat": 49.1494733
       },
-      "geometry": { "type": "Point", "coordinates": [20.070924, 49.149413] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.070924,
+          49.149413
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2419,7 +3381,13 @@
         "closest_trail_lon": 20.0716805,
         "closest_trail_lat": 49.1514119
       },
-      "geometry": { "type": "Point", "coordinates": [20.0716584, 49.1514129] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0716584,
+          49.1514129
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2434,7 +3402,13 @@
         "closest_trail_lon": 20.0750159,
         "closest_trail_lat": 49.1531207
       },
-      "geometry": { "type": "Point", "coordinates": [20.0751377, 49.1530952] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0751377,
+          49.1530952
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2449,7 +3423,13 @@
         "closest_trail_lon": 20.0765118,
         "closest_trail_lat": 49.1541985
       },
-      "geometry": { "type": "Point", "coordinates": [20.0765057, 49.1542357] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0765057,
+          49.1542357
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2464,13 +3444,19 @@
         "closest_trail_lon": 20.0773631,
         "closest_trail_lat": 49.1541102
       },
-      "geometry": { "type": "Point", "coordinates": [20.077398, 49.1541601] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.077398,
+          49.1541601
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1510",
-        "name": "Hala Gąsienicowa",
+        "name": "Hala Gąsienicowa (1510 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -2479,7 +3465,13 @@
         "closest_trail_lon": 20.0054246,
         "closest_trail_lat": 49.2429441
       },
-      "geometry": { "type": "Point", "coordinates": [20.0054091, 49.2429165] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0054091,
+          49.2429165
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2494,13 +3486,19 @@
         "closest_trail_lon": 20.0032225,
         "closest_trail_lat": 49.254924
       },
-      "geometry": { "type": "Point", "coordinates": [20.0031937, 49.2549326] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0031937,
+          49.2549326
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1500",
-        "name": "Hala Gąsienicowa",
+        "name": "Hala Gąsienicowa (1500 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -2509,7 +3507,13 @@
         "closest_trail_lon": 20.0069321,
         "closest_trail_lat": 49.2432731
       },
-      "geometry": { "type": "Point", "coordinates": [20.0069558, 49.2432442] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0069558,
+          49.2432442
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2524,7 +3528,13 @@
         "closest_trail_lon": 20.2271676,
         "closest_trail_lat": 49.2482667
       },
-      "geometry": { "type": "Point", "coordinates": [20.2271445, 49.2482374] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2271445,
+          49.2482374
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2539,7 +3549,13 @@
         "closest_trail_lon": 20.2217013,
         "closest_trail_lat": 49.2452969
       },
-      "geometry": { "type": "Point", "coordinates": [20.2216509, 49.2452695] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2216509,
+          49.2452695
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2554,7 +3570,13 @@
         "closest_trail_lon": 20.213047,
         "closest_trail_lat": 49.2380966
       },
-      "geometry": { "type": "Point", "coordinates": [20.2130136, 49.2380925] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2130136,
+          49.2380925
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2569,7 +3591,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3167036, 49.2282288] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3167036,
+          49.2282288
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2584,7 +3612,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3169942, 49.2269603] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3169942,
+          49.2269603
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2599,7 +3633,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3157334, 49.2278708] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3157334,
+          49.2278708
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2614,7 +3654,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3139484, 49.2293792] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3139484,
+          49.2293792
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2629,7 +3675,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3133109, 49.2288278] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3133109,
+          49.2288278
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2644,7 +3696,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3116621, 49.2288002] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3116621,
+          49.2288002
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2659,7 +3717,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3116037, 49.2288716] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3116037,
+          49.2288716
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2674,7 +3738,13 @@
         "closest_trail_lon": 20.3060133,
         "closest_trail_lat": 49.2245651
       },
-      "geometry": { "type": "Point", "coordinates": [20.3166081, 49.2285843] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3166081,
+          49.2285843
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2689,7 +3759,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7408263, 49.173513] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7408263,
+          49.173513
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2704,7 +3780,13 @@
         "closest_trail_lon": 20.0318022,
         "closest_trail_lat": 49.1462324
       },
-      "geometry": { "type": "Point", "coordinates": [20.0318528, 49.1462378] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0318528,
+          49.1462378
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2719,7 +3801,13 @@
         "closest_trail_lon": 19.8165997,
         "closest_trail_lat": 49.186065
       },
-      "geometry": { "type": "Point", "coordinates": [19.8161977, 49.1853481] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8161977,
+          49.1853481
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2734,7 +3822,13 @@
         "closest_trail_lon": 19.8165997,
         "closest_trail_lat": 49.186065
       },
-      "geometry": { "type": "Point", "coordinates": [19.8107006, 49.1707219] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8107006,
+          49.1707219
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2749,7 +3843,13 @@
         "closest_trail_lon": 19.7782981,
         "closest_trail_lat": 49.1509592
       },
-      "geometry": { "type": "Point", "coordinates": [19.8053458, 49.1564689] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8053458,
+          49.1564689
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2764,7 +3864,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7948511, 49.1496422] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7948511,
+          49.1496422
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2779,7 +3885,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6258005, 49.1800877] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6258005,
+          49.1800877
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2794,7 +3906,13 @@
         "closest_trail_lon": 19.7507833,
         "closest_trail_lat": 49.1932842
       },
-      "geometry": { "type": "Point", "coordinates": [19.7508169, 49.1933296] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7508169,
+          49.1933296
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2809,7 +3927,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7384942, 49.1901599] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7384942,
+          49.1901599
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2824,7 +3948,13 @@
         "closest_trail_lon": 20.2216676,
         "closest_trail_lat": 49.1709352
       },
-      "geometry": { "type": "Point", "coordinates": [20.2216887, 49.1709574] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2216887,
+          49.1709574
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2839,7 +3969,13 @@
         "closest_trail_lon": 19.9970408,
         "closest_trail_lat": 49.2761093
       },
-      "geometry": { "type": "Point", "coordinates": [19.9970225, 49.2760694] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9970225,
+          49.2760694
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2854,7 +3990,13 @@
         "closest_trail_lon": 19.7711792,
         "closest_trail_lat": 49.2810363
       },
-      "geometry": { "type": "Point", "coordinates": [19.7725694, 49.2798791] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7725694,
+          49.2798791
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2869,7 +4011,13 @@
         "closest_trail_lon": 19.7682238,
         "closest_trail_lat": 49.2790396
       },
-      "geometry": { "type": "Point", "coordinates": [19.7704151, 49.2734574] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7704151,
+          49.2734574
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2884,7 +4032,13 @@
         "closest_trail_lon": 19.7778529,
         "closest_trail_lat": 49.2409946
       },
-      "geometry": { "type": "Point", "coordinates": [19.7761368, 49.2421718] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7761368,
+          49.2421718
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2899,7 +4053,13 @@
         "closest_trail_lon": 19.7568832,
         "closest_trail_lat": 49.2784735
       },
-      "geometry": { "type": "Point", "coordinates": [19.7570229, 49.277911] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7570229,
+          49.277911
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2914,7 +4074,13 @@
         "closest_trail_lon": 19.75941,
         "closest_trail_lat": 49.2786336
       },
-      "geometry": { "type": "Point", "coordinates": [19.7599076, 49.2715306] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7599076,
+          49.2715306
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2929,7 +4095,13 @@
         "closest_trail_lon": 19.7655576,
         "closest_trail_lat": 49.2782172
       },
-      "geometry": { "type": "Point", "coordinates": [19.7642223, 49.2675567] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7642223,
+          49.2675567
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2944,7 +4116,13 @@
         "closest_trail_lon": 19.7655576,
         "closest_trail_lat": 49.2782172
       },
-      "geometry": { "type": "Point", "coordinates": [19.7643587, 49.2676269] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7643587,
+          49.2676269
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2959,7 +4137,13 @@
         "closest_trail_lon": 19.7662014,
         "closest_trail_lat": 49.2782522
       },
-      "geometry": { "type": "Point", "coordinates": [19.7676739, 49.2687234] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7676739,
+          49.2687234
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2974,7 +4158,13 @@
         "closest_trail_lon": 19.7652519,
         "closest_trail_lat": 49.2782522
       },
-      "geometry": { "type": "Point", "coordinates": [19.7641354, 49.2675227] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7641354,
+          49.2675227
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2989,7 +4179,13 @@
         "closest_trail_lon": 19.7652519,
         "closest_trail_lat": 49.2782522
       },
-      "geometry": { "type": "Point", "coordinates": [19.764169, 49.2676331] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.764169,
+          49.2676331
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3004,13 +4200,19 @@
         "closest_trail_lon": 19.7655576,
         "closest_trail_lat": 49.2782172
       },
-      "geometry": { "type": "Point", "coordinates": [19.7643205, 49.2673869] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7643205,
+          49.2673869
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1514",
-        "name": "Hala Gąsienicowa",
+        "name": "Hala Gąsienicowa (1514 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -3019,7 +4221,13 @@
         "closest_trail_lon": 20.0063898,
         "closest_trail_lat": 49.2449127
       },
-      "geometry": { "type": "Point", "coordinates": [20.0063625, 49.2448916] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0063625,
+          49.2448916
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3034,7 +4242,13 @@
         "closest_trail_lon": 20.0060474,
         "closest_trail_lat": 49.2440119
       },
-      "geometry": { "type": "Point", "coordinates": [20.0060303, 49.2440592] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0060303,
+          49.2440592
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3049,7 +4263,13 @@
         "closest_trail_lon": 19.7711792,
         "closest_trail_lat": 49.2810363
       },
-      "geometry": { "type": "Point", "coordinates": [19.7722, 49.2799948] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7722,
+          49.2799948
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3064,7 +4284,13 @@
         "closest_trail_lon": 19.7266456,
         "closest_trail_lat": 49.2551522
       },
-      "geometry": { "type": "Point", "coordinates": [19.7184084, 49.2362181] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7184084,
+          49.2362181
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3079,7 +4305,13 @@
         "closest_trail_lon": 19.7266456,
         "closest_trail_lat": 49.2551522
       },
-      "geometry": { "type": "Point", "coordinates": [19.7184594, 49.2361796] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7184594,
+          49.2361796
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3094,7 +4326,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6340127, 49.1687872] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6340127,
+          49.1687872
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3109,7 +4347,13 @@
         "closest_trail_lon": 19.9425647,
         "closest_trail_lat": 49.263014
       },
-      "geometry": { "type": "Point", "coordinates": [19.9425136, 49.2629374] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9425136,
+          49.2629374
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3124,7 +4368,13 @@
         "closest_trail_lon": 20.2130296,
         "closest_trail_lat": 49.191533
       },
-      "geometry": { "type": "Point", "coordinates": [20.2130296, 49.191533] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2130296,
+          49.191533
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3139,7 +4389,13 @@
         "closest_trail_lon": 20.016392,
         "closest_trail_lat": 49.2190881
       },
-      "geometry": { "type": "Point", "coordinates": [20.01639, 49.2190907] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01639,
+          49.2190907
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3154,7 +4410,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6406956, 49.1814852] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6406956,
+          49.1814852
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3169,7 +4431,13 @@
         "closest_trail_lon": 20.2311046,
         "closest_trail_lat": 49.188458
       },
-      "geometry": { "type": "Point", "coordinates": [20.2310751, 49.1884468] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2310751,
+          49.1884468
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3184,7 +4452,13 @@
         "closest_trail_lon": 20.2303952,
         "closest_trail_lat": 49.1888043
       },
-      "geometry": { "type": "Point", "coordinates": [20.2303603, 49.1888439] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2303603,
+          49.1888439
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3199,7 +4473,13 @@
         "closest_trail_lon": 20.2325198,
         "closest_trail_lat": 49.1891247
       },
-      "geometry": { "type": "Point", "coordinates": [20.2326308, 49.1890788] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2326308,
+          49.1890788
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3214,7 +4494,13 @@
         "closest_trail_lon": 20.2333579,
         "closest_trail_lat": 49.1884915
       },
-      "geometry": { "type": "Point", "coordinates": [20.2333993, 49.1884837] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2333993,
+          49.1884837
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3229,7 +4515,13 @@
         "closest_trail_lon": 20.2326599,
         "closest_trail_lat": 49.1880016
       },
-      "geometry": { "type": "Point", "coordinates": [20.2325973, 49.1879981] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2325973,
+          49.1879981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3244,7 +4536,13 @@
         "closest_trail_lon": 20.2264495,
         "closest_trail_lat": 49.1703492
       },
-      "geometry": { "type": "Point", "coordinates": [20.2264758, 49.170348] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2264758,
+          49.170348
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3259,7 +4557,13 @@
         "closest_trail_lon": 20.2235223,
         "closest_trail_lat": 49.1640293
       },
-      "geometry": { "type": "Point", "coordinates": [20.2234992, 49.1640002] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2234992,
+          49.1640002
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3274,7 +4578,13 @@
         "closest_trail_lon": 20.222338,
         "closest_trail_lat": 49.164816
       },
-      "geometry": { "type": "Point", "coordinates": [20.2222945, 49.1647941] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2222945,
+          49.1647941
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3289,7 +4599,13 @@
         "closest_trail_lon": 20.21869,
         "closest_trail_lat": 49.1669291
       },
-      "geometry": { "type": "Point", "coordinates": [20.2186672, 49.1669957] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2186672,
+          49.1669957
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3304,7 +4620,13 @@
         "closest_trail_lon": 20.21869,
         "closest_trail_lat": 49.1669291
       },
-      "geometry": { "type": "Point", "coordinates": [20.2185734, 49.1669475] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2185734,
+          49.1669475
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3319,7 +4641,13 @@
         "closest_trail_lon": 20.2167947,
         "closest_trail_lat": 49.1683894
       },
-      "geometry": { "type": "Point", "coordinates": [20.2167656, 49.1683312] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2167656,
+          49.1683312
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3334,7 +4662,13 @@
         "closest_trail_lon": 20.2170368,
         "closest_trail_lat": 49.167535
       },
-      "geometry": { "type": "Point", "coordinates": [20.2169835, 49.1675105] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2169835,
+          49.1675105
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3349,7 +4683,13 @@
         "closest_trail_lon": 20.2189534,
         "closest_trail_lat": 49.1653721
       },
-      "geometry": { "type": "Point", "coordinates": [20.2189381, 49.1653327] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2189381,
+          49.1653327
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3364,7 +4704,13 @@
         "closest_trail_lon": 20.2201598,
         "closest_trail_lat": 49.163007
       },
-      "geometry": { "type": "Point", "coordinates": [20.2201733, 49.1629522] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2201733,
+          49.1629522
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3379,7 +4725,13 @@
         "closest_trail_lon": 20.2242476,
         "closest_trail_lat": 49.1591373
       },
-      "geometry": { "type": "Point", "coordinates": [20.2242576, 49.1591575] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2242576,
+          49.1591575
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3394,7 +4746,13 @@
         "closest_trail_lon": 20.2242476,
         "closest_trail_lat": 49.1591373
       },
-      "geometry": { "type": "Point", "coordinates": [20.2249175, 49.1588703] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2249175,
+          49.1588703
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3409,7 +4767,13 @@
         "closest_trail_lon": 20.0789899,
         "closest_trail_lat": 49.1495031
       },
-      "geometry": { "type": "Point", "coordinates": [20.0770902, 49.1484798] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0770902,
+          49.1484798
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3424,7 +4788,13 @@
         "closest_trail_lon": 20.0125623,
         "closest_trail_lat": 49.2079436
       },
-      "geometry": { "type": "Point", "coordinates": [20.0125609, 49.2079234] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0125609,
+          49.2079234
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3439,7 +4809,13 @@
         "closest_trail_lon": 19.9322167,
         "closest_trail_lat": 49.2365044
       },
-      "geometry": { "type": "Point", "coordinates": [19.9322244, 49.236509] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9322244,
+          49.236509
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3454,7 +4830,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7099658, 49.1978104] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7099658,
+          49.1978104
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3469,7 +4851,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6530806, 49.220232] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6530806,
+          49.220232
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3484,13 +4872,19 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6205661, 49.213273] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6205661,
+          49.213273
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1412",
-        "name": "Waksmundzka Rówień",
+        "name": "Waksmundzka Rówień (1412 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -3499,7 +4893,13 @@
         "closest_trail_lon": 20.0655673,
         "closest_trail_lat": 49.255351
       },
-      "geometry": { "type": "Point", "coordinates": [20.0654931, 49.2553647] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0654931,
+          49.2553647
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3514,7 +4914,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6751233, 49.1897948] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6751233,
+          49.1897948
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3529,7 +4935,13 @@
         "closest_trail_lon": 19.7590882,
         "closest_trail_lat": 49.2786056
       },
-      "geometry": { "type": "Point", "coordinates": [19.7597394, 49.2714277] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7597394,
+          49.2714277
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3544,7 +4956,13 @@
         "closest_trail_lon": 20.2101627,
         "closest_trail_lat": 49.1535357
       },
-      "geometry": { "type": "Point", "coordinates": [20.2101452, 49.1535358] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2101452,
+          49.1535358
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3559,7 +4977,13 @@
         "closest_trail_lon": 20.0776342,
         "closest_trail_lat": 49.1542195
       },
-      "geometry": { "type": "Point", "coordinates": [20.0777475, 49.1542828] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0777475,
+          49.1542828
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3574,7 +4998,13 @@
         "closest_trail_lon": 20.1029194,
         "closest_trail_lat": 49.2545776
       },
-      "geometry": { "type": "Point", "coordinates": [20.1029609, 49.2549401] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1029609,
+          49.2549401
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3589,7 +5019,13 @@
         "closest_trail_lon": 20.0708101,
         "closest_trail_lat": 49.2014109
       },
-      "geometry": { "type": "Point", "coordinates": [20.0707461, 49.2014482] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0707461,
+          49.2014482
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3604,7 +5040,13 @@
         "closest_trail_lon": 20.0698872,
         "closest_trail_lat": 49.2102178
       },
-      "geometry": { "type": "Point", "coordinates": [20.0774664, 49.2112668] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0774664,
+          49.2112668
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3619,7 +5061,13 @@
         "closest_trail_lon": 20.0890513,
         "closest_trail_lat": 49.2194476
       },
-      "geometry": { "type": "Point", "coordinates": [20.0811953, 49.2143585] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0811953,
+          49.2143585
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3634,7 +5082,13 @@
         "closest_trail_lon": 20.0957556,
         "closest_trail_lat": 49.221915
       },
-      "geometry": { "type": "Point", "coordinates": [20.0957349, 49.2218648] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0957349,
+          49.2218648
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3649,7 +5103,13 @@
         "closest_trail_lon": 20.0874696,
         "closest_trail_lat": 49.2338301
       },
-      "geometry": { "type": "Point", "coordinates": [20.0872338, 49.2344718] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0872338,
+          49.2344718
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3664,7 +5124,13 @@
         "closest_trail_lon": 20.0985192,
         "closest_trail_lat": 49.2530474
       },
-      "geometry": { "type": "Point", "coordinates": [20.0975132, 49.2505883] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0975132,
+          49.2505883
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3679,7 +5145,13 @@
         "closest_trail_lon": 20.0528994,
         "closest_trail_lat": 49.2190813
       },
-      "geometry": { "type": "Point", "coordinates": [20.0557002, 49.2193517] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0557002,
+          49.2193517
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3694,7 +5166,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6375264, 49.1783642] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6375264,
+          49.1783642
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3709,7 +5187,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6314016, 49.1724418] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6314016,
+          49.1724418
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3724,7 +5208,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6325737, 49.1700428] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6325737,
+          49.1700428
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3739,7 +5229,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6381742, 49.1935739] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6381742,
+          49.1935739
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3754,7 +5250,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6748427, 49.1899255] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6748427,
+          49.1899255
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3769,7 +5271,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6630825, 49.1884074] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6630825,
+          49.1884074
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3784,7 +5292,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6633806, 49.1883206] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6633806,
+          49.1883206
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3799,7 +5313,13 @@
         "closest_trail_lon": 20.1174215,
         "closest_trail_lat": 49.146732
       },
-      "geometry": { "type": "Point", "coordinates": [20.1176673, 49.1352904] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1176673,
+          49.1352904
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3814,7 +5334,13 @@
         "closest_trail_lon": 20.259807,
         "closest_trail_lat": 49.2066689
       },
-      "geometry": { "type": "Point", "coordinates": [20.2598579, 49.2066657] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2598579,
+          49.2066657
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3829,7 +5355,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6554033, 49.2068019] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6554033,
+          49.2068019
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3844,7 +5376,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.655748, 49.2075554] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.655748,
+          49.2075554
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3859,7 +5397,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6526045, 49.2142016] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6526045,
+          49.2142016
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3874,7 +5418,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6622524, 49.2220702] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6622524,
+          49.2220702
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3889,7 +5439,13 @@
         "closest_trail_lon": 19.7821632,
         "closest_trail_lat": 49.1999444
       },
-      "geometry": { "type": "Point", "coordinates": [19.7794401, 49.1941749] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7794401,
+          49.1941749
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3904,7 +5460,13 @@
         "closest_trail_lon": 19.7715524,
         "closest_trail_lat": 49.2055823
       },
-      "geometry": { "type": "Point", "coordinates": [19.770963, 49.203287] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.770963,
+          49.203287
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3919,13 +5481,19 @@
         "closest_trail_lon": 19.7379218,
         "closest_trail_lat": 49.2089394
       },
-      "geometry": { "type": "Point", "coordinates": [19.727587, 49.2195225] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.727587,
+          49.2195225
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "ele": "1407",
-        "name": "Waksmundzka Rówień",
+        "name": "Waksmundzka Rówień (1407 m)",
         "name:pl": null,
         "name:sk": null,
         "natural": null,
@@ -3934,7 +5502,13 @@
         "closest_trail_lon": 20.0671962,
         "closest_trail_lat": 49.2553721
       },
-      "geometry": { "type": "Point", "coordinates": [20.0671799, 49.2553908] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0671799,
+          49.2553908
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3949,7 +5523,13 @@
         "closest_trail_lon": 20.0366477,
         "closest_trail_lat": 49.2697541
       },
-      "geometry": { "type": "Point", "coordinates": [20.0366296, 49.2697187] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0366296,
+          49.2697187
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3964,7 +5544,13 @@
         "closest_trail_lon": 19.9339351,
         "closest_trail_lat": 49.2485807
       },
-      "geometry": { "type": "Point", "coordinates": [19.9339539, 49.2485533] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9339539,
+          49.2485533
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3979,7 +5565,13 @@
         "closest_trail_lon": 19.9814733,
         "closest_trail_lat": 49.2689953
       },
-      "geometry": { "type": "Point", "coordinates": [19.9814759, 49.2706664] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9814759,
+          49.2706664
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3994,7 +5586,13 @@
         "closest_trail_lon": 20.0117079,
         "closest_trail_lat": 49.2288106
       },
-      "geometry": { "type": "Point", "coordinates": [20.0117085, 49.2287927] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0117085,
+          49.2287927
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4009,7 +5607,13 @@
         "closest_trail_lon": 19.9914478,
         "closest_trail_lat": 49.2729371
       },
-      "geometry": { "type": "Point", "coordinates": [19.9914842, 49.2729385] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9914842,
+          49.2729385
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4024,7 +5628,13 @@
         "closest_trail_lon": 20.0481572,
         "closest_trail_lat": 49.1455148
       },
-      "geometry": { "type": "Point", "coordinates": [20.0493059, 49.1439966] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0493059,
+          49.1439966
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4039,7 +5649,13 @@
         "closest_trail_lon": 20.0797328,
         "closest_trail_lat": 49.1517697
       },
-      "geometry": { "type": "Point", "coordinates": [20.0797402, 49.1517493] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0797402,
+          49.1517493
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4054,7 +5670,13 @@
         "closest_trail_lon": 19.969427,
         "closest_trail_lat": 49.1487364
       },
-      "geometry": { "type": "Point", "coordinates": [19.969399, 49.1487343] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.969399,
+          49.1487343
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4069,7 +5691,13 @@
         "closest_trail_lon": 20.3075899,
         "closest_trail_lat": 49.2190188
       },
-      "geometry": { "type": "Point", "coordinates": [20.3109621, 49.2194393] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3109621,
+          49.2194393
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4084,7 +5712,13 @@
         "closest_trail_lon": 20.275689,
         "closest_trail_lat": 49.2244158
       },
-      "geometry": { "type": "Point", "coordinates": [20.275687, 49.2244206] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.275687,
+          49.2244206
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4099,7 +5733,13 @@
         "closest_trail_lon": 20.3075899,
         "closest_trail_lat": 49.2190188
       },
-      "geometry": { "type": "Point", "coordinates": [20.3075396, 49.2190442] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3075396,
+          49.2190442
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4114,7 +5754,13 @@
         "closest_trail_lon": 19.9781721,
         "closest_trail_lat": 49.2663606
       },
-      "geometry": { "type": "Point", "coordinates": [19.9782025, 49.2664394] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9782025,
+          49.2664394
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4129,7 +5775,13 @@
         "closest_trail_lon": 19.9781721,
         "closest_trail_lat": 49.2663606
       },
-      "geometry": { "type": "Point", "coordinates": [19.9781951, 49.2664341] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9781951,
+          49.2664341
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4144,7 +5796,13 @@
         "closest_trail_lon": 20.0165061,
         "closest_trail_lat": 49.2192783
       },
-      "geometry": { "type": "Point", "coordinates": [20.016502, 49.219435] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.016502,
+          49.219435
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4159,7 +5817,13 @@
         "closest_trail_lon": 19.761826,
         "closest_trail_lat": 49.1503333
       },
-      "geometry": { "type": "Point", "coordinates": [19.7252548, 49.1387948] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7252548,
+          49.1387948
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4174,7 +5838,13 @@
         "closest_trail_lon": 20.064534,
         "closest_trail_lat": 49.179068
       },
-      "geometry": { "type": "Point", "coordinates": [20.0645757, 49.1790265] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0645757,
+          49.1790265
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4189,7 +5859,13 @@
         "closest_trail_lon": 20.0653697,
         "closest_trail_lat": 49.1798008
       },
-      "geometry": { "type": "Point", "coordinates": [20.0654058, 49.179796] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0654058,
+          49.179796
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4204,7 +5880,13 @@
         "closest_trail_lon": 20.0653869,
         "closest_trail_lat": 49.1798518
       },
-      "geometry": { "type": "Point", "coordinates": [20.0654296, 49.1798554] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0654296,
+          49.1798554
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4219,7 +5901,13 @@
         "closest_trail_lon": 20.0654045,
         "closest_trail_lat": 49.1806768
       },
-      "geometry": { "type": "Point", "coordinates": [20.0653998, 49.1806694] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0653998,
+          49.1806694
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4234,7 +5922,13 @@
         "closest_trail_lon": 20.0651131,
         "closest_trail_lat": 49.1824461
       },
-      "geometry": { "type": "Point", "coordinates": [20.0651168, 49.1824422] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0651168,
+          49.1824422
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4249,7 +5943,13 @@
         "closest_trail_lon": 20.0650115,
         "closest_trail_lat": 49.1826887
       },
-      "geometry": { "type": "Point", "coordinates": [20.0650042, 49.1826824] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0650042,
+          49.1826824
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4264,7 +5964,13 @@
         "closest_trail_lon": 20.095142,
         "closest_trail_lat": 49.2335847
       },
-      "geometry": { "type": "Point", "coordinates": [20.0951365, 49.2335117] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0951365,
+          49.2335117
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4279,7 +5985,13 @@
         "closest_trail_lon": 20.2242476,
         "closest_trail_lat": 49.1591373
       },
-      "geometry": { "type": "Point", "coordinates": [20.2249006, 49.1593051] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2249006,
+          49.1593051
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4294,7 +6006,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6156175, 49.201113] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6156175,
+          49.201113
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4309,7 +6027,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6314351, 49.1741638] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6314351,
+          49.1741638
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4324,7 +6048,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6392658, 49.1694361] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6392658,
+          49.1694361
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4339,7 +6069,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6322103, 49.1652831] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6322103,
+          49.1652831
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4354,7 +6090,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6311981, 49.1741274] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6311981,
+          49.1741274
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4369,7 +6111,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6577178, 49.1655572] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6577178,
+          49.1655572
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4384,7 +6132,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6689686, 49.1729977] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6689686,
+          49.1729977
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4399,7 +6153,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6726891, 49.1754832] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6726891,
+          49.1754832
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4414,7 +6174,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6718659, 49.1765934] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6718659,
+          49.1765934
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4429,7 +6195,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7361258, 49.1678086] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7361258,
+          49.1678086
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4444,7 +6216,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7361808, 49.1674184] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7361808,
+          49.1674184
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4459,7 +6237,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7363725, 49.166944] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7363725,
+          49.166944
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4474,7 +6258,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7364181, 49.1666766] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7364181,
+          49.1666766
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4489,7 +6279,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7363752, 49.1664398] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7363752,
+          49.1664398
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4504,7 +6300,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7361553, 49.1659066] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7361553,
+          49.1659066
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4519,7 +6321,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7357395, 49.1648789] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7357395,
+          49.1648789
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4534,7 +6342,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7852142, 49.1439054] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7852142,
+          49.1439054
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4549,7 +6363,13 @@
         "closest_trail_lon": 19.762632,
         "closest_trail_lat": 49.1510623
       },
-      "geometry": { "type": "Point", "coordinates": [19.7594637, 49.157078] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7594637,
+          49.157078
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4564,7 +6384,13 @@
         "closest_trail_lon": 19.7482493,
         "closest_trail_lat": 49.1828215
       },
-      "geometry": { "type": "Point", "coordinates": [19.7423404, 49.173394] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7423404,
+          49.173394
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4579,7 +6405,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6137144, 49.1908353] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6137144,
+          49.1908353
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4594,7 +6426,13 @@
         "closest_trail_lon": 19.9571476,
         "closest_trail_lat": 49.2776963
       },
-      "geometry": { "type": "Point", "coordinates": [19.9570845, 49.2775553] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9570845,
+          49.2775553
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4609,7 +6447,13 @@
         "closest_trail_lon": 19.9792987,
         "closest_trail_lat": 49.2688769
       },
-      "geometry": { "type": "Point", "coordinates": [19.9794968, 49.269211] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9794968,
+          49.269211
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4624,7 +6468,13 @@
         "closest_trail_lon": 19.9737444,
         "closest_trail_lat": 49.263934
       },
-      "geometry": { "type": "Point", "coordinates": [19.9737347, 49.2637922] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9737347,
+          49.2637922
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4639,7 +6489,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6109578, 49.2153615] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6109578,
+          49.2153615
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4654,7 +6510,13 @@
         "closest_trail_lon": 20.1574876,
         "closest_trail_lat": 49.2467038
       },
-      "geometry": { "type": "Point", "coordinates": [20.1549919, 49.2505681] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1549919,
+          49.2505681
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4669,7 +6531,13 @@
         "closest_trail_lon": 19.982161,
         "closest_trail_lat": 49.2784746
       },
-      "geometry": { "type": "Point", "coordinates": [19.9807859, 49.2766592] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9807859,
+          49.2766592
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4684,7 +6552,13 @@
         "closest_trail_lon": 20.0421994,
         "closest_trail_lat": 49.1978572
       },
-      "geometry": { "type": "Point", "coordinates": [20.0421846, 49.19784] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0421846,
+          49.19784
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4699,7 +6573,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7141585, 49.1755429] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7141585,
+          49.1755429
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4714,7 +6594,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7131526, 49.1683663] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7131526,
+          49.1683663
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4729,7 +6615,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7149122, 49.1778829] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7149122,
+          49.1778829
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4744,7 +6636,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7168246, 49.1798975] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7168246,
+          49.1798975
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4759,7 +6657,13 @@
         "closest_trail_lon": 19.9670161,
         "closest_trail_lat": 49.259344
       },
-      "geometry": { "type": "Point", "coordinates": [19.9668922, 49.2594711] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9668922,
+          49.2594711
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4774,7 +6678,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.6911293, 49.1912398] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6911293,
+          49.1912398
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4789,7 +6699,13 @@
         "closest_trail_lon": 19.723086,
         "closest_trail_lat": 49.2565513
       },
-      "geometry": { "type": "Point", "coordinates": [19.7149866, 49.2382233] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7149866,
+          49.2382233
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4804,7 +6720,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7024587, 49.1600775] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7024587,
+          49.1600775
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4819,7 +6741,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7028717, 49.1608335] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7028717,
+          49.1608335
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4834,7 +6762,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7028811, 49.1609431] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7028811,
+          49.1609431
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4849,7 +6783,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7030179, 49.1611685] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7030179,
+          49.1611685
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4864,7 +6804,13 @@
         "closest_trail_lon": 19.7384968,
         "closest_trail_lat": 49.1901235
       },
-      "geometry": { "type": "Point", "coordinates": [19.7032432, 49.1613404] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7032432,
+          49.1613404
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4879,7 +6825,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7938952, 49.1484496] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7938952,
+          49.1484496
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4894,7 +6846,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7936109, 49.1487004] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7936109,
+          49.1487004
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4909,7 +6867,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7941849, 49.1490162] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7941849,
+          49.1490162
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4924,7 +6888,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7960329, 49.1406312] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7960329,
+          49.1406312
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4939,7 +6909,13 @@
         "closest_trail_lon": 19.7786629,
         "closest_trail_lat": 49.1484118
       },
-      "geometry": { "type": "Point", "coordinates": [19.7953114, 49.1471311] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7953114,
+          49.1471311
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4954,7 +6930,13 @@
         "closest_trail_lon": 19.70398,
         "closest_trail_lat": 49.2584533
       },
-      "geometry": { "type": "Point", "coordinates": [19.6401802, 49.1839889] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6401802,
+          49.1839889
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4969,7 +6951,13 @@
         "closest_trail_lon": 20.194628,
         "closest_trail_lat": 49.174323
       },
-      "geometry": { "type": "Point", "coordinates": [20.1935786, 49.1721015] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1935786,
+          49.1721015
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4984,7 +6972,13 @@
         "closest_trail_lon": 20.0527619,
         "closest_trail_lat": 49.1774253
       },
-      "geometry": { "type": "Point", "coordinates": [20.0527588, 49.1774362] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0527588,
+          49.1774362
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4999,7 +6993,13 @@
         "closest_trail_lon": 20.2958303,
         "closest_trail_lat": 49.2259053
       },
-      "geometry": { "type": "Point", "coordinates": [20.3036403, 49.2500736] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3036403,
+          49.2500736
+        ]
+      }
     }
   ]
 }
