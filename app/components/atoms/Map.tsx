@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import { AppDispatch, RootState, setUserLocation } from '@/store';
-import { MapView, StyleURL, Camera, LocationPuck, ShapeSource, LineLayer, UserLocation, Location } from '@rnmapbox/maps'
+import { MapView, Camera, LocationPuck, ShapeSource, LineLayer, UserLocation, Location } from '@rnmapbox/maps'
 import { adjustCameraToTrail } from '@/app/services/cameraService';
 
 interface MapProps {
@@ -30,7 +30,7 @@ const MapAtom: React.FC<MapProps> = ({ camera }) => {
   return (
     <MapView
       style={{flex: 1}}      
-      styleURL={StyleURL.Outdoors}
+      styleURL={process.env.EXPO_PUBLIC_MAPBOX_STYLE_URL}
       scaleBarEnabled={false}
       logoEnabled={false}
       attributionEnabled={false}
@@ -44,7 +44,7 @@ const MapAtom: React.FC<MapProps> = ({ camera }) => {
       <LocationPuck />
 
       <UserLocation
-        visible={true}
+        visible={false}
         onUpdate={(location: Location) => setUserLocationInStore(location.coords.longitude, location.coords.latitude)}
       />
       

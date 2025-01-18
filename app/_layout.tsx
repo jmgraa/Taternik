@@ -2,11 +2,12 @@ import { useEffect } from "react";
 import { useFonts } from "expo-font";
 import { SplashScreen, Stack } from "expo-router";
 import { Provider } from "react-redux";
-
+import { setAccessToken } from "@rnmapbox/maps";
 import store from "@/store";
 import '@/constants/global.css'
 
 SplashScreen.preventAutoHideAsync();
+setAccessToken(process.env.EXPO_PUBLIC_MAPBOX_STYLE_URL!);
 
 const RootLayout = () => {
   const [fontsLoaded, error] = useFonts({
