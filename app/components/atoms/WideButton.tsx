@@ -1,7 +1,7 @@
 import { TouchableOpacity, Text } from 'react-native'
 import React from 'react'
 
-interface CustomButtonProps {
+interface WideButtonProps {
   title: string;
   handlePress: () => void;
   containerStyles?: string;
@@ -9,7 +9,7 @@ interface CustomButtonProps {
   isLoading?: boolean
 }
 
-const CustomButton: React.FC<CustomButtonProps> = ({ title, handlePress, containerStyles, textStyles, isLoading}) => {
+const WideButton: React.FC<WideButtonProps> = ({ title, handlePress, containerStyles, textStyles, isLoading }) => {
   return (
     <TouchableOpacity 
       onPress={handlePress}
@@ -24,4 +24,4 @@ const CustomButton: React.FC<CustomButtonProps> = ({ title, handlePress, contain
   )
 }
 
-export default CustomButton
+export default WideButton

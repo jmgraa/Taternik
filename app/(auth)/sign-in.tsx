@@ -4,8 +4,8 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 import { Link } from 'expo-router'
 
 import { images } from '@/constants'
-import FormField from '@/components/FormField'
-import CustomButton from '@/components/CustomButton'
+import FormField from '../components/atoms/FormField'
+import WideButton from '../components/atoms/WideButton'
 
 const SignIn = () => {
   const [form, setForm] = useState({
@@ -36,7 +36,6 @@ const SignIn = () => {
             value={form.email}
             handleChangeText={(e) => setForm({ ...form, email: e })}
             otherStyles='mt-7'
-            keyboardType='email-address'
           />
 
           <FormField 
@@ -46,7 +45,7 @@ const SignIn = () => {
             otherStyles='mt-7'
           />
 
-          <CustomButton 
+          <WideButton 
             title="Sign in"
             handlePress={() => submit}
             containerStyles='mt-7'

@@ -3,7 +3,7 @@ import { View, Text, ImageBackground } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { router } from "expo-router";
 import { StatusBar } from "expo-status-bar";
-import CustomButton from "@/components/CustomButton";
+import WideButton from "./components/atoms/WideButton";
 import { images } from "@/constants";
 
 const Welcome = () => {
@@ -36,13 +36,13 @@ const Welcome = () => {
             Your essential app in the Tatras - find a route for yourself, share your hikes, get to know these mountains even better
           </Text>
 
-          <CustomButton
+          <WideButton
             title="Log in or register"
             handlePress={() => router.push("/sign-in")}
             containerStyles="w-full mt-7"
           />
 
-          <CustomButton
+          <WideButton
             title="Continue without account"
             handlePress={() => router.push("/map")}
             containerStyles="w-full mt-3"
