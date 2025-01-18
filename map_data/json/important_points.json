@@ -1,0 +1,5005 @@
+{
+  "type": "FeatureCollection",
+  "name": "important_points",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2503",
+        "name": "Rysy",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/25606107",
+        "closest_trail_lon": 20.0880804,
+        "closest_trail_lat": 49.1794711
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0880767, 49.1794584] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zamrznutý kotol",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/243729524",
+        "closest_trail_lon": 20.1395412,
+        "closest_trail_lat": 49.1741006
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1395412, 49.1741006] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1962",
+        "name": "Rázcestie pri sesterskom plese",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/243729755",
+        "closest_trail_lon": 20.1662609,
+        "closest_trail_lat": 49.1771701
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1662609, 49.1771701] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1960",
+        "name": "Zbojnícka chata",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/243729765",
+        "closest_trail_lon": 20.167602,
+        "closest_trail_lat": 49.1766336
+      },
+      "geometry": { "type": "Point", "coordinates": [20.167602, 49.1766336] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1350",
+        "name": "Bývalá Ťatliakova chata",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244490271",
+        "closest_trail_lon": 19.7479172,
+        "closest_trail_lat": 49.2137872
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7479172, 49.2137872] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1522",
+        "name": "Rázcestie Smutná dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244490284",
+        "closest_trail_lon": 19.7512945,
+        "closest_trail_lat": 49.2047092
+      },
+      "geometry": { "type": "Point", "coordinates": [19.751312, 49.2047012] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1719",
+        "name": "Roháčské plesá",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244490320",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7341038, 49.2057916] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1580",
+        "name": "Rázcestie nad Žabím potokom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244498929",
+        "closest_trail_lon": 20.0709696,
+        "closest_trail_lat": 49.163224
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0709704, 49.1632307] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1015",
+        "name": "Rázcestie Zverovka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244881275",
+        "closest_trail_lon": 19.7113824,
+        "closest_trail_lat": 49.2590878
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7110347, 49.2445591] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1189",
+        "name": "Adamcuľa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244881610",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.727669, 49.2235479] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1589",
+        "name": "Rázcestie pod Troma kopami",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244882220",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7286938, 49.2069686] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1473",
+        "name": "Rázcestie pod Predným zeleným",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244882225",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7261733, 49.2110203] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1656",
+        "name": "Sedlo Zábrať",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244892760",
+        "closest_trail_lon": 19.7500728,
+        "closest_trail_lat": 49.2211567
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7501001, 49.221157] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1876",
+        "name": "Rákoň",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/244892804",
+        "closest_trail_lon": 19.7584218,
+        "closest_trail_lat": 49.215987
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7584218, 49.215987] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1670",
+        "name": "Sliezsky dom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/249813307",
+        "closest_trail_lon": 20.1572064,
+        "closest_trail_lat": 49.1560777
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1572064, 49.1560777] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2200",
+        "name": "Poľský hrebeň",
+        "name:pl": "Polski Grzebień",
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/249813505",
+        "closest_trail_lon": 20.1402394,
+        "closest_trail_lat": 49.1735129
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1402504, 49.1734914] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "817",
+        "name": "Tatranská Kotlina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/259421333",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3157687, 49.2310759] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1285",
+        "name": "Hrebienok",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/262662469",
+        "closest_trail_lon": 20.2242476,
+        "closest_trail_lat": 49.1591373
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2250062, 49.1587937] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1208",
+        "name": "Rázcestie nad Dlhým vodopádom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/262662523",
+        "closest_trail_lon": 20.2245423,
+        "closest_trail_lat": 49.1633193
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2245423, 49.1633193] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1285",
+        "name": "Starolesnianska poľana",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/262662600",
+        "closest_trail_lon": 20.218273,
+        "closest_trail_lat": 49.1672272
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2182528, 49.1672058] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1304",
+        "name": "Rázcestie nad Rainerovou chatou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/262662604",
+        "closest_trail_lon": 20.2170368,
+        "closest_trail_lat": 49.167535
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2170368, 49.167535] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1562",
+        "name": "Velická poľana",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/262687710",
+        "closest_trail_lon": 20.1624445,
+        "closest_trail_lat": 49.1518715
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1624445, 49.1518715] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1409",
+        "name": "Rázcestie nad Zrubami",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/262688668",
+        "closest_trail_lon": 20.175993,
+        "closest_trail_lat": 49.151797
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1778098, 49.1448125] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1285",
+        "name": "Rázcestie pod Húpačkami",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/264003144",
+        "closest_trail_lon": 20.2169023,
+        "closest_trail_lat": 49.168219
+      },
+      "geometry": { "type": "Point", "coordinates": [20.216895, 49.1681659] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1475",
+        "name": "Rázcestie pri Zamkovského chate",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/264008506",
+        "closest_trail_lon": 20.2195017,
+        "closest_trail_lat": 49.1729496
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2195017, 49.1729496] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1718",
+        "name": "Rázcestie pri Skalnatej chate",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/264009864",
+        "closest_trail_lon": 20.2333237,
+        "closest_trail_lat": 49.1850429
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2333237, 49.1850429] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1320",
+        "name": "Folvarská poľana",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/268014506",
+        "closest_trail_lon": 20.2604574,
+        "closest_trail_lat": 49.2023086
+      },
+      "geometry": { "type": "Point", "coordinates": [20.26044, 49.2022972] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1226",
+        "name": "Kovaľčíkova poľana",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/268014540",
+        "closest_trail_lon": 20.2599017,
+        "closest_trail_lat": 49.2066182
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2598729, 49.2066142] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1200",
+        "name": "Rázcestie Šalviový prameň",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/268014567",
+        "closest_trail_lon": 20.2641564,
+        "closest_trail_lat": 49.2051008
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2641182, 49.2051499] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1020",
+        "name": "Rázcestie nad Matliarmi",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/268014624",
+        "closest_trail_lon": 20.275726,
+        "closest_trail_lat": 49.1968093
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2757059, 49.1968014] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2134",
+        "name": "Rázcestie pod Sedielkom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/281111300",
+        "closest_trail_lon": 20.187846,
+        "closest_trail_lat": 49.19061
+      },
+      "geometry": { "type": "Point", "coordinates": [20.187846, 49.19061] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1246",
+        "name": "Vodopády Studeného potoka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/305933226",
+        "closest_trail_lon": 20.2221871,
+        "closest_trail_lat": 49.1648975
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2221871, 49.1648975] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1840",
+        "name": "Chata pod Soliskom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/306474327",
+        "closest_trail_lon": 20.0475599,
+        "closest_trail_lat": 49.1464548
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0409849, 49.144142] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1500",
+        "name": "Rázcestie nad Popradským plesom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/380790418",
+        "closest_trail_lon": 20.0776342,
+        "closest_trail_lat": 49.1542195
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0776342, 49.1542195] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1515",
+        "name": "Odbočka zimnej cesty na Štrbské pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/380793610",
+        "closest_trail_lon": 20.0766554,
+        "closest_trail_lat": 49.1518849
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0766554, 49.1518849] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1499",
+        "name": "Trigan",
+        "name:pl": "Drygant",
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/380992577",
+        "closest_trail_lon": 20.0670363,
+        "closest_trail_lat": 49.1363791
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0670363, 49.1363791] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1508",
+        "name": "6. O lesných živočíchoch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/380992614",
+        "closest_trail_lon": 20.0672391,
+        "closest_trail_lat": 49.1367119
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0673315, 49.136746] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1500",
+        "name": "Popradská poľana",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/381070937",
+        "closest_trail_lon": 20.0789899,
+        "closest_trail_lat": 49.1495031
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0770374, 49.1484825] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2120",
+        "name": "Rázcestie v Krivánskom žľabe",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/382384217",
+        "closest_trail_lon": 19.9977618,
+        "closest_trail_lat": 49.1575358
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9977713, 49.1575483] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1884",
+        "name": "Odbočka na Vyšné Hágy",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/382445488",
+        "closest_trail_lon": 20.1267813,
+        "closest_trail_lat": 49.1489778
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1267049, 49.1489682] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1499",
+        "name": "Popradské pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/382445942",
+        "closest_trail_lon": 20.0793493,
+        "closest_trail_lat": 49.1547581
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0793611, 49.1549337] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1884",
+        "name": "Batizovské pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/383398529",
+        "closest_trail_lon": 20.1323082,
+        "closest_trail_lat": 49.1514515
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1323082, 49.1514515] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1551",
+        "name": "Chata pri Zelenom plese",
+        "name:pl": "Schronisko nad Zielonym Stawem",
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/383548771",
+        "closest_trail_lon": 20.2214339,
+        "closest_trail_lat": 49.2101424
+      },
+      "geometry": { "type": "Point", "coordinates": [20.221419, 49.2102052] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1290",
+        "name": "Chata Plesnivec",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/383548846",
+        "closest_trail_lon": 20.2760091,
+        "closest_trail_lat": 49.2244198
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2759778, 49.224388] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1751.1",
+        "name": "Skalnaté pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/385057727",
+        "closest_trail_lon": 20.2334381,
+        "closest_trail_lat": 49.1882647
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2334381, 49.1882647] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1751",
+        "name": "Skalnaté pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/385058549",
+        "closest_trail_lon": 20.232126,
+        "closest_trail_lat": 49.1874992
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2320864, 49.1874941] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1304",
+        "name": "Rázcestie na Velickom moste",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/387957325",
+        "closest_trail_lon": 20.168876,
+        "closest_trail_lat": 49.1456608
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1741792, 49.1396401] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "950",
+        "name": "Rázcestie Jamníckej a Račkovej",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/430956966",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7938242, 49.148603] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2063",
+        "name": "Volovec",
+        "name:pl": "Wołowiec",
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/452478281",
+        "closest_trail_lon": 19.7631085,
+        "closest_trail_lat": 49.2075144
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7631085, 49.2075144] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1863",
+        "name": "Przełęcz pod Kopą Kondracką",
+        "name:pl": "Przełęcz pod Kopą Kondracką",
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/461029533",
+        "closest_trail_lon": 19.9387998,
+        "closest_trail_lat": 49.2344715
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9388617, 49.2344409] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1725",
+        "name": "Kondracka Przełęcz",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/467480905",
+        "closest_trail_lon": 19.9323411,
+        "closest_trail_lat": 49.2463643
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9323411, 49.2463643] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Žiarska dolina (ústie)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/495303188",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7005285, 49.144976] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1283",
+        "name": "Žiarska chata",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/495996965",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7201438, 49.1815767] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kmeťov vodopád",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/687068616",
+        "closest_trail_lon": 19.9796784,
+        "closest_trail_lat": 49.1561834
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9795161, 49.1755752] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1411",
+        "name": "Hlinská dolina, ústie",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/687068629",
+        "closest_trail_lon": 20.0049311,
+        "closest_trail_lat": 49.1911548
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0049707, 49.1911539] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2190",
+        "name": "Lomnické sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/793970836",
+        "closest_trail_lon": 20.2165523,
+        "closest_trail_lat": 49.1893604
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2165154, 49.1893744] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2012",
+        "name": "Téryho chata",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/882208473",
+        "closest_trail_lon": 20.198998,
+        "closest_trail_lat": 49.1902298
+      },
+      "geometry": { "type": "Point", "coordinates": [20.198998, 49.1902298] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1340",
+        "name": "Roháčsky vodopád",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/891124377",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7286957, 49.2156034] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1876.5",
+        "name": "Sedlo Závory",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/939070927",
+        "closest_trail_lon": 20.0075908,
+        "closest_trail_lat": 49.2047166
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0075716, 49.2047172] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1674",
+        "name": "Nižné Temnosmrečinské pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/939070947",
+        "closest_trail_lon": 20.0278777,
+        "closest_trail_lat": 49.1940531
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0279117, 49.1940297] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1908",
+        "name": "Jamnícke sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/946080678",
+        "closest_trail_lon": 19.759219,
+        "closest_trail_lat": 49.2035134
+      },
+      "geometry": { "type": "Point", "coordinates": [19.759219, 49.2035134] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1010",
+        "name": "Rázcestie pod Lyscom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1010603657",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6630265, 49.1882246] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1792",
+        "name": "Pyszniańska Przełęcz / Pyšné sedlo",
+        "name:pl": "Pyszniańska Przełęcz",
+        "name:sk": "Pyšné sedlo",
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1014138231",
+        "closest_trail_lon": 19.8562714,
+        "closest_trail_lat": 49.1962613
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8562614, 49.1962854] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1620",
+        "name": "Czarny Staw Gąsienicowy",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1111786080",
+        "closest_trail_lon": 20.014767,
+        "closest_trail_lat": 49.2326004
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0147367, 49.232573] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1948",
+        "name": "Veľké Hincovo pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1147318985",
+        "closest_trail_lon": 20.060142,
+        "closest_trail_lat": 49.1753724
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0601104, 49.1754074] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2112",
+        "name": "Krzyżne",
+        "name:pl": "Krzyżne",
+        "name:sk": null,
+        "natural": "saddle",
+        "wikipedia": "pl:Krzyżne",
+        "id": "node/1200864424",
+        "closest_trail_lon": 20.0472782,
+        "closest_trail_lat": 49.228652
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0472782, 49.228652] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1812",
+        "name": "Siwa Przełęcz",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1202227723",
+        "closest_trail_lon": 19.8332919,
+        "closest_trail_lat": 49.205003
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8332919, 49.205003] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1098",
+        "name": "Jaskinia Mylna (wejście)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": "cave_entrance",
+        "wikipedia": null,
+        "id": "node/1294577914",
+        "closest_trail_lon": 19.8620018,
+        "closest_trail_lat": 49.2393627
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8620018, 49.2393627] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1146",
+        "name": "Jaskinia Raptawicka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": "cave_entrance",
+        "wikipedia": "pl:Jaskinia Raptawicka",
+        "id": "node/1294577918",
+        "closest_trail_lon": 19.8619897,
+        "closest_trail_lat": 49.2398324
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8619897, 49.2398324] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1805",
+        "name": "Sivý vrch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1426314583",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6421436, 49.2111884] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1962",
+        "name": "Smutné sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": "saddle",
+        "wikipedia": "sk:Smutné sedlo",
+        "id": "node/1426314606",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7342697, 49.1975345] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kmeťov vodopád",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1450389768",
+        "closest_trail_lon": 19.981906,
+        "closest_trail_lat": 49.1563185
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9808612, 49.1745349] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1100",
+        "name": "Rázcestie pod Grúnikom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1450389856",
+        "closest_trail_lon": 19.968971,
+        "closest_trail_lat": 49.1502733
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9637535, 49.155173] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1750",
+        "name": "Kopské sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1460315492",
+        "closest_trail_lon": 20.2201603,
+        "closest_trail_lat": 49.2293592
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2201569, 49.2293781] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Vysoké Tatry",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1520208397",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3174793, 49.2292517] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kosodrevina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466484",
+        "closest_trail_lon": 19.751237,
+        "closest_trail_lat": 49.2108938
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7512592, 49.2108972] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kvetena okolia chodníka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466490",
+        "closest_trail_lon": 19.7509334,
+        "closest_trail_lat": 49.2046315
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7509809, 49.2046296] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Lavína",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466494",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7323233, 49.2204096] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Lavíny",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466501",
+        "closest_trail_lon": 19.7479172,
+        "closest_trail_lat": 49.2137872
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7479071, 49.2138164] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Najvzácnejšia kvetena okolia Roháčskych plies",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466505",
+        "closest_trail_lon": 19.7381697,
+        "closest_trail_lat": 49.208794
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7381516, 49.2087811] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Národná prírodná rezervácia Roháčske plesá",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466509",
+        "closest_trail_lon": 19.7472588,
+        "closest_trail_lat": 49.2148004
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7466572, 49.2145356] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný chodník Roháčske plesá",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466513",
+        "closest_trail_lon": 19.7266456,
+        "closest_trail_lat": 49.2551522
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7185978, 49.2362294] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Roháčske plesá",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466520",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7378714, 49.2089332] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Voda",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466523",
+        "closest_trail_lon": 19.7507522,
+        "closest_trail_lat": 49.2121879
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7507743, 49.2121886] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Živočíchy",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541466670",
+        "closest_trail_lon": 19.7513553,
+        "closest_trail_lat": 49.2047189
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7513323, 49.2047038] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Roháčsky vodopád",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1541476340",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7282634, 49.2222444] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1025",
+        "name": "Zverovka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1718512357",
+        "closest_trail_lon": 19.7113824,
+        "closest_trail_lat": 49.2590878
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7113397, 49.2483757] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1320",
+        "name": "Partizánska nemocnica",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1718512382",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6870381, 49.23988] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Plačlivé",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1735156623",
+        "closest_trail_lon": 19.7489878,
+        "closest_trail_lat": 49.1964755
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7489878, 49.1964755] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2250",
+        "name": "Chata pod Rysmi",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1778954208",
+        "closest_trail_lon": 20.0871649,
+        "closest_trail_lat": 49.1745635
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0871859, 49.1745785] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "906",
+        "name": "Žiarska dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1856161155",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7006456, 49.1450547] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1585",
+        "name": "Sedlo Predúvratie",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1859066671",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6380455, 49.1937643] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1485",
+        "name": "Rázcestie pod Temnými smrečinami",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1862607026",
+        "closest_trail_lon": 20.0143618,
+        "closest_trail_lat": 49.1924649
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0143459, 49.1924741] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1164",
+        "name": "Rázcestie pod Tomanovou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1877518475",
+        "closest_trail_lon": 19.9365944,
+        "closest_trail_lat": 49.2145375
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9363418, 49.2136867] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1087",
+        "name": "Rázcestie Šindľovec",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1888793050",
+        "closest_trail_lon": 19.7264573,
+        "closest_trail_lat": 49.2552347
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7180343, 49.2366402] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1030",
+        "name": "Pod Spálenou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1888815679",
+        "closest_trail_lon": 19.7183025,
+        "closest_trail_lat": 49.2583578
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7132063, 49.2386541] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1902",
+        "name": "Brestová",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1890408786",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6821675, 49.2228025] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1790",
+        "name": "Predný Salatín - hrebeň",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1890408799",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6919877, 49.2252044] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1030",
+        "name": "Parkovisko pod Spálenou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1890455930",
+        "closest_trail_lon": 19.723086,
+        "closest_trail_lat": 49.2565513
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7150211, 49.2381782] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2047",
+        "name": "Salatín",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1908643411",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6874907, 49.2119404] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Informačné stredisko TANAPu",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1919735934",
+        "closest_trail_lon": 19.7175541,
+        "closest_trail_lat": 49.2585416
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7138606, 49.2428051] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1006",
+        "name": "Pomník SNP",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/1919886219",
+        "closest_trail_lon": 19.7048048,
+        "closest_trail_lat": 49.2585989
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7077534, 49.2450974] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1170",
+        "name": "Rázcestie Látaná dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2301827960",
+        "closest_trail_lon": 19.7423988,
+        "closest_trail_lat": 49.2370831
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7422199, 49.237602] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1280",
+        "name": "Zadná Látaná",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2301827963",
+        "closest_trail_lon": 19.7538364,
+        "closest_trail_lat": 49.2304169
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7538364, 49.2304169] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1577",
+        "name": "Rázcestie pod Hrubou kopou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2302771330",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7224153, 49.2070099] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2040",
+        "name": "Baníkovské sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2419091101",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7057198, 49.1995356] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1573",
+        "name": "sedlo Pálenica",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2419091344",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6587722, 49.2224077] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1521",
+        "name": "Sedlo Pod Osobitou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2431479867",
+        "closest_trail_lon": 19.7217913,
+        "closest_trail_lat": 49.258518
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7217403, 49.2585042] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1653",
+        "name": "Lúčna",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2431548650",
+        "closest_trail_lon": 19.7667787,
+        "closest_trail_lat": 49.2365845
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7667787, 49.2365845] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1209",
+        "name": "Polana Rusinowa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2445052185",
+        "closest_trail_lon": 20.0902896,
+        "closest_trail_lat": 49.2628574
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0902088, 49.2628462] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1933",
+        "name": "Vyšné Kopské sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2446358598",
+        "closest_trail_lon": 20.2185376,
+        "closest_trail_lat": 49.2343991
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2185595, 49.234392] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Partizánska nemocnica",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2454280849",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.687008, 49.2399234] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1450",
+        "name": "Rázcestie pod Klinom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2467954536",
+        "closest_trail_lon": 19.8165997,
+        "closest_trail_lat": 49.186065
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8165997, 49.186065] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "982",
+        "name": "Polana Huciska",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2510759920",
+        "closest_trail_lon": 19.8154314,
+        "closest_trail_lat": 49.2565343
+      },
+      "geometry": { "type": "Point", "coordinates": [19.81555, 49.2595289] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Huty Kościeleckie XVIII-XIX w.",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2612600794",
+        "closest_trail_lon": 19.8678637,
+        "closest_trail_lat": 49.2559627
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8682313, 49.2573812] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "766",
+        "name": "Tatranská Kotlina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2983596997",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3156976, 49.2308906] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1265",
+        "name": "Liptovský košiar",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/2986521742",
+        "closest_trail_lon": 19.9583948,
+        "closest_trail_lat": 49.2317994
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9585545, 49.2224207] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Neserte nám tu!",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3035532328",
+        "closest_trail_lon": 20.2661818,
+        "closest_trail_lat": 49.2043461
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2662571, 49.2045169] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1743",
+        "name": "Rázcestie pod Suchým vrchom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3060053057",
+        "closest_trail_lon": 20.1439104,
+        "closest_trail_lat": 49.145179
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1439104, 49.145179] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1966.4",
+        "name": "Sedlo pod Ostrvou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3060053058",
+        "closest_trail_lon": 20.0914098,
+        "closest_trail_lat": 49.1502297
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0914098, 49.1502297] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1280",
+        "name": "Spálený žlab",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3264151348",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7067272, 49.2327581] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Siklawa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": "pl:Siklawa",
+        "id": "node/3503513134",
+        "closest_trail_lon": 20.0440391,
+        "closest_trail_lat": 49.2140196
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0439611, 49.2141556] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1988",
+        "name": "Kasprowy Wierch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3634545832",
+        "closest_trail_lon": 19.9816556,
+        "closest_trail_lat": 49.2323698
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9816601, 49.2323564] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1354",
+        "name": "Myślenickie Turnie",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3634545833",
+        "closest_trail_lon": 19.9741424,
+        "closest_trail_lat": 49.2516964
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9741183, 49.251648] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1950",
+        "name": "Sucha Przełęcz",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3634545834",
+        "closest_trail_lon": 19.9830376,
+        "closest_trail_lat": 49.2309905
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9830819, 49.2309684] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1341",
+        "name": "Hala Kondratowa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3639600846",
+        "closest_trail_lon": 19.9515465,
+        "closest_trail_lat": 49.2495285
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9516056, 49.2495823] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1195",
+        "name": "Kalatówki",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3639600847",
+        "closest_trail_lon": 19.9665458,
+        "closest_trail_lat": 49.259602
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9665722, 49.2594137] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1029",
+        "name": "Polana Strążyska",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3641175146",
+        "closest_trail_lon": 19.9297024,
+        "closest_trail_lat": 49.2630276
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9297207, 49.2630321] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1715",
+        "name": "Holý vrch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3657007733",
+        "closest_trail_lon": 19.761826,
+        "closest_trail_lat": 49.1503333
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7311127, 49.1530101] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Info tabuľa č.4 - Holý vrch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3657007734",
+        "closest_trail_lon": 19.761826,
+        "closest_trail_lat": 49.1503333
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7313157, 49.1528538] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Motto Liptov panorama",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3657007736",
+        "closest_trail_lon": 19.761826,
+        "closest_trail_lat": 49.1503333
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7329143, 49.1487453] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný chodník č.3 - Vyhliadka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3657007738",
+        "closest_trail_lon": 19.761826,
+        "closest_trail_lat": 49.1503333
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7371313, 49.142658] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Tri Kolky",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3657007739",
+        "closest_trail_lon": 19.761826,
+        "closest_trail_lat": 49.1503333
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7378051, 49.1412365] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1300",
+        "name": "Rázcestie pod Smrekom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3657343170",
+        "closest_trail_lon": 19.7754808,
+        "closest_trail_lat": 49.187582
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7754243, 49.1875995] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1495",
+        "name": "Rázcestie na Batizovskej Zákrute",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3709830269",
+        "closest_trail_lon": 20.164551,
+        "closest_trail_lat": 49.1492674
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1607853, 49.1447035] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kvitnuce ozdoby doliny",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455132",
+        "closest_trail_lon": 20.208967,
+        "closest_trail_lat": 49.2339737
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2090822, 49.2340194] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Les ako špongia",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455133",
+        "closest_trail_lon": 20.1620596,
+        "closest_trail_lat": 49.2436218
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1625784, 49.2422165] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Medená minulosť",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455134",
+        "closest_trail_lon": 20.2201175,
+        "closest_trail_lat": 49.2293783
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2200952, 49.2292753] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "MEDVEĎ - VLÁDCA LESA",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455135",
+        "closest_trail_lon": 20.1912805,
+        "closest_trail_lat": 49.2337986
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1913036, 49.2338041] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Meďodolský potok",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455136",
+        "closest_trail_lon": 20.1789451,
+        "closest_trail_lat": 49.2356148
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1757269, 49.2359218] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučná geologická plocha Podmuráň",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455137",
+        "closest_trail_lon": 20.1574876,
+        "closest_trail_lat": 49.2467038
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1579956, 49.2487681] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Ochrana lesov v národných parkoch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455138",
+        "closest_trail_lon": 20.1574876,
+        "closest_trail_lat": 49.2467038
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1576684, 49.2492505] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Pod Muráňom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455139",
+        "closest_trail_lon": 20.1574876,
+        "closest_trail_lat": 49.2467038
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1552301, 49.2503865] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Tiesňava Branka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455140",
+        "closest_trail_lon": 20.1686606,
+        "closest_trail_lat": 49.241229
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1672914, 49.2387318] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1610",
+        "name": "Veľké Biele pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3721455141",
+        "closest_trail_lon": 20.2310979,
+        "closest_trail_lat": 49.2218332
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2310477, 49.2217856] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Memoriál Pavol Fricák",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3731717707",
+        "closest_trail_lon": 20.1562276,
+        "closest_trail_lat": 49.1609394
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1565683, 49.162647] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kamenistá dolina uzavretá od 1.11.-14.6.",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/3926117537",
+        "closest_trail_lon": 19.8852339,
+        "closest_trail_lat": 49.1562566
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8852904, 49.150344] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Vysoké Tatry",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4009764950",
+        "closest_trail_lon": 20.2242476,
+        "closest_trail_lat": 49.1591373
+      },
+      "geometry": { "type": "Point", "coordinates": [20.224943, 49.1588472] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zákaz vstupu do rezervácie",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4044802348",
+        "closest_trail_lon": 20.082089,
+        "closest_trail_lat": 49.1544391
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0820903, 49.1544262] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Tatry",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4320136018",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7004535, 49.1448568] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1499",
+        "name": "Salatínska dolina - lanovka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4381096520",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7016031, 49.2225379] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "945",
+        "name": "Nižná lúka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4420796444",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.795547, 49.1502632] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1450",
+        "name": "rázcestie v Gáborovej doline (Gáborov zadok)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4420796475",
+        "closest_trail_lon": 19.829377,
+        "closest_trail_lat": 49.1918731
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8293541, 49.1919226] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "2.Prielom potoka pod Stredným Rígľom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4453699422",
+        "closest_trail_lon": 20.2284394,
+        "closest_trail_lat": 49.2562317
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2284641, 49.2562673] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "História Majláthovej chaty",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4642113030",
+        "closest_trail_lon": 20.0788035,
+        "closest_trail_lat": 49.1545162
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0787161, 49.154522] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Krzyż na Giewoncie",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": "pl:Krzyż na Giewoncie",
+        "id": "node/4809747321",
+        "closest_trail_lon": 19.9341068,
+        "closest_trail_lat": 49.2510059
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9341025, 49.2509651] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "7. O lesných drevinách",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158709",
+        "closest_trail_lon": 20.0678238,
+        "closest_trail_lat": 49.1396055
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0677986, 49.1395759] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1532",
+        "name": "8. Limba",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158710",
+        "closest_trail_lon": 20.0685105,
+        "closest_trail_lat": 49.1414954
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0685339, 49.1415903] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "9. O lesných rastlinách",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158711",
+        "closest_trail_lon": 20.0686178,
+        "closest_trail_lat": 49.1417708
+      },
+      "geometry": { "type": "Point", "coordinates": [20.068631, 49.1419351] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1545",
+        "name": "10. Aj les niekde končí",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158712",
+        "closest_trail_lon": 20.0709701,
+        "closest_trail_lat": 49.1494733
+      },
+      "geometry": { "type": "Point", "coordinates": [20.070924, 49.149413] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "11. Les a lavíny",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158713",
+        "closest_trail_lon": 20.0716805,
+        "closest_trail_lat": 49.1514119
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0716584, 49.1514129] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1503",
+        "name": "12. Les a voda",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158714",
+        "closest_trail_lon": 20.0750159,
+        "closest_trail_lat": 49.1531207
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0751377, 49.1530952] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1515",
+        "name": "13. Neubližujme lesu",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158715",
+        "closest_trail_lon": 20.0765118,
+        "closest_trail_lat": 49.1541985
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0765057, 49.1542357] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1515",
+        "name": "14.",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/4866158716",
+        "closest_trail_lon": 20.0773631,
+        "closest_trail_lat": 49.1541102
+      },
+      "geometry": { "type": "Point", "coordinates": [20.077398, 49.1541601] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1510",
+        "name": "Hala Gąsienicowa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5100098609",
+        "closest_trail_lon": 20.0054246,
+        "closest_trail_lat": 49.2429441
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0054091, 49.2429165] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1499",
+        "name": "Przełęcz między Kopami",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5100098611",
+        "closest_trail_lon": 20.0032225,
+        "closest_trail_lat": 49.254924
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0031937, 49.2549326] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1500",
+        "name": "Hala Gąsienicowa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5100113739",
+        "closest_trail_lon": 20.0069321,
+        "closest_trail_lat": 49.2432731
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0069558, 49.2432442] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "3.Pod prahom doliny",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5107393692",
+        "closest_trail_lon": 20.2271676,
+        "closest_trail_lat": 49.2482667
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2271445, 49.2482374] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "4.Odpočívadlo pri potoku",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5107393693",
+        "closest_trail_lon": 20.2217013,
+        "closest_trail_lat": 49.2452969
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2216509, 49.2452695] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1825.5",
+        "name": "Široké Sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5113256116",
+        "closest_trail_lon": 20.213047,
+        "closest_trail_lat": 49.2380966
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2130136, 49.2380925] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Tatranský národný park a Belianska jaskyňa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5113289802",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3167036, 49.2282288] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Fauna Belianskych Tatier",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5113289803",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3169942, 49.2269603] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Flóra Belianskych Tatier",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5113289804",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3157334, 49.2278708] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Vznik a vývoj Belianskej jaskyne",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5113289805",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3139484, 49.2293792] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Fauna Belianskej jaskyne",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5113289808",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3133109, 49.2288278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "História Belianskej jaskyne",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5113289809",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3116621, 49.2288002] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Belianska jaskyňa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5127857478",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3116037, 49.2288716] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Belianska jaskyňa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5127857904",
+        "closest_trail_lon": 20.3060133,
+        "closest_trail_lat": 49.2245651
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3166081, 49.2285843] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Baranec",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5170699668",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7408263, 49.173513] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1710",
+        "name": "Škutnastá poľana",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5179660274",
+        "closest_trail_lon": 20.0318022,
+        "closest_trail_lat": 49.1462324
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0318528, 49.1462378] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný ovčiarsky chodník v Račkovej doline - pod Klinom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5320734329",
+        "closest_trail_lon": 19.8165997,
+        "closest_trail_lat": 49.186065
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8161977, 49.1853481] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný ovčiarsky chodník v Račkovej doline - Prostredné",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5320734330",
+        "closest_trail_lon": 19.8165997,
+        "closest_trail_lat": 49.186065
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8107006, 49.1707219] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný ovčiarsky chodník v Račkovej doline - Sigoť",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5320734331",
+        "closest_trail_lon": 19.7782981,
+        "closest_trail_lat": 49.1509592
+      },
+      "geometry": { "type": "Point", "coordinates": [19.8053458, 49.1564689] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný ovčiarsky chodník v Račkovej doline - Nižná lúka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5320734332",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7948511, 49.1496422] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1566",
+        "name": "Babky",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5353951977",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6258005, 49.1800877] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1917.1",
+        "name": "Žiarske sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5389916796",
+        "closest_trail_lon": 19.7507833,
+        "closest_trail_lat": 49.1932842
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7508169, 49.1933296] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1700",
+        "name": "Pod Homôlkou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5390095220",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7384942, 49.1901599] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8. Skalná strž",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5417809798",
+        "closest_trail_lon": 20.2216676,
+        "closest_trail_lat": 49.1709352
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2216887, 49.1709574] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kornik",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5671991139",
+        "closest_trail_lon": 19.9970408,
+        "closest_trail_lat": 49.2761093
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9970225, 49.2760694] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný chodník Juráňova dolina: Prameň v tiesňavách",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009397",
+        "closest_trail_lon": 19.7711792,
+        "closest_trail_lat": 49.2810363
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7725694, 49.2798791] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný chodník Juráňova dolina: Nemí svedkovia minulosti",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009511",
+        "closest_trail_lon": 19.7682238,
+        "closest_trail_lat": 49.2790396
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7704151, 49.2734574] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1351",
+        "name": "Bobrovecké sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009561",
+        "closest_trail_lon": 19.7778529,
+        "closest_trail_lat": 49.2409946
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7761368, 49.2421718] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zákaz vstupu",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009565",
+        "closest_trail_lon": 19.7568832,
+        "closest_trail_lat": 49.2784735
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7570229, 49.277911] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "910",
+        "name": "Rázcestie pod Umrlou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009646",
+        "closest_trail_lon": 19.75941,
+        "closest_trail_lat": 49.2786336
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7599076, 49.2715306] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný chodník Juráňova dolina: Plachí obyvatelia tiesňavy",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009647",
+        "closest_trail_lon": 19.7655576,
+        "closest_trail_lat": 49.2782172
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7642223, 49.2675567] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Nebezpečie pádu stromu",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009649",
+        "closest_trail_lon": 19.7655576,
+        "closest_trail_lat": 49.2782172
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7643587, 49.2676269] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Nebezpečie pádu stromu",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009650",
+        "closest_trail_lon": 19.7662014,
+        "closest_trail_lat": 49.2782522
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7676739, 49.2687234] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Turistický chodník zrušený",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009687",
+        "closest_trail_lon": 19.7652519,
+        "closest_trail_lat": 49.2782522
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7641354, 49.2675227] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "980",
+        "name": "Sedlo Umrlá",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009693",
+        "closest_trail_lon": 19.7652519,
+        "closest_trail_lat": 49.2782522
+      },
+      "geometry": { "type": "Point", "coordinates": [19.764169, 49.2676331] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NPR",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5736009712",
+        "closest_trail_lon": 19.7655576,
+        "closest_trail_lat": 49.2782172
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7643205, 49.2673869] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1514",
+        "name": "Hala Gąsienicowa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5810136957",
+        "closest_trail_lon": 20.0063898,
+        "closest_trail_lat": 49.2449127
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0063625, 49.2448916] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Meteo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5810136958",
+        "closest_trail_lon": 20.0060474,
+        "closest_trail_lat": 49.2440119
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0060303, 49.2440592] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Náučný chodník Juráňova dolina: Tiesňavy",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/5858932423",
+        "closest_trail_lon": 19.7711792,
+        "closest_trail_lat": 49.2810363
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7722, 49.2799948] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Biodiverzita",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/6298973468",
+        "closest_trail_lon": 19.7266456,
+        "closest_trail_lat": 49.2551522
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7184084, 49.2362181] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Les nie je smetisko",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/6298973469",
+        "closest_trail_lon": 19.7266456,
+        "closest_trail_lat": 49.2551522
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7184594, 49.2361796] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1140",
+        "name": "Rázcestie nad kameňolom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/6315613772",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6340127, 49.1687872] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1303",
+        "name": "Czerwona Przełęcz",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/6535619572",
+        "closest_trail_lon": 19.9425647,
+        "closest_trail_lat": 49.263014
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9425136, 49.2629374] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zlaňák",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/6723869191",
+        "closest_trail_lon": 20.2130296,
+        "closest_trail_lat": 49.191533
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2130296, 49.191533] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zawrat",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/6775399700",
+        "closest_trail_lon": 20.016392,
+        "closest_trail_lat": 49.2190881
+      },
+      "geometry": { "type": "Point", "coordinates": [20.01639, 49.2190907] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NPP Mních",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7006491373",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6406956, 49.1814852] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Masív Lomnického štítu",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7641149581",
+        "closest_trail_lon": 20.2311046,
+        "closest_trail_lat": 49.188458
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2310751, 49.1884468] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Turisti pod Lomnickým štítom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7641158086",
+        "closest_trail_lon": 20.2303952,
+        "closest_trail_lat": 49.1888043
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2303603, 49.1888439] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Biota okolia Skalnatého plesa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7641158087",
+        "closest_trail_lon": 20.2325198,
+        "closest_trail_lat": 49.1891247
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2326308, 49.1890788] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Veda na Skalnatom plese",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7641158088",
+        "closest_trail_lon": 20.2333579,
+        "closest_trail_lat": 49.1884915
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2333993, 49.1884837] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Skalnaté pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7641158089",
+        "closest_trail_lon": 20.2326599,
+        "closest_trail_lat": 49.1880016
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2325973, 49.1879981] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Lomnická vyhliadka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660939839",
+        "closest_trail_lon": 20.2264495,
+        "closest_trail_lat": 49.1703492
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2264758, 49.170348] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zlomisko a zvrat výškových vegetačných stupňov",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980899",
+        "closest_trail_lon": 20.2235223,
+        "closest_trail_lat": 49.1640293
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2234992, 49.1640002] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Vodopády Studeného potoka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980900",
+        "closest_trail_lon": 20.222338,
+        "closest_trail_lat": 49.164816
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2222945, 49.1647941] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Chata Kamzík a Rainerova útulňa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980904",
+        "closest_trail_lon": 20.21869,
+        "closest_trail_lat": 49.1669291
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2186672, 49.1669957] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Rainerova útulňa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980905",
+        "closest_trail_lon": 20.21869,
+        "closest_trail_lat": 49.1669291
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2185734, 49.1669475] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Studený potok a jeho obyvatelia",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980908",
+        "closest_trail_lon": 20.2167947,
+        "closest_trail_lat": 49.1683894
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2167656, 49.1683312] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Turistické chodníky",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980909",
+        "closest_trail_lon": 20.2170368,
+        "closest_trail_lat": 49.167535
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2169835, 49.1675105] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Súčasný stav horských lesov",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980910",
+        "closest_trail_lon": 20.2189534,
+        "closest_trail_lat": 49.1653721
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2189381, 49.1653327] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "O tatranskej žule",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980911",
+        "closest_trail_lon": 20.2201598,
+        "closest_trail_lat": 49.163007
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2201733, 49.1629522] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Ako tatranské doliny nadobudli súčasný tvar?",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980913",
+        "closest_trail_lon": 20.2242476,
+        "closest_trail_lat": 49.1591373
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2242576, 49.1591575] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Hrebienok",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7660980916",
+        "closest_trail_lon": 20.2242476,
+        "closest_trail_lat": 49.1591373
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2249175, 49.1588703] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Symbolický cintorín",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7814447242",
+        "closest_trail_lon": 20.0789899,
+        "closest_trail_lat": 49.1495031
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0770902, 49.1484798] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1994",
+        "name": "Hladké sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7817310123",
+        "closest_trail_lon": 20.0125623,
+        "closest_trail_lat": 49.2079436
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0125609, 49.2079234] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2005",
+        "name": "Kopa Kondracka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7838740117",
+        "closest_trail_lon": 19.9322167,
+        "closest_trail_lat": 49.2365044
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9322244, 49.236509] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2178",
+        "name": "Baníkov",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7842304817",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7099658, 49.1978104] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Národná prírodná rezervácia",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7843105325",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6530806, 49.220232] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Národná prírodná rezervácia",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7843258035",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6205661, 49.213273] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1412",
+        "name": "Waksmundzka Rówień",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7869417938",
+        "closest_trail_lon": 20.0655673,
+        "closest_trail_lat": 49.255351
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0654931, 49.2553647] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1190",
+        "name": "Parichvost pod Hlbokou dolinou",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7903935752",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6751233, 49.1897948] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zákaz vstupu s bicyklom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7912346763",
+        "closest_trail_lon": 19.7590882,
+        "closest_trail_lat": 49.2786056
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7597394, 49.2714277] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1357",
+        "name": "Rázcestie pod Slavkovským Štítom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/7997537372",
+        "closest_trail_lon": 20.2101627,
+        "closest_trail_lat": 49.1535357
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2101452, 49.1535358] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Mengusovská dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8307587609",
+        "closest_trail_lon": 20.0776342,
+        "closest_trail_lat": 49.1542195
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0777475, 49.1542828] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Palenica Białczańska (Ścieżka do Morskiego Oka)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8428929288",
+        "closest_trail_lon": 20.1029194,
+        "closest_trail_lat": 49.2545776
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1029609, 49.2549401] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Morskie Oko (Ścieżka do Morskiego Oka)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8428955797",
+        "closest_trail_lon": 20.0708101,
+        "closest_trail_lat": 49.2014109
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0707461, 49.2014482] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Żleb Żandarmerii (Ścieżka do Morskiego Oka)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8428955798",
+        "closest_trail_lon": 20.0698872,
+        "closest_trail_lat": 49.2102178
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0774664, 49.2112668] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Włosienica (Ścieżka do Morskiego Oka)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8428955799",
+        "closest_trail_lon": 20.0890513,
+        "closest_trail_lat": 49.2194476
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0811953, 49.2143585] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Wanta (Ścieżka do Morskiego Oka)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8428955800",
+        "closest_trail_lon": 20.0957556,
+        "closest_trail_lat": 49.221915
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0957349, 49.2218648] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Wodogrzmoty Mickiewicza (Ścieżka do Morskiego Oka)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8428955801",
+        "closest_trail_lon": 20.0874696,
+        "closest_trail_lat": 49.2338301
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0872338, 49.2344718] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Dolina Białki (Ścieżka do Morskiego Oka)",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8428955802",
+        "closest_trail_lon": 20.0985192,
+        "closest_trail_lat": 49.2530474
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0975132, 49.2505883] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1360",
+        "name": "Dziadula",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": "rock",
+        "wikipedia": "pl:Dziadula (Dolina Roztoki)",
+        "id": "node/8758385440",
+        "closest_trail_lon": 20.0528994,
+        "closest_trail_lat": 49.2190813
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0557002, 49.2193517] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NPP Mních",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8850957491",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6375264, 49.1783642] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NPP Mních",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8850959634",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6314016, 49.1724418] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NPP Mních",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8850959859",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6325737, 49.1700428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NPP Suchá dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8850986805",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6381742, 49.1935739] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Hlboká dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8851231879",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6748427, 49.1899255] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Bobrovecká dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8851262375",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6630825, 49.1884074] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Parichvost-uzávera 1.11-14.6.",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8851262393",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6633806, 49.1883206] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Bezzásahová zóna!",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/8984289764",
+        "closest_trail_lon": 20.1174215,
+        "closest_trail_lat": 49.146732
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1176673, 49.1352904] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Základy Kovalčíkovej chaty",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9028833042",
+        "closest_trail_lon": 20.259807,
+        "closest_trail_lat": 49.2066689
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2598579, 49.2066657] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "stará značka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9103929113",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6554033, 49.2068019] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "stará značka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9103929114",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.655748, 49.2075554] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Kamzíčia oblasť!",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9103941538",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6526045, 49.2142016] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "urbár Bobrovec",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9103941784",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6622524, 49.2220702] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Rázcestie pod Hrubým vrchom",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9164138171",
+        "closest_trail_lon": 19.7821632,
+        "closest_trail_lat": 49.1999444
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7794401, 49.1941749] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Geológia, geomorfológia, hydrológia v Jamníckej doline",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9164139163",
+        "closest_trail_lon": 19.7715524,
+        "closest_trail_lat": 49.2055823
+      },
+      "geometry": { "type": "Point", "coordinates": [19.770963, 49.203287] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zelená dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9374751603",
+        "closest_trail_lon": 19.7379218,
+        "closest_trail_lat": 49.2089394
+      },
+      "geometry": { "type": "Point", "coordinates": [19.727587, 49.2195225] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1407",
+        "name": "Waksmundzka Rówień",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9510342429",
+        "closest_trail_lon": 20.0671962,
+        "closest_trail_lat": 49.2553721
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0671799, 49.2553908] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1183",
+        "name": "Psia Trawka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9510342432",
+        "closest_trail_lon": 20.0366477,
+        "closest_trail_lat": 49.2697541
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0366296, 49.2697187] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1765",
+        "name": "Wyżnia Kondracka Przełęcz",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9514597561",
+        "closest_trail_lon": 19.9339351,
+        "closest_trail_lat": 49.2485807
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9339539, 49.2485533] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zespół dworsko-parkowy w Kuźnicach",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9514597565",
+        "closest_trail_lon": 19.9814733,
+        "closest_trail_lat": 49.2689953
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9814759, 49.2706664] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1853",
+        "name": "Karb",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9521558687",
+        "closest_trail_lon": 20.0117079,
+        "closest_trail_lat": 49.2288106
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0117085, 49.2287927] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1103",
+        "name": "Nosalowa Przełęcz",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9521570266",
+        "closest_trail_lon": 19.9914478,
+        "closest_trail_lat": 49.2729371
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9914842, 49.2729385] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Lavínový terén",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9612268162",
+        "closest_trail_lon": 20.0481572,
+        "closest_trail_lat": 49.1455148
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0493059, 49.1439966] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Popradské pleso",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9811996130",
+        "closest_trail_lon": 20.0797328,
+        "closest_trail_lat": 49.1517697
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0797402, 49.1517493] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Partizánsky bunker 1.min.",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9871160892",
+        "closest_trail_lon": 19.969427,
+        "closest_trail_lat": 49.1487364
+      },
+      "geometry": { "type": "Point", "coordinates": [19.969399, 49.1487343] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Hučivá diera",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9880677932",
+        "closest_trail_lon": 20.3075899,
+        "closest_trail_lat": 49.2190188
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3109621, 49.2194393] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Lavínový terén",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9880677984",
+        "closest_trail_lon": 20.275689,
+        "closest_trail_lat": 49.2244158
+      },
+      "geometry": { "type": "Point", "coordinates": [20.275687, 49.2244206] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Chata Plesnivec 55 min.",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9880678058",
+        "closest_trail_lon": 20.3075899,
+        "closest_trail_lat": 49.2190188
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3075396, 49.2190442] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Dolina Goryczkowa",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9895504498",
+        "closest_trail_lon": 19.9781721,
+        "closest_trail_lat": 49.2663606
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9782025, 49.2664394] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Piętrowość roślinności",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9895504499",
+        "closest_trail_lon": 19.9781721,
+        "closest_trail_lat": 49.2663606
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9781951, 49.2664341] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Matka Boska Niepokalanie Poczęta",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9910389717",
+        "closest_trail_lon": 20.0165061,
+        "closest_trail_lat": 49.2192783
+      },
+      "geometry": { "type": "Point", "coordinates": [20.016502, 49.219435] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1010",
+        "name": "Detrichovské",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9925112577",
+        "closest_trail_lon": 19.761826,
+        "closest_trail_lat": 49.1503333
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7252548, 49.1387948] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zelená-stará",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9952904238",
+        "closest_trail_lon": 20.064534,
+        "closest_trail_lat": 49.179068
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0645757, 49.1790265] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zelená-stará",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9952904252",
+        "closest_trail_lon": 20.0653697,
+        "closest_trail_lat": 49.1798008
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0654058, 49.179796] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zelená-stará",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9952904255",
+        "closest_trail_lon": 20.0653869,
+        "closest_trail_lat": 49.1798518
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0654296, 49.1798554] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zelená-stará",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9952904256",
+        "closest_trail_lon": 20.0654045,
+        "closest_trail_lat": 49.1806768
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0653998, 49.1806694] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zelená-stará",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9952904257",
+        "closest_trail_lon": 20.0651131,
+        "closest_trail_lat": 49.1824461
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0651168, 49.1824422] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zelená-stará",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/9952904261",
+        "closest_trail_lon": 20.0650115,
+        "closest_trail_lat": 49.1826887
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0650042, 49.1826824] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1031",
+        "name": "Stara Roztoka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10186031959",
+        "closest_trail_lon": 20.095142,
+        "closest_trail_lat": 49.2335847
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0951365, 49.2335117] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Studenopotocké kúpele 1884-1927",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10698163024",
+        "closest_trail_lon": 20.2242476,
+        "closest_trail_lat": 49.1591373
+      },
+      "geometry": { "type": "Point", "coordinates": [20.2249006, 49.1593051] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Samo Bohdan Hroboň 1894",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10916959617",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6156175, 49.201113] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1220",
+        "name": "Rázcestie pod Babkami",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10922554894",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6314351, 49.1741638] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NPR Mních",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10923677471",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6392658, 49.1694361] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "TANAP",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10923677528",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6322103, 49.1652831] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Lavínový terén",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10923720300",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6311981, 49.1741274] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Požiarne jazero Rakytie",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10929166642",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6577178, 49.1655572] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zákaz vstupu - Ťažba dreva!",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10929237706",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6689686, 49.1729977] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Ráztoka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10929262487",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6726891, 49.1754832] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1480",
+        "name": "Košariská",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10929289034",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6718659, 49.1765934] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8168",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934343785",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7361258, 49.1678086] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8168",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934343786",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7361808, 49.1674184] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8168",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934343787",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7363725, 49.166944] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8168",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934343788",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7364181, 49.1666766] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8168",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934343789",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7363752, 49.1664398] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8168",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934343790",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7361553, 49.1659066] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "8168",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934343791",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7357395, 49.1648789] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Horica",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934578882",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7852142, 49.1439054] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "5613",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934578995",
+        "closest_trail_lon": 19.762632,
+        "closest_trail_lat": 49.1510623
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7594637, 49.157078] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "5613",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10934579002",
+        "closest_trail_lon": 19.7482493,
+        "closest_trail_lat": 49.1828215
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7423404, 49.173394] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Medvedia značka",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/10962186436",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6137144, 49.1908353] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Dolina Białego",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11014357963",
+        "closest_trail_lon": 19.9571476,
+        "closest_trail_lat": 49.2776963
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9570845, 49.2775553] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Zabytkowy wagonik kolejki",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11015659328",
+        "closest_trail_lon": 19.9792987,
+        "closest_trail_lat": 49.2688769
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9794968, 49.269211] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Dolina Bystrej",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11016503147",
+        "closest_trail_lon": 19.9737444,
+        "closest_trail_lat": 49.263934
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9737347, 49.2637922] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Biela skala",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11039464496",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6109578, 49.2153615] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "NÁUČNY CHODNÍK ZADNÉ MEĎODOLY",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11064887041",
+        "closest_trail_lon": 20.1574876,
+        "closest_trail_lat": 49.2467038
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1549919, 49.2505681] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Luneta na Kasprowy Wierch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11134033556",
+        "closest_trail_lon": 19.982161,
+        "closest_trail_lat": 49.2784746
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9807859, 49.2766592] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2110",
+        "name": "Szpiglasowa Przełęcz",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11189254685",
+        "closest_trail_lon": 20.0421994,
+        "closest_trail_lat": 49.1978572
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0421846, 49.19784] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "História ovčiarsva",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11245351489",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7141585, 49.1755429] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "100-ročná lavína",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11245354677",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7131526, 49.1683663] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "5.km - Mláky",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11245354684",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7149122, 49.1778829] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "100-ročná lavína",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11245354696",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7168246, 49.1798975] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Tatry Zachodnie i Wysokie",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11268887816",
+        "closest_trail_lon": 19.9670161,
+        "closest_trail_lat": 49.259344
+      },
+      "geometry": { "type": "Point", "coordinates": [19.9668922, 49.2594711] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "P936",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11903583131",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6911293, 49.1912398] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Roháče",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/11921656193",
+        "closest_trail_lon": 19.723086,
+        "closest_trail_lat": 49.2565513
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7149866, 49.2382233] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Z",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12103327393",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7024587, 49.1600775] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Z",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12103327394",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7028717, 49.1608335] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Z",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12103327395",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7028811, 49.1609431] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Z",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12103327396",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7030179, 49.1611685] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Z",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12103327397",
+        "closest_trail_lon": 19.7384968,
+        "closest_trail_lat": 49.1901235
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7032432, 49.1613404] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Úzka dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12107696965",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7938952, 49.1484496] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Jamnícka dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12107696966",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7936109, 49.1487004] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Račkova dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12107696967",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7941849, 49.1490162] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Tajch",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12107697032",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7960329, 49.1406312] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "urbár Pribylina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12107697035",
+        "closest_trail_lon": 19.7786629,
+        "closest_trail_lat": 49.1484118
+      },
+      "geometry": { "type": "Point", "coordinates": [19.7953114, 49.1471311] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "1411",
+        "name": "Chata Pod Náružím",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12198730782",
+        "closest_trail_lon": 19.70398,
+        "closest_trail_lat": 49.2584533
+      },
+      "geometry": { "type": "Point", "coordinates": [19.6401802, 49.1839889] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Groszov ľad",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12461471601",
+        "closest_trail_lon": 20.194628,
+        "closest_trail_lat": 49.174323
+      },
+      "geometry": { "type": "Point", "coordinates": [20.1935786, 49.1721015] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": "2180",
+        "name": "Vyšné Kôprovské sedlo",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12467551442",
+        "closest_trail_lon": 20.0527619,
+        "closest_trail_lat": 49.1774253
+      },
+      "geometry": { "type": "Point", "coordinates": [20.0527588, 49.1774362] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": null,
+        "name": "Babia dolina",
+        "name:pl": null,
+        "name:sk": null,
+        "natural": null,
+        "wikipedia": null,
+        "id": "node/12506731693",
+        "closest_trail_lon": 20.2958303,
+        "closest_trail_lat": 49.2259053
+      },
+      "geometry": { "type": "Point", "coordinates": [20.3036403, 49.2500736] }
+    }
+  ]
+}
