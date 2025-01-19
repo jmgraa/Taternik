@@ -79,7 +79,7 @@
       "properties": {
         "ele": "2376",
         "ele:bpv": "2375.95",
-        "name": "Cubryna / Čubrina",
+        "name": "Cubryna",
         "name:pl": "Cubryna",
         "name:sk": "Čubrina",
         "natural": "peak",
@@ -805,7 +805,7 @@
       "properties": {
         "ele": "2410",
         "ele:bpv": null,
-        "name": "Mięguszowiecki Szczyt Czarny / Východný Mengusovský štít",
+        "name": "Mięguszowiecki Szczyt Czarny",
         "name:pl": "Mięguszowiecki Szczyt Czarny",
         "name:sk": "Východný Mengusovský štít",
         "natural": "peak",
@@ -827,7 +827,7 @@
       "properties": {
         "ele": "2373",
         "ele:bpv": "2373.41",
-        "name": "Volia veža / Wołowa Turnia",
+        "name": "Wołowa Turnia",
         "name:pl": "Wołowa Turnia",
         "name:sk": "Volia veža",
         "natural": "peak",
@@ -849,7 +849,7 @@
       "properties": {
         "ele": "2263",
         "ele:bpv": "2259.49",
-        "name": "Veľký Žabí štít / Żabi Szczyt Wyżni",
+        "name": "Żabi Szczyt Wyżni",
         "name:pl": "Żabi Szczyt Wyżni",
         "name:sk": "Veľký Žabí štít",
         "natural": "peak",
@@ -893,7 +893,7 @@
       "properties": {
         "ele": "2156",
         "ele:bpv": "2156.15",
-        "name": "Valentková / Walentkowy Wierch",
+        "name": "Walentkowy Wierch",
         "name:pl": "Walentkowy Wierch",
         "name:sk": "Valentková",
         "natural": "peak",
@@ -937,7 +937,7 @@
       "properties": {
         "ele": "2430",
         "ele:bpv": "2430.83",
-        "name": "Malé Rysy / Niżnie Rysy",
+        "name": "Niżnie Rysy",
         "name:pl": "Niżnie Rysy",
         "name:sk": "Malé Rysy",
         "natural": "peak",
@@ -959,7 +959,7 @@
       "properties": {
         "ele": "2097",
         "ele:bpv": null,
-        "name": "Krajná Kopa / Skrajna Turnia",
+        "name": "Skrajna Turnia",
         "name:pl": "Skrajna Turnia",
         "name:sk": "Krajná Kopa",
         "natural": "peak",
@@ -1091,7 +1091,7 @@
       "properties": {
         "ele": "2065",
         "ele:bpv": null,
-        "name": "Gładki Wierch / Hladký štít",
+        "name": "Gładki Wierch",
         "name:pl": "Gładki Wierch",
         "name:sk": "Hladký štít",
         "natural": "peak",
@@ -1113,7 +1113,7 @@
       "properties": {
         "ele": "2172",
         "ele:bpv": null,
-        "name": "Druhý Mních / Zadni Mnich",
+        "name": "Zadni Mnich",
         "name:pl": "Zadni Mnich",
         "name:sk": "Druhý Mních",
         "natural": "peak",
@@ -1245,7 +1245,7 @@
       "properties": {
         "ele": "2012",
         "ele:bpv": null,
-        "name": "Beskid / Beskyd",
+        "name": "Beskid",
         "name:pl": "Beskid",
         "name:sk": "Beskyd",
         "natural": "peak",
@@ -1267,7 +1267,7 @@
       "properties": {
         "ele": "2172.1",
         "ele:bpv": null,
-        "name": "Hrubý štít / Szpiglasowy Wierch",
+        "name": "Szpiglasowy Wierch",
         "name:pl": "Szpiglasowy Wierch",
         "name:sk": "Hrubý štít",
         "natural": "peak",
@@ -1289,7 +1289,7 @@
       "properties": {
         "ele": "2055",
         "ele:bpv": null,
-        "name": "Niżni Kostur / Nižný kostúr",
+        "name": "Niżni Kostur",
         "name:pl": "Niżni Kostur",
         "name:sk": "Nižný kostúr",
         "natural": "peak",
@@ -1421,7 +1421,7 @@
       "properties": {
         "ele": "2159",
         "ele:bpv": null,
-        "name": "Blyšť / Błyszcz",
+        "name": "Błyszcz",
         "name:pl": "Błyszcz",
         "name:sk": "Blyšť",
         "natural": "peak",
@@ -1465,7 +1465,7 @@
       "properties": {
         "ele": "2096",
         "ele:bpv": null,
-        "name": "Ciemniak / Temniak",
+        "name": "Ciemniak",
         "name:pl": "Ciemniak",
         "name:sk": "Temniak",
         "natural": "peak",
@@ -1487,7 +1487,7 @@
       "properties": {
         "ele": "2096",
         "ele:bpv": null,
-        "name": "Malolučniak / Małołączniak",
+        "name": "Małołączniak",
         "name:pl": "Małołączniak",
         "name:sk": "Malolučniak",
         "natural": "peak",
@@ -2917,7 +2917,7 @@
       "properties": {
         "ele": "2438",
         "ele:bpv": null,
-        "name": "Mięguszowiecki Szczyt Wielki / Veľký Mengusovský štít",
+        "name": "Mięguszowiecki Szczyt Wielki",
         "name:pl": "Mięguszowiecki Szczyt Wielki",
         "name:sk": "Veľký Mengusovský štít",
         "natural": "peak",
@@ -2939,7 +2939,7 @@
       "properties": {
         "ele": "2410",
         "ele:bpv": null,
-        "name": "Niżne Rysy, Zadnia Turnia / Malé Rysy, Zadná veža",
+        "name": "Niżne Rysy, Zadnia Turnia",
         "name:pl": null,
         "name:sk": null,
         "natural": "peak",
@@ -2983,7 +2983,7 @@
       "properties": {
         "ele": "1665",
         "ele:bpv": "1664.71",
-        "name": "Bobrowiec / Bobrovec",
+        "name": "Bobrowiec",
         "name:pl": "Bobrowiec",
         "name:sk": "Bobrovec",
         "natural": "peak",
@@ -3027,7 +3027,7 @@
       "properties": {
         "ele": "1653",
         "ele:bpv": "1652.82",
-        "name": "Grześ / Lúčna",
+        "name": "Grześ",
         "name:pl": "Grześ",
         "name:sk": "Lúčna",
         "natural": "peak",
@@ -3247,7 +3247,7 @@
       "properties": {
         "ele": "1879",
         "ele:bpv": null,
-        "name": "Rakoń / Rákoň",
+        "name": "Rakoń",
         "name:pl": "Rakoń",
         "name:sk": "Rákoň",
         "natural": "peak",
@@ -3357,7 +3357,7 @@
       "properties": {
         "ele": "2083",
         "ele:bpv": "2079.51",
-        "name": "Vyšný kostúr / Wyżni Kostur",
+        "name": "Wyżni Kostur",
         "name:pl": "Wyżni Kostur",
         "name:sk": "Vyšný kostúr",
         "natural": "peak",
@@ -3555,7 +3555,7 @@
       "properties": {
         "ele": "1958",
         "ele:bpv": null,
-        "name": "Deravá / Łopata",
+        "name": "Łopata",
         "name:pl": "Łopata",
         "name:sk": "Deravá",
         "natural": "peak",
@@ -3621,7 +3621,7 @@
       "properties": {
         "ele": "2176",
         "ele:bpv": "2175.85",
-        "name": "Klin / Starorobociański Wierch",
+        "name": "Starorobociański Wierch",
         "name:pl": "Starorobociański Wierch",
         "name:sk": "Klin",
         "natural": "peak",
@@ -3643,7 +3643,7 @@
       "properties": {
         "ele": "2002",
         "ele:bpv": null,
-        "name": "Končistá / Kończysty Wierch",
+        "name": "Kończysty Wierch",
         "name:pl": "Kończysty Wierch",
         "name:sk": "Končistá",
         "natural": "peak",
@@ -3687,7 +3687,7 @@
       "properties": {
         "ele": "1965",
         "ele:bpv": null,
-        "name": "Sivá veža / Siwy Zwornik",
+        "name": "Siwy Zwornik",
         "name:pl": "Siwy Zwornik",
         "name:sk": "Sivá veža",
         "natural": "peak",
@@ -3731,7 +3731,7 @@
       "properties": {
         "ele": "1874",
         "ele:bpv": null,
-        "name": "Pośredni Goryczkowy Wierch / Prostredný Goričkový vrch",
+        "name": "Pośredni Goryczkowy Wierch",
         "name:pl": "Pośredni Goryczkowy Wierch",
         "name:sk": "Prostredný Goričkový vrch",
         "natural": "peak",
@@ -3819,7 +3819,7 @@
       "properties": {
         "ele": "1912",
         "ele:bpv": null,
-        "name": "Goričkova kopa / Goryczkowa Czuba (1912 m)",
+        "name": "Goryczkowa Czuba",
         "name:pl": "Goryczkowa Czuba",
         "name:sk": "Goričkova kopa",
         "natural": "peak",
@@ -3885,7 +3885,7 @@
       "properties": {
         "ele": "1893",
         "ele:bpv": null,
-        "name": "Suchy Wierch Kondracki / Suchá kopa",
+        "name": "Suchy Wierch Kondracki",
         "name:pl": "Suchy Wierch Kondracki",
         "name:sk": "Suchá kopa",
         "natural": "peak",
@@ -3973,7 +3973,7 @@
       "properties": {
         "ele": "1977",
         "ele:bpv": "1977.27",
-        "name": "Poľská Tomanová / Tomanowy Wierch Polski",
+        "name": "Tomanowy Wierch Polski",
         "name:pl": "Tomanowy Wierch Polski",
         "name:sk": "Poľská Tomanová",
         "natural": "peak",
@@ -4017,7 +4017,7 @@
       "properties": {
         "ele": "2067",
         "ele:bpv": null,
-        "name": "Smreczyński Wierch / Smrečiny (2067 m)",
+        "name": "Smreczyński Wierch",
         "name:pl": "Smreczyński Wierch",
         "name:sk": "Smrečiny",
         "natural": "peak",
@@ -4083,7 +4083,7 @@
       "properties": {
         "ele": "1869",
         "ele:bpv": null,
-        "name": "Suchy Wierch Tomanowy / Suchý vrch",
+        "name": "Suchy Wierch Tomanowy",
         "name:pl": "Suchy Wierch Tomanowy",
         "name:sk": "Suchý vrch",
         "natural": "peak",
@@ -4127,7 +4127,7 @@
       "properties": {
         "ele": "2127",
         "ele:bpv": "2127.23",
-        "name": "Veľká Kamenistá / Kamienista",
+        "name": "Kamienista",
         "name:pl": "Kamienista",
         "name:sk": "Veľká Kamenistá",
         "natural": "peak",
@@ -4171,7 +4171,7 @@
       "properties": {
         "ele": "2122",
         "ele:bpv": "2122.23",
-        "name": "Kresanica / Krzesanica",
+        "name": "Krzesanica",
         "name:pl": "Krzesanica",
         "name:sk": "Kresanica",
         "natural": "peak",
@@ -5381,7 +5381,7 @@
       "properties": {
         "ele": "2064",
         "ele:bpv": "2063.08",
-        "name": "Volovec / Wołowiec",
+        "name": "Wołowiec",
         "name:pl": "Wołowiec",
         "name:sk": "Volovec",
         "natural": "peak",
@@ -6107,7 +6107,7 @@
       "properties": {
         "ele": "1949",
         "ele:bpv": "1948.61",
-        "name": "Głazista Turnia / Stoly",
+        "name": "Głazista Turnia",
         "name:pl": "Głazista Turnia",
         "name:sk": "Stoly",
         "natural": "peak",
@@ -6437,7 +6437,7 @@
       "properties": {
         "ele": "2291",
         "ele:bpv": null,
-        "name": "Svinica / Świnica (2291 m)",
+        "name": "Świnica",
         "name:pl": "Świnica",
         "name:sk": "Svinica",
         "natural": "peak",
@@ -6657,7 +6657,7 @@
       "properties": {
         "ele": "2302",
         "ele:bpv": "2301.56",
-        "name": "Svinica / Świnica (2302 m)",
+        "name": "Świnica",
         "name:pl": "Świnica",
         "name:sk": "Svinica",
         "natural": "peak",
@@ -6877,7 +6877,7 @@
       "properties": {
         "ele": "2128",
         "ele:bpv": null,
-        "name": "Prostredná kopa / Pośrednia Turnia",
+        "name": "Pośrednia Turnia",
         "name:pl": "Pośrednia Turnia",
         "name:sk": "Prostredná kopa",
         "natural": "peak",
@@ -6921,7 +6921,7 @@
       "properties": {
         "ele": "2142",
         "ele:bpv": null,
-        "name": "Temnosmrečinská veža / Ciemnosmreczyńska Turnia",
+        "name": "Ciemnosmreczyńska Turnia",
         "name:pl": "Ciemnosmreczyńska Turnia",
         "name:sk": "Temnosmrečinská veža",
         "natural": "peak",
@@ -7031,7 +7031,7 @@
       "properties": {
         "ele": "2336",
         "ele:bpv": null,
-        "name": "Żabia Turnia Mięguszowiecka / Žabia veža",
+        "name": "Żabia Turnia Mięguszowiecka",
         "name:pl": "Żabia Turnia Mięguszowiecka",
         "name:sk": "Žabia veža",
         "natural": "peak",
@@ -7097,7 +7097,7 @@
       "properties": {
         "ele": "2365",
         "ele:bpv": "2373.41",
-        "name": "Rogata Turniczka / Rohatá vežička",
+        "name": "Rogata Turniczka",
         "name:pl": "Rogata Turniczka",
         "name:sk": "Rohatá vežička",
         "natural": "peak",
@@ -7119,7 +7119,7 @@
       "properties": {
         "ele": "2372",
         "ele:bpv": null,
-        "name": "Hincova veža / Hińczowa Turnia",
+        "name": "Hińczowa Turnia",
         "name:pl": "Hińczowa Turnia",
         "name:sk": "Hincova veža",
         "natural": "peak",
@@ -7141,7 +7141,7 @@
       "properties": {
         "ele": "2360",
         "ele:bpv": null,
-        "name": "Hińczowa Turniczka / Hincova vežička",
+        "name": "Hińczowa Turniczka",
         "name:pl": "Hińczowa Turniczka",
         "name:sk": "Hincova vežička",
         "natural": "peak",
@@ -7185,7 +7185,7 @@
       "properties": {
         "ele": "1974",
         "ele:bpv": null,
-        "name": "Mała Kotelnica / Malá Kotolnica",
+        "name": "Mała Kotelnica",
         "name:pl": "Mała Kotelnica",
         "name:sk": "Malá Kotolnica",
         "natural": "peak",
@@ -7207,7 +7207,7 @@
       "properties": {
         "ele": "1987",
         "ele:bpv": null,
-        "name": "Wielka Kotelnica / Veľká Kotolnica",
+        "name": "Wielka Kotelnica",
         "name:pl": "Wielka Kotelnica",
         "name:sk": "Veľká Kotolnica",
         "natural": "peak",
@@ -7229,7 +7229,7 @@
       "properties": {
         "ele": "1990",
         "ele:bpv": null,
-        "name": "Gładka Kotelnica / Hladká Kotolnica",
+        "name": "Gładka Kotelnica",
         "name:pl": "Gładka Kotelnica",
         "name:sk": "Hladká Kotolnica",
         "natural": "peak",
@@ -7405,7 +7405,7 @@
       "properties": {
         "ele": "1987",
         "ele:bpv": null,
-        "name": "Kasprov vrch / Kasprowy Wierch",
+        "name": "Kasprowy Wierch",
         "name:pl": "Kasprowy Wierch",
         "name:sk": "Kasprov vrch",
         "natural": "peak",
@@ -7449,7 +7449,7 @@
       "properties": {
         "ele": "2005",
         "ele:bpv": null,
-        "name": "Kondratova kopa / Kopa Kondracka",
+        "name": "Kopa Kondracka",
         "name:pl": "Kopa Kondracka",
         "name:sk": "Kondratova kopa",
         "natural": "peak",
@@ -7471,7 +7471,7 @@
       "properties": {
         "ele": "2068",
         "ele:bpv": "2069.71",
-        "name": "Smreczyński Wierch / Smrečiny (2068 m)",
+        "name": "Smreczyński Wierch",
         "name:pl": "Smreczyński Wierch",
         "name:sk": "Smrečiny",
         "natural": "peak",
@@ -7537,7 +7537,7 @@
       "properties": {
         "ele": "2137",
         "ele:bpv": "2136.93",
-        "name": "Jarząbczy Wierch / Hrubý vrch",
+        "name": "Jarząbczy Wierch",
         "name:pl": "Jarząbczy Wierch",
         "name:sk": "Hrubý vrch",
         "natural": "peak",
@@ -7603,7 +7603,7 @@
       "properties": {
         "ele": "1491",
         "ele:bpv": "1490.61",
-        "name": "Furkaska / Veľká Furkaska",
+        "name": "Furkaska",
         "name:pl": "Furkaska",
         "name:sk": "Veľká Furkaska",
         "natural": "peak",
@@ -14137,7 +14137,7 @@
       "properties": {
         "ele": "1863",
         "ele:bpv": null,
-        "name": "Holý vrch / Hlinov vrch",
+        "name": "Hliński Wierch",
         "name:pl": "Hliński Wierch",
         "name:sk": "Holý vrch",
         "natural": "peak",
@@ -14731,7 +14731,7 @@
       "properties": {
         "ele": "2129",
         "ele:bpv": null,
-        "name": "Niżnia Walentkowa Baszta / Nižná Valentkova bašta",
+        "name": "Niżnia Walentkowa Baszta",
         "name:pl": "Niżnia Walentkowa Baszta",
         "name:sk": "Nižná Valentkova bašta",
         "natural": "peak",
@@ -14775,7 +14775,7 @@
       "properties": {
         "ele": "2114",
         "ele:bpv": null,
-        "name": "Vyšný Valentkov zub / Wyżnia Walentkowa Czuba",
+        "name": "Wyżnia Walentkowa Czuba",
         "name:pl": "Wyżnia Walentkowa Czuba",
         "name:sk": "Vyšný Valentkov zub",
         "natural": "peak",
@@ -14797,7 +14797,7 @@
       "properties": {
         "ele": "2107",
         "ele:bpv": null,
-        "name": "Pośrednia Walentkowa Czuba / Prostredný Valentkov zub",
+        "name": "Pośrednia Walentkowa Czuba",
         "name:pl": "Pośrednia Walentkowa Czuba",
         "name:sk": "Prostredný Valentkov zub",
         "natural": "peak",
@@ -14819,7 +14819,7 @@
       "properties": {
         "ele": "2108",
         "ele:bpv": null,
-        "name": "Mała Walentkowa Czuba / Malý Valentkov zub",
+        "name": "Mała Walentkowa Czuba",
         "name:pl": "Mała Walentkowa Czuba",
         "name:sk": "Malý Valentkov zub",
         "natural": "peak",
@@ -14841,7 +14841,7 @@
       "properties": {
         "ele": null,
         "ele:bpv": null,
-        "name": "Piargová veža / Głaźna Czuba",
+        "name": "Głaźna Czuba",
         "name:pl": "Głaźna Czuba",
         "name:sk": "Piargová veža",
         "natural": "peak",
@@ -14863,7 +14863,7 @@
       "properties": {
         "ele": null,
         "ele:bpv": null,
-        "name": "Deravá veža / Dziurawa Czuba",
+        "name": "Dziurawa Czuba",
         "name:pl": "Dziurawa Czuba",
         "name:sk": "Deravá veža",
         "natural": "peak",
@@ -14885,7 +14885,7 @@
       "properties": {
         "ele": null,
         "ele:bpv": null,
-        "name": "Deravá veľička / Szpiglasowa Turniczka",
+        "name": "Szpiglasowa Turniczka",
         "name:pl": "Szpiglasowa Turniczka",
         "name:sk": "Deravá veľička",
         "natural": "peak",
@@ -14907,7 +14907,7 @@
       "properties": {
         "ele": "2120",
         "ele:bpv": null,
-        "name": "Hrubý zub / Szpiglasowy Ząb",
+        "name": "Szpiglasowy Ząb",
         "name:pl": "Szpiglasowy Ząb",
         "name:sk": "Hrubý zub",
         "natural": "peak",
@@ -14929,7 +14929,7 @@
       "properties": {
         "ele": null,
         "ele:bpv": null,
-        "name": "Malý Hrubý štít / Szpiglasowa Czuba",
+        "name": "Szpiglasowa Czuba",
         "name:pl": "Szpiglasowa Czuba",
         "name:sk": "Malý Hrubý štít",
         "natural": "peak",
@@ -15017,7 +15017,7 @@
       "properties": {
         "ele": "2073",
         "ele:bpv": null,
-        "name": "Chałubińského vežička / Turniczka Chałubińskiego",
+        "name": "Turniczka Chałubińskiego",
         "name:pl": "Turniczka Chałubińskiego",
         "name:sk": "Chałubińského vežička",
         "natural": "peak",
@@ -15039,7 +15039,7 @@
       "properties": {
         "ele": "2389",
         "ele:bpv": null,
-        "name": "Mięguszowiecki Szczyt Pośredni / Prostredný Mengusovský štít",
+        "name": "Mięguszowiecki Szczyt Pośredni",
         "name:pl": "Mięguszowiecki Szczyt Pośredni",
         "name:sk": "Prostredný Mengusovský štít",
         "natural": "peak",
@@ -15061,7 +15061,7 @@
       "properties": {
         "ele": null,
         "ele:bpv": null,
-        "name": "Cienka Igła / Malá mengusovská ihla",
+        "name": "Cienka Igła",
         "name:pl": "Cienka Igła",
         "name:sk": "Malá mengusovská ihla",
         "natural": "peak",
@@ -15083,7 +15083,7 @@
       "properties": {
         "ele": "2355",
         "ele:bpv": null,
-        "name": "Igła Milówki / Veľká mengusovská ihla",
+        "name": "Igła Milówki",
         "name:pl": "Igła Milówki",
         "name:sk": "Veľká mengusovská ihla",
         "natural": "peak",
@@ -15127,7 +15127,7 @@
       "properties": {
         "ele": null,
         "ele:bpv": null,
-        "name": "Mięguszowiecka Turniczka / Mengusovská vežička",
+        "name": "Mięguszowiecka Turniczka",
         "name:pl": "Mięguszowiecka Turniczka",
         "name:sk": "Mengusovská vežička",
         "natural": "peak",
@@ -15237,7 +15237,7 @@
       "properties": {
         "ele": "1911",
         "ele:bpv": null,
-        "name": "Goričkova kopa / Goryczkowa Czuba (1911 m)",
+        "name": "Goryczkowa Czuba",
         "name:pl": "Goryczkowa Czuba",
         "name:sk": "Goričkova kopa",
         "natural": "peak",
@@ -16161,7 +16161,7 @@
       "properties": {
         "ele": "2375",
         "ele:bpv": null,
-        "name": "Niżne Rysy, Skrajna Turnia / Malé Rysy, Predná veža",
+        "name": "Niżne Rysy, Skrajna Turnia",
         "name:pl": null,
         "name:sk": null,
         "natural": "peak",
