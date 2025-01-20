@@ -1,5 +1,5 @@
 import Fuse, { FuseResult } from 'fuse.js';
-import peaksGeoJson from '@/map_data/data/peaks.json';
+import peaksGeoJson from '@/map_data/json/peaks.json';
 import { Peak } from '@/app/types/peakTypes';
 
 const fuse = new Fuse(peaksGeoJson.features, {
