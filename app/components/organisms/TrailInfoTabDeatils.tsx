@@ -1,6 +1,7 @@
 import React from 'react'
 import { View } from 'react-native'
 import DoubleLine from '../atoms/text/DoubleLine'
+import { hoursToHoursAndMinutes } from '@/app/services/dateTimeService'
 
 interface TrailInfoTabDeatilsProps {
   origin: string;
@@ -32,7 +33,7 @@ const TrailInfoTabDeatils: React.FC<TrailInfoTabDeatilsProps> = ({ origin, desti
       <View className="flex-row">
         <DoubleLine 
           title="Total time: "
-          value={`${totalTime} h`}
+          value={hoursToHoursAndMinutes(totalTime)}
           titleSize={false}
         />
       </View>
