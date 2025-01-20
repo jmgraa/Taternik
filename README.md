@@ -1,50 +1,58 @@
-# Welcome to your Expo app 👋
+# Taternik
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![App baner](assets/images/app-baner.png "App baner")
 
-## Get started
+*A mobile application developed in React Native, designed to enhance the planning and execution of mountain trips.*
 
-1. Install dependencies
+<div style="display: flex; justify-content: space-between; gap: 15px">
+  <img src="./assets/images/example-intro.png" alt="Sample start screen" style="width: 33%">
+  <img src="./assets/images/example-location.png" alt="Sample screen showing user location" style="width: 33%">
+  <img src="./assets/images/example-trail.png" alt="Sample screen with trail" style="width: 33%">
+</div>
 
-   ```bash
-   npm install
-   ```
+## System Requirements
+- **Operating System**: Android 8.0 or higher
+- **Processor**: 64-bit, at least 1.8 GHz
+- **RAM**: 2 GB or more
+- **Storage**: At least 200 MB of free space
 
-2. Start the app
+## Installation and Setup
+1. Download the **Taternik** app from the provided [Google Drive link](#).
+2. Install the app by following the on-screen instructions.
+3. Before launching the app, grant it precise location permissions.
 
-   ```bash
-    npx expo start
-   ```
+The application is still in the early stages of development, so it is not yet available in the official store. The author assures about the security of the .apk file provided by him.
 
-In the output, you'll find options to open the app in a
+## User Interface
+### Introductory Screen
+- **Log In or Sign Up Button**: Navigates to **Login** and **Registration** screen
+- **Continue Without Account Button**: Navigates to the **Map** screen.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Home Screen Tabs
+- **Map**: The main feature for route planning.
+- **Profile**: Displays user information and achievements *(in development)*.
+- **Settings**: Access to documentation and customer support *(in development)*.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Key Features
+### Searching for a Point
+1. On the **Map** screen, tap the search bar at the top of the screen.
+2. Start typing the name of the desired point.
+3. Tap the selected name from the displayed results.
 
-## Get a fresh project
+### Searching for a Route
+1. On the **Map** screen, tap the second icon from the list of available round icons on the right side of the screen.
+2. Fill in both search fields by typing and selecting the appropriate points.
+3. Press the **Search** button.
 
-When you're ready, run:
+### Centering to the user's location (if it is in the Tatra Mountains)
+1. On the **Map** screen, tap the first icon from the list of available round icons on the right side of the screen.
 
-```bash
-npm run reset-project
-```
+## Troubleshooting
+### Issue: The app won't open
+- **Solution**: Ensure that you have granted location permissions.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Issue: The map isn't displaying
+- **Solution**: Check your internet connection and try again.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Issue: The user's location is not visible, the view cannot be centered around it.
+- **Solution**: Make sure you have granted location permissions, it is running and you are in the Tatra Mountains
