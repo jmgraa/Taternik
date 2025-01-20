@@ -4,10 +4,10 @@
 
 *A mobile application developed in React Native, designed to enhance the planning and execution of mountain trips.*
 
-<div style="display: flex; justify-content: space-between; gap: 15px">
-  <img src="./assets/images/example-intro.png" alt="Sample start screen" style="width: 33%">
-  <img src="./assets/images/example-location.png" alt="Sample screen showing user location" style="width: 33%">
-  <img src="./assets/images/example-trail.png" alt="Sample screen with trail" style="width: 33%">
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/example-intro.png" alt="Sample start screen" style="width: 32%">
+  <img src="./assets/images/example-location.png" alt="Sample screen showing user location" style="width: 32%">
+  <img src="./assets/images/example-trail.png" alt="Sample screen with trail" style="width: 32%">
 </div>
 
 ## System Requirements
