@@ -1,13 +1,4 @@
-// peaks
-[out:json][timeout:25];
-(
-  node["natural"="peak"]({{bbox}});
-);
-out center;
-
-
-
-[out:json][timeout:25];
+[out:json];
 // Bounding box for the Tatra Mountains area
 {{geocodeArea:Tatras}}->.searchArea;
 
