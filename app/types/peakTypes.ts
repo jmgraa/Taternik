@@ -1,4 +1,4 @@
-export interface Peak {
+export default interface Peak {
   type: string;
   properties: PeakProperties;
   geometry: {
