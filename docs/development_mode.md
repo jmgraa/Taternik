@@ -28,7 +28,7 @@ npm install
 ```
 
 ### 4. Set up Android studio
-Follow the [Expo Tutorial](#https://docs.expo.dev/workflow/android-studio-emulator/).
+Follow the Expo Tutorial: `https://docs.expo.dev/workflow/android-studio-emulator/`.
 
 ### 5. Start the Metro Bundler
 Run the following command to start the Metro bundler:
