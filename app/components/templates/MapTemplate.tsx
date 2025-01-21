@@ -9,18 +9,19 @@ import SearchList from "../molecules/SearchList";
 import MapRoundButtons from "../organisms/MapRoundButtons";
 import InfoTabButtons from "../organisms/InfoTabButtons";
 import TrailInfoTabDeatils from "../organisms/TrailInfoTabDeatils";
-import { centerCameraOnPeak } from "@/app/services/cameraService";
+import CameraService from "@/app/services/cameraService";
 
 const MapTemplate = () => {
   const router: Router = useRouter();
   const currentRoute = useSelector((state: RootState) => state.route.currentRoute);
   const camera: React.RefObject<Camera> = useRef<Camera>(null);
+  const cameraService: CameraService = new CameraService(camera);
 
   return (
     <View className="flex-1 justify-center items-center bg-[#F5FCFF]">      
       <View className="w-full h-full bg-[#00FF00]">      
-        <MapAtom camera={camera} />
-        <SearchList onResultPress={(item) => centerCameraOnPeak(item, camera)} />
+        <MapAtom camera={camera} cameraService={cameraService} />
+        <SearchList onResultPress={(item) => cameraService.centerCameraOnPeak(item)} />
         { !currentRoute?.origin &&
           <MapRoundButtons
             router={router} 

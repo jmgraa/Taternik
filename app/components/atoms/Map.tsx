@@ -2,10 +2,11 @@ import React, { useEffect } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import { AppDispatch, RootState, setUserLocation } from '@/store';
 import { MapView, Camera, LocationPuck, ShapeSource, LineLayer, UserLocation, Location } from '@rnmapbox/maps'
-import { adjustCameraToTrail } from '@/app/services/cameraService';
+import CameraService from '@/app/services/cameraService';
 
 interface MapProps {
   camera: React.RefObject<Camera>;
+  cameraService: CameraService;
 }
 
 const bounds = {
@@ -13,15 +14,19 @@ const bounds = {
   sw: [19.583921, 49.145569],
 };
 
-const MapAtom: React.FC<MapProps> = ({ camera }) => {
+const MapAtom: React.FC<MapProps> = ({ camera, cameraService }) => {
   const currentRoute = useSelector((state: RootState) => state.route.currentRoute);
   const dispatch: AppDispatch = useDispatch();
 
   useEffect(() => {
-    if (currentRoute?.shapes) {
-      adjustCameraToTrail(currentRoute.originCoordinates, currentRoute.destinationCoordinates, camera);
+    if (currentRoute?.originCoordinates && currentRoute?.destinationCoordinates) {
+      const originArray: [number, number] = [...Object.values(currentRoute.originCoordinates)] as [number, number];
+      const destinationArray: [number, number] = [...Object.values(currentRoute.destinationCoordinates)] as [number, number];
+  
+      cameraService.adjustCameraToTrail(originArray, destinationArray);
     }
-  }, [currentRoute?.shapes]);
+    
+  }, [currentRoute?.originCoordinates, currentRoute?.destinationCoordinates]);
 
   const setUserLocationInStore = (longitude: number, latitude: number): void => {
     dispatch(setUserLocation({ longitude: longitude, latitude: latitude }));

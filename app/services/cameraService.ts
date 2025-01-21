@@ -1,28 +1,48 @@
 import { Camera } from "@rnmapbox/maps";
 
-export const centerCameraOnPeak = (item: any, camera: React.RefObject<Camera>): void => {
-  const longitude: number = item.geometry.coordinates[0];
-  const latitude: number = item.geometry.coordinates[1];
-
-  camera.current?.setCamera({
-    centerCoordinate: [longitude, latitude],
-    zoomLevel: 15
-  });
+interface Coordinates {
+  longitude: number;
+  latitude: number;
 }
 
-export const adjustCameraToTrail = (origin: any, destination: any, camera: React.RefObject<Camera>): void => {
-  const bounds: number[] = [
-    Math.min(origin[0], destination[0]),
-    Math.min(origin[1], origin[1]),
-    Math.max(origin[0], destination[0]),
-    Math.max(origin[1], origin[1]),
-  ]
+interface Bounds {
+  minLongitude: number;
+  minLatitude: number;
+  maxLongitude: number;
+  maxLatitude: number;
+}
 
-  camera.current?.setCamera({
-    centerCoordinate: [
-      (bounds[0] + bounds[2]) / 2,
-      (bounds[1] + bounds[3]) / 2,
-    ],
-    zoomLevel: 12,
-  });
+export default class CameraService {
+  constructor(private camera: React.RefObject<Camera>) {}
+
+  private calculateCenterCoordinates(bounds: Bounds): Coordinates {
+    return {
+      longitude: (bounds.minLongitude + bounds.maxLongitude) / 2,
+      latitude: (bounds.minLatitude + bounds.maxLatitude) / 2,
+    };
+  }
+
+  private setCameraPosition(center: Coordinates, zoomLevel: number): void {
+    this.camera.current?.setCamera({
+      centerCoordinate: [center.longitude, center.latitude],
+      zoomLevel,
+    });
+  }
+
+  public centerCameraOnPeak(item: { geometry: { coordinates: [number, number] } }): void {
+    const [longitude, latitude]: [number, number] = item.geometry.coordinates;
+    this.setCameraPosition({ longitude, latitude }, 15);
+  }
+
+  public adjustCameraToTrail(origin: [number, number], destination: [number, number]): void {
+    const bounds: Bounds = {
+      minLongitude: Math.min(origin[0], destination[0]),
+      minLatitude: Math.min(origin[1], destination[1]),
+      maxLongitude: Math.max(origin[0], destination[0]),
+      maxLatitude: Math.max(origin[1], destination[1]),
+    };
+
+    const center: Coordinates = this.calculateCenterCoordinates(bounds);
+    this.setCameraPosition(center, 12);
+  }
 }

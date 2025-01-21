@@ -1,17 +1,19 @@
-export const hoursToHoursAndMinutes =(stringHours: string): string => {
-  const floatHours: number = parseFloat(stringHours);
-  const hours: number = Math.floor(floatHours);
-  const minutes: number = Math.round((floatHours - hours) * 60);
+export default class DateTimeService {
+  public static hoursToHoursAndMinutes(stringHours: string): string {
+    const floatHours: number = parseFloat(stringHours);
+    const hours: number = Math.floor(floatHours);
+    const minutes: number = Math.round((floatHours - hours) * 60);
 
-  let reusult: string = '';
+    let result: string = '';
 
-  if (hours > 0) {
-    reusult += `${hours} h `;
+    if (hours > 0) {
+      result += `${hours} h `;
+    }
+
+    if (minutes > 0) {
+      result += `${minutes} min`;
+    }
+
+    return result ? result : 'unknown';
   }
-
-  if (minutes > 0) {
-    reusult += `${minutes} min`;
-  }
-
-  return reusult ? reusult : 'unknown';
 }

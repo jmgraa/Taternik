@@ -5,10 +5,10 @@ import { View, Text, TouchableOpacity } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Router, useRouter } from 'expo-router';
 import SearchBar from '../atoms/SearchBar'
-import { Peak } from '@/app/types/peakTypes';
-import { searchPeaks } from '@/app/services/peakSearchService';
+import Peak from '@/app/types/peakTypes';
+import PeakSearchService from '@/app/services/peakSearchService';
 import ResultList from '../atoms/ResultList';
-import { FindTrailBetweenPeaks } from '@/app/services/trailSearchService';
+import TrailSearchService from '@/app/services/trailSearchService';
 import ModalAlert from '../atoms/ModalAlert';
 
 interface PeakSearchProps {
@@ -19,23 +19,25 @@ interface PeakSearchProps {
 const OriginDestinationSearch = () => {
   const dispatch: AppDispatch = useDispatch();
   const router: Router = useRouter();
+  const trailSearchService: TrailSearchService = new TrailSearchService(dispatch);
+  const peakSearchService: PeakSearchService = new PeakSearchService();
 
   const [originQuery, setOriginQuery] = useState<PeakSearchProps>({ name: '', id: '' });
   const [destinationQuery, setDestinationQuery] = useState<PeakSearchProps>({ name: '', id: '' });
   const [results, setResults] = useState<Peak[]>([]);
   const [originFocused, setOriginFocused] = useState<boolean>(false);
   const [destinationFocused, setDestinationFocused] = useState<boolean>(false);
-  const [modalVisible, setModalVisible] = useState(false);
+  const [modalVisible, setModalVisible] = useState<boolean>(false);
 
   const handleOriginSearch = (text: string): void => {
     setOriginQuery({name: text, id: ''});
-    const searchResults: Peak[] = searchPeaks(text);
+    const searchResults: Peak[] = peakSearchService.searchPeaks(text);
     setResults(searchResults);
   };
     
   const handleDestinationSearch = (text: string): void => {
     setDestinationQuery({name: text, id: ''});
-    const searchResults: Peak[] = searchPeaks(text);
+    const searchResults: Peak[] = peakSearchService.searchPeaks(text);
     setResults(searchResults);
   };
 
@@ -50,9 +52,9 @@ const OriginDestinationSearch = () => {
   }
 
   const performSearch = (): void => {
-    const searchResults = FindTrailBetweenPeaks(originQuery.id, destinationQuery.id, dispatch);
+    const trailFound: boolean = trailSearchService.FindTrailBetweenPeaks(originQuery.id, destinationQuery.id);
     
-    if (searchResults) {
+    if (trailFound) {
       router.back();
     } else {
       setModalVisible(true);

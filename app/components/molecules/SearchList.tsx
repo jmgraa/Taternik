@@ -2,20 +2,23 @@ import React, { useState } from 'react'
 import { View } from 'react-native'
 import SearchBar from '../atoms/SearchBar'
 import ResultList from '../atoms/ResultList'
-import { searchPeaks, Peak } from "@/app/services/peakSearchService";
+import PeakSearchService from "@/app/services/peakSearchService";
+import Peak from '@/app/types/peakTypes';
 
 interface SearchListProps {
   onResultPress: (result: any) => void;
 }
 
 const SearchList: React.FC<SearchListProps> = ({ onResultPress }) => {
+  const peakSearchService: PeakSearchService = new PeakSearchService();
+
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [searchResults, setSearchResults] = useState<Peak[]>([]);
   const [isSearchBarFocused, setIsSearchBarFocused] = useState<boolean>(false);
 
   const handleSearch = (text: string): void => {
     setSearchQuery(text);
-    setSearchResults(searchPeaks(text));
+    setSearchResults(peakSearchService.searchPeaks(text));
   };
 
   return (
