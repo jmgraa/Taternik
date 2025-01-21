@@ -7,9 +7,16 @@ import store from "@/store";
 import '@/constants/global.css'
 
 SplashScreen.preventAutoHideAsync();
-setAccessToken(process.env.EXPO_PUBLIC_MAPBOX_STYLE_URL!);
 
 const RootLayout = () => {
+  useEffect(() => {
+    const setAccessTokenAndHideSplash = async () => {
+      await setAccessToken(process.env.EXPO_PUBLIC_MAPBOX_API_KEY!);
+      SplashScreen.hideAsync();
+    };
+    setAccessTokenAndHideSplash();
+  }, []);
+
   const [fontsLoaded, error] = useFonts({
     "Poppins-Black": require("../assets/fonts/Poppins-Black.ttf"),
     "Poppins-Bold": require("../assets/fonts/Poppins-Bold.ttf"),
