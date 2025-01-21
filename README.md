@@ -17,9 +17,10 @@
 - **Storage**: At least 200 MB of free space
 
 ## Installation and Setup
-1. Download the **Taternik** app from the provided [Google Drive link](#).
-2. Install the app by following the on-screen instructions.
-3. Before launching the app, grant it precise location permissions.
+1. Find the `Taternik.apk` file located in the `UJ project` folder.
+2. Copy the file to your mobile device.
+3. Install the app by following the on-screen instructions.
+4. Before launching the app, grant it precise location permissions.
 
 The application is still in the early stages of development, so it is not yet available in the official store. The author assures about the security of the .apk file provided by him.
 

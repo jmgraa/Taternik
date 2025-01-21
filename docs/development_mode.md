@@ -27,8 +27,8 @@ Navigate to your project directory and install the required dependencies:
 npm install
 ```
 
-### 4. Set Android studio
-After installing Android Studio, run Virtual Device Manager and create a new device (phone with latest android version (API) recommended)
+### 4. Set up Android studio
+Follow the [Expo Tutorial](#https://docs.expo.dev/workflow/android-studio-emulator/).
 
 ### 5. Start the Metro Bundler
 Run the following command to start the Metro bundler:
@@ -36,3 +36,4 @@ Run the following command to start the Metro bundler:
 npx expo run:android
 ```
 This will open the Android emulator and the application installed on it will be displayed.
+In case of errors after applying all steps, restart the application several times or click the available **reload** button. Remember to manually grant location permissions.
