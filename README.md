@@ -57,3 +57,6 @@ The application is still in the early stages of development, so it is not yet av
 
 ### Issue: The user's location is not visible, the view cannot be centered around it.
 - **Solution**: Make sure you have granted location permissions, it is running and you are in the Tatra Mountains
+
+## Docs
+In the `docs` folder there are `development_mode.md` and `design_patterns.md`, which describe how to run the application as a programmer and a list of design patterns used.
