@@ -72,3 +72,8 @@ For example, in the `RoundButtonsContainer` component, the `disabled` prop is pa
 Similarly, the search bar's query state is observed by other components, such as the `SearchList` component, which uses this query to fetch and display relevant data. When the user types in the search bar, the query state is updated, and the `SearchList` component is notified of this change, triggering it to fetch new data.
 
 This indirect use of the Observer Pattern allows components to be loosely coupled, making it easier to manage complex state changes and behaviors. By decoupling the components that need to be notified of changes from the components that trigger those changes, we can create a more modular and scalable architecture.
+
+## Query Object Pattern
+
+The Query Object pattern is a design pattern that encapsulates a query or a set of criteria into an object, making it easier to parameterize and reuse queries.
+In Taternik, Query Object pattern is used in the `TrailSearchService` class. The `getPeakById` method is an example of a query object that encapsulates the query logic for searching peaks by ID. The method takes a `geojson` object and an `id` string as parameters and returns a `Feature<Point, PeakProperties>` object that matches the specified `id`. This method encapsulates the query logic for searching peaks by ID, making it easy to reuse and modify.
